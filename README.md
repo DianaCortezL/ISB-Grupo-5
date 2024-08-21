@@ -7,7 +7,7 @@ Bienvenidos al repositorio del grupo Señales WA del curso Introducción a Seña
 1. [Introducción](#introducción)
 2. [¿Quiénes somos?](#quiénes-somos)
 4. [Objetivos del proyecto](#objetivos-del-proyecto)
-5. [Princiaples hallazgos]
+5. [Princiaples hallazgos](#principales-hallazgos)
 
 ## Introducción
 
