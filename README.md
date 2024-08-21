@@ -12,11 +12,11 @@ Breve descripción del proyecto: No hace nada
 Contenido de la introducción...
 
 ## ¿Quiénes somos?
-Jorge Guillermo Chavez Echajaya - jorge.chaveze@uch.pe
-Rodrigo Italo Llachua Inocente - rodrigo.llachua@upch.pe 
-Diana Isabel Cortez Lopez - diana.cortez@upch.pe
-Alejandra Valeria Chávez Yaranga - alejandra.chavez@upch.pe
-Joaquin Miguel Díaz Lara - joaquin.diazl@upch.pe
+- Jorge Guillermo Chavez Echajaya - jorge.chaveze@upch.pe
+- Rodrigo Italo Llachua Inocente - rodrigo.llachua@upch.pe 
+- Diana Isabel Cortez Lopez - diana.cortez@upch.pe
+- Alejandra Valeria Chávez Yaranga - alejandra.chavez@upch.pe
+- Joaquin Miguel Díaz Lara - joaquin.diazl@upch.pe
 
 ## Wa
 Waaaaaaaa...
