@@ -9,7 +9,7 @@ Breve descripción del proyecto: Introduciendo
 3. [Wa](#uso)
 
 ## Introducción
-Contenido de la introducción...
+Bienvenidos al repositorio del grupo MarvelSignals del curso Introducción a Señales Biomédicas. Somos un equipo de estudiantes de Ingeniería Biomédica de las universidades UPCH y PUCP del semestre 2024-1. 
 
 ## ¿Quiénes somos?
 - Jorge Guillermo Chavez Echajaya - jorge.chaveze@upch.pe
