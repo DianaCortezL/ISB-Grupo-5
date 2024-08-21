@@ -19,6 +19,6 @@ Bienvenidos al repositorio del grupo MarvelSignals del curso Introducción a Se�
 - Joaquin Miguel Díaz Lara - joaquin.diazl@upch.pe
 
 ## Wa
-Waaaaaaaa...
+Waaaaaaaa...aaa
 
 
