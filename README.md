@@ -19,6 +19,6 @@ Contenido de la introducción...
 - Joaquin Miguel Díaz Lara - joaquin.diazl@upch.pe
 
 ## Wa
-Waaaaaaaa...
+Waaaaaaaa...aaa
 
 
