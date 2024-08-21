@@ -1,6 +1,6 @@
 # SEÑALES WA
 
-Breve descripción del proyecto: No hace nada
+Breve descripción del proyecto: Introduciendo
 
 ## Tabla de Contenido
 
