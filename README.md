@@ -6,7 +6,8 @@ Bienvenidos al repositorio del grupo Señales WA del curso Introducción a Seña
 
 1. [Introducción](#introducción)
 2. [¿Quiénes somos?](#quiénes-somos)
-3. [Objetivos del proyecto](#objetivos-del-proyecto)
+4. [Objetivos del proyecto](#objetivos-del-proyecto)
+5. [Princiaples hallazgos]
 
 ## Introducción
 
@@ -25,3 +26,9 @@ El equipo Señales WA está compuesto por estudiantes apasionados de la Ingenier
 ## Objetivos del proyecto
 
 El principal objetivo de nuestro proyecto es desarrollar un entendimiento profundo de las señales biomédicas mediante la realización de experimentos prácticos, análisis de datos y desarrollo de soluciones innovadoras. Buscamos aplicar este conocimiento en la mejora de tecnologías de salud y en la contribución a la comunidad científica y académica.
+
+## Principales hallazgos
+
+## Referencias
+
+## Docentes del curso
