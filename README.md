@@ -32,3 +32,8 @@ El principal objetivo de nuestro proyecto es desarrollar un entendimiento profun
 ## Referencias
 
 ## Docentes del curso
+
+1. Lewis De la Cruz Rodriguez** - umbert.de.la.cruz@upch.pe
+2. Moises Meza Rodriguez** - moises.meza@upch.pe
+4. Jose Alonso Cáceres del Aguila** - jose.caceres.d@upch.pe
+
