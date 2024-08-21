@@ -33,7 +33,7 @@ El principal objetivo de nuestro proyecto es desarrollar un entendimiento profun
 
 ## Docentes del curso
 
-1. Umbert Lewis De la Cruz Rodriguez - umbert.de.la.cruz@upch.pe
-2. Moises Stevend Meza Rodriguez - moises.meza@upch.pe
-4. Jose Alonso Cáceres del Aguila - jose.caceres.d@upch.pe
+- **Umbert Lewis De la Cruz Rodriguez** - umbert.de.la.cruz@upch.pe
+- **Moises Stevend Meza Rodriguez** - moises.meza@upch.pe
+- **Jose Alonso Cáceres del Aguila** - jose.caceres.d@upch.pe
 
