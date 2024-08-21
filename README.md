@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ceme.nust.edu.pk/wp-content/uploads/2020/08/Biomedical-Signals-and-Systems-BSS-Research-Group-3.png" alt="img principal" width="900" height="130"/>
+</p>
+
 # Señales WA
 
 Bienvenidos al repositorio del grupo Señales WA del curso Introducción a Señales Biomédicas. Este proyecto es llevado a cabo por un equipo de estudiantes de Ingeniería Biomédica de las universidades UPCH y PUCP durante el semestre 2024-1.
