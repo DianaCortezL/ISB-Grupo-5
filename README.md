@@ -23,7 +23,6 @@ El equipo Señales WA está compuesto por estudiantes apasionados de la Ingenier
 
 - **Jorge Guillermo Chavez Echajaya** - jorge.chaveze@upch.pe
 - **Rodrigo Italo Llachua Inocente** - rodrigo.llachua@upch.pe 
-![gato](Imagenes/gato.jpeg)
 - **Diana Isabel Cortez Lopez** - diana.cortez@upch.pe
 - **Alejandra Valeria Chávez Yaranga** - alejandra.chavez@upch.pe
 - **Joaquin Miguel Díaz Lara** - joaquin.diazl@upch.pe
