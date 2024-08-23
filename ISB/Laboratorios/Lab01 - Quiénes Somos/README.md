@@ -12,7 +12,7 @@ Alumno de 9no ciclo de la carrera de Ingeniería Biomédica PUCP-UPCH. Mi área 
 
 Contacto: alejandra.chavez@upch.pe
 
-![foto_grupal](../../../Documentación\Imagenes\Val_photo.jpeg)
+![Val_photo](../../../Documentación\Imagenes\Val_photo.jpeg)
 
 ## Diana Isabel Cortez López
 Completen
@@ -26,11 +26,11 @@ Completen
 
 Contacto: joaquin.diaz.l@upch.pe
 
-![foto_grupal](../../../Documentación\Imagenes\Joaquin_photo.jpeg)
+![Joaquin_photo](../../../Documentación\Imagenes\Joaquin_photo.jpeg)
 
 ## Rodrigo Italo Llachua Inocente  
 Completen
 
 Contacto: rodrigo.llachua@upch.pe
 
-![foto_grupal](../../../Documentación\Imagenes\Rodrigo_photo.jpeg)
+![Rodrigo_photo](../../../Documentación\Imagenes\Rodrigo_photo.jpeg)
