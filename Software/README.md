@@ -1,3 +1,3 @@
 # Nuestro código
-En esta sección encontrarás el código de nuestro proyecto.
+En esta sección encontrarás el código desarrollado de nuestro proyecto.
 

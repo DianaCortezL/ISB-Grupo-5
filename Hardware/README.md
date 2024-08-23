@@ -1,3 +1,3 @@
 # Hardware
-En esta sección encontrarás el hardware de nuestro proyecto.
+En esta sección encontrarás el hardware usado para nuestro proyecto.
 
