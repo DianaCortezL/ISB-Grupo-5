@@ -27,7 +27,7 @@ El equipo Señales Maravilla está compuesto por estudiantes apasionados de la I
 - **Alejandra Valeria Chávez Yaranga** - alejandra.chavez@upch.pe
 - **Joaquin Miguel Díaz Lara** - joaquin.diazl@upch.pe
 
-![foto_grupal](Imagenes/foto_grupal.jpg)
+![foto_grupal](Documentación/Imagenes/foto_grupal.jpg)
 
 [Más sobre nosotros](ISB/Laboratorios/Lab01%20-%20Quiénes%20Somos/README.md)
 
