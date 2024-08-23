@@ -1,3 +1,3 @@
-# doc
-En esta sección encontrarás la documentación de laboratorios de nuestro proyecto.
+# ISB
+En esta sección encontrarás documentos solicitados de nuestro proyecto relacionados al curso Introducción a Señales Biomédicas.
 
