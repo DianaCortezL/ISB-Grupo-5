@@ -8,11 +8,11 @@ Contacto: jorge.chaveze@upch.pe
 ![foto_grupal](../../../Documentación/Imagenes/foto_grupal.jpg)
 
 ## Alejandra Valeria Chavez Yaranga
-Alumno de 9no ciclo de la carrera de Ingeniería Biomédica PUCP-UPCH. Mi área de interes es la ingeniería biomecanica y el desarrollo de tecnologias en realdad virtual.
+Alumno de 9no ciclo de la carrera de Ingeniería Biomédica PUCP-UPCH. Mi área de interés es la ingeniería biomecánica y el desarrollo de tecnologías en realidad virtual.
 
-Contacto: alejandra.chavez@upch.pe
+Contacto: [alejandra.chavez@upch.pe](mailto:alejandra.chavez@upch.pe)
 
-![Val_photo](../../../Documentación/Imagenes/Val_photo.jpeg)
+<img src="../../../../Imagenes/Val_photo.jpeg" alt="Val_photo" width="300"/>
 
 ## Diana Isabel Cortez López
 Completen
