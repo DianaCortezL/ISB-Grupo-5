@@ -12,7 +12,7 @@ Alumno de 9no ciclo de la carrera de Ingeniería Biomédica PUCP-UPCH. Mi área 
 
 Contacto: [alejandra.chavez@upch.pe](mailto:alejandra.chavez@upch.pe)
 
-<img src="../../../../Imagenes/Val_photo.jpeg" alt="Val_photo" width="300"/>
+<img src="../../../Documentación/Imagenes/Val_photo.jpeg" alt="Val_photo" width="300"/>
 
 ## Diana Isabel Cortez López
 Completen
