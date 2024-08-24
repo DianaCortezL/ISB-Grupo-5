@@ -3,9 +3,9 @@
 ## Jorge Guillemo Chavez Echajaya
 Alumno de 9no ciclo de la carrera de Ingeniería Biomédica PUCP-UPCH. Mi área de interes es la ingeniería biomecanica y el desarrollo de tecnologias en realdad virtual.
 
-Contacto: jorge.chaveze@upch.pe
+Contacto: [jorge.chavez.e@upch.pe](mailto:jorge.chavez.e@upch.pe)
 
-![foto_grupal](../../../Documentación/Imagenes/foto_grupal.jpg)
+<img src="../../../Documentación/Imagenes/foto_grupal.jpg" alt="foto_grupal" width="300"/>
 
 ## Alejandra Valeria Chavez Yaranga
 Alumno de 9no ciclo de la carrera de Ingeniería Biomédica PUCP-UPCH. Mi área de interés es la ingeniería biomecánica y el desarrollo de tecnologías en realidad virtual.
@@ -17,20 +17,20 @@ Contacto: [alejandra.chavez@upch.pe](mailto:alejandra.chavez@upch.pe)
 ## Diana Isabel Cortez López
 Completen
 
-Contacto: diana.cortez@upch.pe
+Contacto: [diana.cortez@upch.pe](mailto:diana.cortez@upch.pe)
 
-![foto_grupal](../../../Documentación/Imagenes/foto_grupal.jpg)
+<img src="../../../Documentación/Imagenes/foto_grupal.jpg" alt="foto_grupal" width="300"/>
 
 ## Joaquín Miguel Díaz Lara
 Completen
 
-Contacto: joaquin.diaz.l@upch.pe
+Contacto: [joaquin.diaz.l@upch.pe](mailto:joaquin.diaz.l@upch.pe)
 
-![Joaquin_photo](../../../Documentación/Imagenes/Joaquin_photo.jpeg)
+<img src="../../../Documentación/Imagenes/Joaquin_photo.jpeg" alt="Joaquin_photo" width="300"/>
 
 ## Rodrigo Italo Llachua Inocente  
 Completen
 
-Contacto: rodrigo.llachua@upch.pe
+Contacto: [rodrigo.llachua@upch.pe](mailto:rodrigo.llachua@upch.pe)
 
-![Rodrigo_photo](../../../Documentación/Imagenes/Rodrigo_photo.jpeg)
+<img src="../../../Documentación/Imagenes/Rodrigo_photo.jpeg" alt="Rodrigo_photo" width="300"/>
