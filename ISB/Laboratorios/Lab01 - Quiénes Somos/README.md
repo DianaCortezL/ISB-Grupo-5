@@ -15,7 +15,8 @@ Contacto: [alejandra.chavez@upch.pe](mailto:alejandra.chavez@upch.pe)
 <img src="../../../Documentación/Imagenes/Val_photo.jpeg" alt="Val_photo" width="300"/>
 
 ## Diana Isabel Cortez López
-Completen
+Estudiante de 8vo cilo de la carrera de Ingeniería Biomédica, practicante en docencia UPCH y pasante de Ingeniería Clínica en PUCP. 
+Área de interés: Tecnología médica neonatal y perinatal
 
 Contacto: [diana.cortez@upch.pe](mailto:diana.cortez@upch.pe)
 
