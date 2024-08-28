@@ -1,24 +1,27 @@
-# SEÑALES WA
+# Señales WA
 
-Breve descripción del proyecto: No hace nada
+Bienvenidos al repositorio del grupo Señales WA del curso Introducción a Señales Biomédicas. Este proyecto es llevado a cabo por un equipo de estudiantes de Ingeniería Biomédica de las universidades UPCH y PUCP durante el semestre 2024-1.
 
-## Tabla de Contenido
+## Tabla de Contenidos
 
 1. [Introducción](#introducción)
-2. [¿Quiénes somos?](#instalación)
-3. [Wa](#uso)
+2. [¿Quiénes somos?](#quiénes-somos)
+3. [Objetivos del proyecto](#objetivos-del-proyecto)
 
 ## Introducción
-Contenido de la introducción...
+
+Este repositorio contiene todos los materiales, códigos y documentación desarrollados como parte de nuestro estudio y análisis en el curso de Introducción a Señales Biomédicas. Nuestro objetivo es explorar, aprender y contribuir activamente en el campo de las señales biomédicas a través de proyectos prácticos y colaborativos.
 
 ## ¿Quiénes somos?
-- Jorge Guillermo Chavez Echajaya - jorge.chavez.e@upch.pe
-- Rodrigo Italo Llachua Inocente - rodrigo.llachua@upch.pe 
-- Diana Isabel Cortez Lopez - diana.cortez@upch.pe
-- Alejandra Valeria Chávez Yaranga - alejandra.chavez@upch.pe
-- Joaquin Miguel Díaz Lara - joaquin.diaz.l@upch.pe
 
-## Wa
-Waaaaaaaa...
+El equipo Señales WA está compuesto por estudiantes apasionados de la Ingeniería Biomédica, dedicados a la aplicación práctica de teorías y técnicas en el análisis de señales biomédicas. Aquí están los miembros de nuestro equipo:
 
+- **Jorge Guillermo Chavez Echajaya** - jorge.chaveze@upch.pe
+- **Rodrigo Italo Llachua Inocente** - rodrigo.llachua@upch.pe 
+- **Diana Isabel Cortez Lopez** - diana.cortez@upch.pe
+- **Alejandra Valeria Chávez Yaranga** - alejandra.chavez@upch.pe
+- **Joaquin Miguel Díaz Lara** - joaquin.diazl@upch.pe
 
+## Objetivos del proyecto
+
+El principal objetivo de nuestro proyecto es desarrollar un entendimiento profundo de las señales biomédicas mediante la realización de experimentos prácticos, análisis de datos y desarrollo de soluciones innovadoras. Buscamos aplicar este conocimiento en la mejora de tecnologías de salud y en la contribución a la comunidad científica y académica.
