@@ -20,7 +20,7 @@ Estudiante de 8vo ciclo de la carrera de Ingeniería Biomédica, practicante en 
 
 Contacto: [diana.cortez@upch.pe](mailto:diana.cortez@upch.pe)
 
-<img src="../../../Documentación/Imagenes/foto_grupal.jpg" alt="foto_grupal" width="300"/>
+<img src="../../../Documentación/Imagenes/foto_grupal.jpg" alt="Diana_photo" width="300"/>
 
 ## Joaquín Miguel Díaz Lara
 Estudiante de 8vo ciclo de la carrera de Ingeniería Biomédica. Mi área de interés es ingeniería clínica e ingeniería de tejidos y biomateriales
