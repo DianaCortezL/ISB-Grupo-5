@@ -6,6 +6,7 @@
 2. [Materiales y equipos](#id3)
 3. [Resultados](#id4)
 4. [Conclusiones](#id5)
+5. [Referencias bibliográficas](#id6)
 
 ## **Introducción** <a name="id1"></a>
 Mencionar electricidad miografica
@@ -58,3 +59,5 @@ Esfuerzo
 Sobreesfuerzo
 
 ## **Conclusiones** <a name="id5"></a>
+
+## **Referencias bibliográficas** <a name="id6"></a>
