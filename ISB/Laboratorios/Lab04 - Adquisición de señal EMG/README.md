@@ -4,8 +4,8 @@
 1. [Introducción](#id1)
 2. [Objetivos](#id2)
 2. [Materiales y equipos](#id3)
-3. [Resultados](#id4)\
-4. [Conclusiones](#id5)\
+3. [Resultados](#id4)
+4. [Conclusiones](#id5)
 
 ## **Introducción** <a name="id1"></a>
 Mencionar electricidad miografica
@@ -25,6 +25,8 @@ Aplicaciones de EMG y uso
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
+|       -      |    Electrodos superficiales   |       3      |
+
 
 </div>
 
@@ -55,4 +57,4 @@ Reposo
 Esfuerzo
 Sobreesfuerzo
 
-## **Conclusiones** <a name="id4"></a>
+## **Conclusiones** <a name="id5"></a>
