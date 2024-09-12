@@ -3,10 +3,15 @@
 
 1. [Introducción](#id1)
 2. [Objetivos](#id2)
-2. [Materiales y equipos](#id3)
-3. [Resultados](#id4)
-4. [Conclusiones](#id5)
-5. [Referencias bibliográficas](#id6)
+3. [Materiales y equipos](#id3)
+4. [Resultados](#id4)\
+   4.1 [Conexión usada](#id5)\
+   4.2 [Prueba 1: Bícep brachii](#id6)\
+   4.3 [Prueba 2: Músculo aductor del pulgar](#id7)\
+   4.4 [Prueba 3: Músculo gastrocnemio](#id8)\
+   4.5 [Prueba 4: Tricep braquial](#id9)
+6. [Conclusiones](#id10)
+6. [Referencias bibliográficas](#id11)
 
 ## **Introducción** <a name="id1"></a>
 Mencionar electricidad miografica
@@ -36,28 +41,30 @@ Aplicaciones de EMG y uso
 </p>
 
 ## **Resultados** <a name="id4"></a>
-1. Bicep brachii
+### **Conexión usada** <a name="id5"></a>
+
+### **Prueba 1: Bícep brachii** <a name="id6"></a>
 Domino del tiempo y de la freq
 Reposo
 Esfuerzo
 Sobreesfuerzo
 
-2. musculo aductor del pulgar
+### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
 Zona eminencia tenar
 Reposo
 Esfuerzo
 Sobreesfuerzo
 
-3. Músculo gastrocnemio
+### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
 Reposo
 Esfuerzo
 Sobreesfuerzo
 
-4. Tricep Braquial
+### **Prueba 3: Tricep Braquial** <a name="id9"></a>
 Reposo
 Esfuerzo
 Sobreesfuerzo
 
-## **Conclusiones** <a name="id5"></a>
+## **Conclusiones** <a name="id10"></a>
 
-## **Referencias bibliográficas** <a name="id6"></a>
+## **Referencias bibliográficas** <a name="id11"></a>
