@@ -1,11 +1,18 @@
-# **LABORATORIO 3: – USO DE BITalino PARA EMG**
+# **LABORATORIO 4: – USO DE BITalino PARA EMG**
 # **Tabla de contenidos**
 
 1. [Introducción](#id1)
 2. [Objetivos](#id2)
-2. [Materiales y equipos](#id3)
-3. [Resultados](#id4)\
-4. [Conclusiones](#id5)\
+3. [Materiales y equipos](#id3)
+4. [Resultados](#id4)\
+   4.1 [Conexión usada](#id5)\
+   4.2 [Prueba 1: Bícep brachii](#id6)\
+   4.3 [Prueba 2: Músculo aductor del pulgar](#id7)\
+   4.4 [Prueba 3: Músculo gastrocnemio](#id8)\
+   4.5 [Prueba 4: Tricep braquial](#id9)\
+   4.6 [Archivos utilizados](#id10)
+6. [Conclusiones](#id11)
+6. [Referencias bibliográficas](#id12)
 
 ## **Introducción** <a name="id1"></a>
 Mencionar electricidad miografica
@@ -25,6 +32,8 @@ Aplicaciones de EMG y uso
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
+|       -      |    Electrodos superficiales   |       3      |
+
 
 </div>
 
@@ -33,26 +42,89 @@ Aplicaciones de EMG y uso
 </p>
 
 ## **Resultados** <a name="id4"></a>
-1. Bicep brachii
-Domino del tiempo y de la freq
-Reposo
-Esfuerzo
-Sobreesfuerzo
+### **Conexión usada** <a name="id5"></a>
 
-2. musculo aductor del pulgar
-Zona eminencia tenar
-Reposo
-Esfuerzo
-Sobreesfuerzo
+### **Prueba 1: Bícep brachii** <a name="id6"></a>
+Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 
-3. Músculo gastrocnemio
-Reposo
-Esfuerzo
-Sobreesfuerzo
+<div align="center">
+   
+|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|:------------:|:---------------:|:------------:|
+|<video src="https://user-images.githubusercontent.com/62686249/231337697-050966ab-cd84-454a-b6eb-9ab720da62cd.mp4"></video>|<video src="https://user-images.githubusercontent.com/62686249/231337782-f487bdb1-d614-4010-8caa-26c267cba7f6.mp4"></video>|<video src= "https://user-images.githubusercontent.com/62686249/231337918-3db1b3f2-4e32-4e3c-bb6f-f8fb607a03d2.mp4"></video>|
 
-4. Tricep Braquial
-Reposo
-Esfuerzo
-Sobreesfuerzo
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
 
-## **Conclusiones** <a name="id4"></a>
+</div>
+
+- ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+   A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
+   - Reposo
+   - Esfuerzo
+   - Sobreesfuerzo con oposición
+
+
+### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
+Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+
+<div align="center">
+   
+|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|:------------:|:---------------:|:------------:|
+|<video src="https://user-images.githubusercontent.com/62686249/231337697-050966ab-cd84-454a-b6eb-9ab720da62cd.mp4"></video>|<video src="https://user-images.githubusercontent.com/62686249/231337782-f487bdb1-d614-4010-8caa-26c267cba7f6.mp4"></video>|<video src= "https://user-images.githubusercontent.com/62686249/231337918-3db1b3f2-4e32-4e3c-bb6f-f8fb607a03d2.mp4"></video>|
+
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
+</div>
+
+- ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+   A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
+   - Reposo
+   - Esfuerzo
+   - Sobreesfuerzo con oposición
+
+
+### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
+Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+
+<div align="center">
+   
+|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|:------------:|:---------------:|:------------:|
+|<video src="https://user-images.githubusercontent.com/62686249/231337697-050966ab-cd84-454a-b6eb-9ab720da62cd.mp4"></video>|<video src="https://user-images.githubusercontent.com/62686249/231337782-f487bdb1-d614-4010-8caa-26c267cba7f6.mp4"></video>|<video src= "https://user-images.githubusercontent.com/62686249/231337918-3db1b3f2-4e32-4e3c-bb6f-f8fb607a03d2.mp4"></video>|
+
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
+
+</div>
+
+- ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+   A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
+   - Reposo
+   - Esfuerzo
+   - Sobreesfuerzo con oposición
+     
+### **Prueba 4: Tricep Braquial** <a name="id9"></a>
+Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+
+<div align="center">
+   
+|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|:------------:|:---------------:|:------------:|
+|<video src="https://user-images.githubusercontent.com/62686249/231337697-050966ab-cd84-454a-b6eb-9ab720da62cd.mp4"></video>|<video src="https://user-images.githubusercontent.com/62686249/231337782-f487bdb1-d614-4010-8caa-26c267cba7f6.mp4"></video>|<video src= "https://user-images.githubusercontent.com/62686249/231337918-3db1b3f2-4e32-4e3c-bb6f-f8fb607a03d2.mp4"></video>|
+
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
+
+</div>
+
+- ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+   A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
+   - Reposo
+   - Esfuerzo
+   - Sobreesfuerzo con oposición
+
+### **Archivos** <a name="id10"></a>
+- [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Documentos/BiTalino)
+- [Programa de ploteo (Jupyter Notebook)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/Programaci%C3%B3n/Laboratorio%203/SignalPlot.ipynb)
+
+## **Conclusiones** <a name="id11"></a>
+
+## **Referencias bibliográficas** <a name="id12"></a>
