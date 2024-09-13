@@ -112,6 +112,9 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
      
 ### **Prueba 4: Tricep Braquial** <a name="id9"></a>
 Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/triceps.jpg" width="400" height="500"></p>
+</p>
 
 <div align="center">
    
