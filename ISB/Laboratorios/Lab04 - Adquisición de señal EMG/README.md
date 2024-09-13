@@ -68,8 +68,8 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
-   - Esfuerzo
-   - Sobreesfuerzo con oposición
+   - Sin oposición
+   - Con oposición
 
 
 ### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
@@ -90,8 +90,8 @@ Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese g
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
-   - Esfuerzo
-   - Sobreesfuerzo con oposición
+   - Sin oposición
+   - Con oposición
 
 
 ### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
@@ -114,7 +114,7 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
    - Esfuerzo
-   - Sobreesfuerzo con oposición
+   - Sobreesfuerzo sin oposición
      
 ### **Prueba 4: Tricep Braquial** <a name="id9"></a>
 Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
@@ -136,7 +136,7 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
    - Esfuerzo
-   - Sobreesfuerzo con oposición
+   - Sobreesfuerzo sin oposición
 
 ### **Archivos** <a name="id10"></a>
 - [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Documentos/BiTalino)
