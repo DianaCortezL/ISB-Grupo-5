@@ -118,7 +118,7 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
 
 <div align="center">
    
-|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo sin oposición** |
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/3d2e256b-1b0b-45e6-881a-7c67814c92b9.mp4"></video>|<video src="https://user-images.githubusercontent.com/c606cd01-5a08-4b8c-a946-48103dcaaec7.mp4"></video>|<video src= "https://user-images.githubusercontent.com/d8ca2d70-d802-41ab-8d84-04cf8d5b42a7.mp4"></video>|
 
