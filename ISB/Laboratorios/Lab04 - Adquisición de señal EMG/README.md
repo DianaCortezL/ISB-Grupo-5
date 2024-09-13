@@ -54,7 +54,7 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 
 <div align="center">
    
-|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|  **Reposo**  | **Sin oposición** | **Con oposición** |
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/b49875f0-82ef-4d27-a2aa-e8e5e6103e9a.mp4"></video>|<video src="https://user-images.githubusercontent.com/092f3871-e25f-4d7b-a778-03641931fcaf.mp4"></video>|<video src= "https://user-images.githubusercontent.com/36d881ed-29d1-4178-844e-4b9741314f90.mp4"></video>|
 
