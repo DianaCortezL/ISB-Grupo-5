@@ -11,7 +11,7 @@
    4.4 [Prueba 3: Músculo gastrocnemio](#id8)\
    4.5 [Prueba 4: Tricep braquial](#id9)\
    4.6 [Archivos utilizados](#id10)
-6. [Conclusiones](#id11)
+6. [Conclusiones y recomendaciones](#id11)
 6. [Referencias bibliográficas](#id12)
 
 ## **Introducción** <a name="id1"></a>
@@ -142,6 +142,6 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
 - [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Documentos/BiTalino)
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/Programaci%C3%B3n/Laboratorio%203/SignalPlot.ipynb)
 
-## **Conclusiones** <a name="id11"></a>
+## **Conclusiones y recomendaciones** <a name="id11"></a>
 
 ## **Referencias bibliográficas** <a name="id12"></a>
