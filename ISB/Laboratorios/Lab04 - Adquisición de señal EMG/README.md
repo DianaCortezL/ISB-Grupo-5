@@ -51,6 +51,9 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 
 ### **Prueba 1: Bícep brachii** <a name="id6"></a>
 Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps1.jpg" width="600" height="300"></p>
+</p>
 
 <div align="center">
    
