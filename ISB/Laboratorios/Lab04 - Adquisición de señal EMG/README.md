@@ -59,7 +59,7 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
-   - Repooso
+   - Reposo
    - Esfuerzo
    - Sobreesfuerzo con oposición
 
@@ -78,7 +78,7 @@ Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese g
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
-   - Repooso
+   - Reposo
    - Esfuerzo
    - Sobreesfuerzo con oposición
 
@@ -98,7 +98,7 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
-   - Repooso
+   - Reposo
    - Esfuerzo
    - Sobreesfuerzo con oposición
      
@@ -117,7 +117,7 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
-   - Repooso
+   - Reposo
    - Esfuerzo
    - Sobreesfuerzo con oposición
 
