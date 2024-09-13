@@ -11,7 +11,7 @@
    4.4 [Prueba 3: Músculo gastrocnemio](#id8)\
    4.5 [Prueba 4: Tricep braquial](#id9)\
    4.6 [Archivos utilizados](#id10)
-6. [Conclusiones](#id11)
+6. [Conclusiones y recomendaciones](#id11)
 6. [Referencias bibliográficas](#id12)
 
 ## **Introducción** <a name="id1"></a>
@@ -68,27 +68,30 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
-   - Esfuerzo
-   - Sobreesfuerzo con oposición
+   - Sin oposición
+   - Con oposición
 
 
 ### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
 Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/aductor pulgar.jpg" width="650" height="250"></p>
+</p>
 
 <div align="center">
    
-|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|  **Reposo**  | **Sin oposición** | **Con oposición** |
 |:------------:|:---------------:|:------------:|
-|<video src="https://user-images.githubusercontent.com/62686249/231337697-050966ab-cd84-454a-b6eb-9ab720da62cd.mp4"></video>|<video src="https://user-images.githubusercontent.com/62686249/231337782-f487bdb1-d614-4010-8caa-26c267cba7f6.mp4"></video>|<video src= "https://user-images.githubusercontent.com/62686249/231337918-3db1b3f2-4e32-4e3c-bb6f-f8fb607a03d2.mp4"></video>|
+|<video src="https://user-images.githubusercontent.com/67a14538-64fe-4a2a-a8d6-a3e4a3f076d5.mp4"></video>|<video src="https://user-images.githubusercontent.com/af3715f6-c9ae-4d9e-88d6-e9c4592ccc69.mp4"></video>|<video src= "https://user-images.githubusercontent.com/077e5478-1f01-4cbe-a1b1-619135a5ab11.mp4"></video>|
 
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
+[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLKyz-4YrUo3R1rk6B5YFyBnburL7kmY8D)
 </div>
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
-   - Esfuerzo
-   - Sobreesfuerzo con oposición
+   - Sin oposición
+   - Con oposición
 
 
 ### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
@@ -99,7 +102,7 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
 
 <div align="center">
    
-|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo sin oposición** |
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/27d392ad-a041-4e54-8f90-0a6b14e80f0f.mp4"></video>|<video src="https://user-images.githubusercontent.com/75a6c4f4-0524-44a8-b6da-cfe3df00bb69.mp4"></video>|<video src= "https://user-images.githubusercontent.com/68bb1c7a-39ac-415c-a21c-0ae45fc841b5.mp4"></video>|
 
@@ -111,7 +114,7 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
    - Esfuerzo
-   - Sobreesfuerzo con oposición
+   - Sobreesfuerzo sin oposición
      
 ### **Prueba 4: Tricep Braquial** <a name="id9"></a>
 Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
@@ -133,12 +136,12 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
    - Esfuerzo
-   - Sobreesfuerzo con oposición
+   - Sobreesfuerzo sin oposición
 
 ### **Archivos** <a name="id10"></a>
 - [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Documentos/BiTalino)
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/Programaci%C3%B3n/Laboratorio%203/SignalPlot.ipynb)
 
-## **Conclusiones** <a name="id11"></a>
+## **Conclusiones y recomendaciones** <a name="id11"></a>
 
 ## **Referencias bibliográficas** <a name="id12"></a>
