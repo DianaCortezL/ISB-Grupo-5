@@ -38,7 +38,7 @@ Aplicaciones de EMG y uso
 </div>
 
 <p align="justify">
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/Bitalino/working1.jpeg" width="400" height="266"></p>
+<p align="center"><img src="Otros/Imagenes/Lab4_EMG/image_materiales.jpg" width="400" height="266"></p>
 </p>
 
 ## **Resultados** <a name="id4"></a>
