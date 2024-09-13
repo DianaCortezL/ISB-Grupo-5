@@ -81,7 +81,7 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 
 <div align="center">
    
-|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|  **Reposo**  | **Sin oposición** | **Con oposición** |
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/67a14538-64fe-4a2a-a8d6-a3e4a3f076d5.mp4"></video>|<video src="https://user-images.githubusercontent.com/af3715f6-c9ae-4d9e-88d6-e9c4592ccc69.mp4"></video>|<video src= "https://user-images.githubusercontent.com/077e5478-1f01-4cbe-a1b1-619135a5ab11.mp4"></video>|
 
@@ -103,7 +103,7 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
 
 <div align="center">
    
-|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
+|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo sin oposición** |
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/27d392ad-a041-4e54-8f90-0a6b14e80f0f.mp4"></video>|<video src="https://user-images.githubusercontent.com/75a6c4f4-0524-44a8-b6da-cfe3df00bb69.mp4"></video>|<video src= "https://user-images.githubusercontent.com/68bb1c7a-39ac-415c-a21c-0ae45fc841b5.mp4"></video>|
 
