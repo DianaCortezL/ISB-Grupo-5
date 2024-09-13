@@ -74,7 +74,6 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 
 ### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
 Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
-Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/aductor pulgar.jpg" width="650" height="250"></p>
 </p>
