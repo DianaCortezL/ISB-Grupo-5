@@ -15,15 +15,14 @@
 6. [Referencias bibliográficas](#id12)
 
 ## **Introducción** <a name="id1"></a>
-Mencionar electricidad miografica
-Aplicaciones de EMG y uso
+La señal electromi
 
 
 ## **Objetivos** <a name="id2"></a>
-
 * Adquirir señales biomédicas de EMG.
 * Hacer una correcta configuración de BiTalino.
-* Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolution
+* Extraer la información de las señales EMG del software OpenSignals (r)evolution
+* Plotear las señales en dominio del tiempo y frecuencia en Python
 
 ## **Materiales y equipos** <a name="id3"></a>
 <div align="center">
@@ -70,7 +69,7 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
    - Reposo
    - Sin oposición
    - Con oposición
-
+(Resumen y explicación de la señal ploteada)
 
 ### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
 Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
@@ -92,7 +91,7 @@ Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese g
    - Reposo
    - Sin oposición
    - Con oposición
-
+(Resumen y explicación de la señal ploteada)
 
 ### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
 Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
@@ -115,6 +114,7 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
    - Reposo
    - Esfuerzo
    - Sobreesfuerzo sin oposición
+(Resumen y explicación de la señal ploteada)
      
 ### **Prueba 4: Tricep Braquial** <a name="id9"></a>
 Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
@@ -138,10 +138,14 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
    - Esfuerzo
    - Sobreesfuerzo sin oposición
 
+
 ### **Archivos** <a name="id10"></a>
 - [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Documentos/BiTalino)
-- [Programa de ploteo (Jupyter Notebook)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/Programaci%C3%B3n/Laboratorio%203/SignalPlot.ipynb)
+- [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/be9da5dae231d9adf809ada70db73281b355ea1a/ISB/Laboratorios/Lab04%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20EMG/LabEMG.ipynb)
 
 ## **Conclusiones y recomendaciones** <a name="id11"></a>
 
 ## **Referencias bibliográficas** <a name="id12"></a>
+[1]
+[2]
+[3]
