@@ -56,7 +56,7 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
    
 |  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo con oposición** |
 |:------------:|:---------------:|:------------:|
-|<video src="https://user-images.githubusercontent.com/36d881ed-29d1-4178-844e-4b9741314f90.mp4"></video>|<video src="https://user-images.githubusercontent.com/62686249/231337782-f487bdb1-d614-4010-8caa-26c267cba7f6.mp4"></video>|<video src= "https://user-images.githubusercontent.com/62686249/231337918-3db1b3f2-4e32-4e3c-bb6f-f8fb607a03d2.mp4"></video>|
+|<video src="https://user-images.githubusercontent.com/b49875f0-82ef-4d27-a2aa-e8e5e6103e9a.mp4"></video>|<video src="https://user-images.githubusercontent.com/092f3871-e25f-4d7b-a778-03641931fcaf.mp4"></video>|<video src= "https://user-images.githubusercontent.com/36d881ed-29d1-4178-844e-4b9741314f90.mp4"></video>|
 
 [<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
 
