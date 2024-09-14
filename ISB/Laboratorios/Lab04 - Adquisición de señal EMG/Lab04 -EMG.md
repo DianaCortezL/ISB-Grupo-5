@@ -52,7 +52,7 @@ En el presente laboratorio, se utilizará la plataforma BITalino para poder **ad
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/image_materiales.jpg" width="400" height="266"></p>
-<div align="center">Figura 2: TEXTO</i></div>
+<div align="center">Figura 2: Kit BITalino y electrodos de superficie</i></div>
 </p>
 
 
@@ -61,7 +61,7 @@ En el presente laboratorio, se utilizará la plataforma BITalino para poder **ad
 Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
-<div align="center">Figura 3: TEXTO</i></div>
+<div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
 </p>
 
 
