@@ -15,8 +15,17 @@
 6. [Referencias bibliográficas](#id12)
 
 ## **Introducción** <a name="id1"></a>
-La señal electromi
+La señal electromiográficas (EMG) es una representación del campo de potencial eléctrico generado por la despolarización de la membrana externa de la fibra muscular (sarcolema). La señal EMG es generada por la actividad eléctrica de las fibras musculares durante una contracción. Las fuentes de la señal son las zonas de despolarización y repolarización de las fibras musculares [1]. El rango de amplitud de la señal EMG es de 0 a 10 mV (+5 a -5) antes de la amplificación [2]. La señal EMG tiene muchas aplicaciones en dispositivos de rehabilitación o prostéticos, ciencias del deporte y neurofisiología [3].
 
+Para detectar esta señal se utilizan:
+- **Electrodos intrsmusculares o de aguja**: método invasivo donde un electrodo de aguja se introduce directamente en el músculo. La inserción directa en el músculo permite la detección de potenciales eléctricos muy cerca de la fuente. Es un método más preciso y menos susceptible a interferencias.  
+- **Electrodos superficiales (sEMG)**: método no invasivo donde se colocan electrodos de superfice sobre la piel, directamente en los músculos que se desea estudiar. Es un método fácil de realizar; sin embargo, es limitante solo a músculos superficiales y puede ser generar interferencias con la piel, músculos adyacentes o ruido eléctrico.
+
+Concepto de potencial de acción de la unidad motora (MUAP) en sEMG [3]
+
+
+
+En el presente laboratorio, se utilizará la plataforma BITalino para poder **adquirir señal de EMG mediante electrodos de superficie (sEMG) de 4 músculos distintos: bícep brachii, músculo aductor del pulgar, músculo gastrocnemio y tricep braquial**. Para cada músculo se relizará prueba en 3 diferentes movimientos (reposo, sin oposición, con oposición), se obtendrán las señales y se graficarán en Python para su visualización y discusión.
 
 ## **Objetivos** <a name="id2"></a>
 * Adquirir señales biomédicas de EMG.
@@ -32,6 +41,7 @@ La señal electromi
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
 |       -      |    Electrodos superficiales   |       3      |
+<div align="center"> Tabla 1: Materiales y equipos</i></div>
 
 
 </div>
