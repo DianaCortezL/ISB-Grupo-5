@@ -86,6 +86,9 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
+     <p align="justify">
+      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_reposo.jpg" width="650" height="500"></p>
+      </p>
    - Sin oposición
    - Con oposición
 (Resumen y explicación de la señal ploteada)
