@@ -71,7 +71,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps1.jpg" width="600" height="300"></p>
-<div align="center">Figura 4: TEXTO</i></div>
+<div align="center">Figura 4: Posicionamiento de electrodos para la obtención de señales en el bíceps braquial derecho.</i></div>
 </p>
 
 <div align="center">
@@ -94,7 +94,7 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/aductor pulgar.jpg" width="650" height="250"></p>
-<div align="center">Figura 5: TEXTO</i></div>
+<div align="center">Figura 5: Posicionamiento de electrodos para la obtención de señales en el mùculo aductor del pulgar derecho.</i></div>
 </p>
 
 <div align="center">
@@ -117,7 +117,7 @@ Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese g
 Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastrocnemio.jpg" width="700" height="400"></p>
-<div align="center">Figura 6: TEXTO</i></div>
+<div align="center">Figura 6: Posicionamiento de electrodos para la obtención de señales en el músculo gastrocnemio derecho.</i></div>
 </p>
 
 <div align="center">
@@ -141,7 +141,7 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
 Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/triceps.jpg" width="400" height="500"></p>
-<div align="center">Figura 7: TEXTO</i></div>
+<div align="center">Figura 7: Posicionamiento de electrodos para la obtención de señales en el triceps braquial derecho.</i></div>
 </p>  
 
 
