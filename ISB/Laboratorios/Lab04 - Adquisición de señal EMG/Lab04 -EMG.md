@@ -21,9 +21,10 @@ Para detectar esta señal se utilizan:
 - **Electrodos intrsmusculares o de aguja**: método invasivo donde un electrodo de aguja se introduce directamente en el músculo. La inserción directa en el músculo permite la detección de potenciales eléctricos muy cerca de la fuente. Es un método más preciso y menos susceptible a interferencias.  
 - **Electrodos superficiales (sEMG)**: método no invasivo donde se colocan electrodos de superfice sobre la piel, directamente en los músculos que se desea estudiar. Es un método fácil de realizar; sin embargo, es limitante solo a músculos superficiales y puede ser generar interferencias con la piel, músculos adyacentes o ruido eléctrico.
 
-Concepto de potencial de acción de la unidad motora (MUAP) en sEMG [3]
+Concepto de potencial de acción de la unidad motora (MUAP) en sEMG [3]  
 La distribución de voltaje del sEMG en la piel corresponde a la suma de los potenciales de acción de las unidades motoras (MUAP) que se generan por las MU (unidad motora) activadas. Las MU representan la unidad básica del músculo, compuesta por una neurona motora y todas las fibras musculares que esta inerva. Cuando un potencial de acción axonal alcanza la unión neuromuscular, se libera acetilcolina, lo que desencadena un potencial de acción en las fibras musculares. En este sentido, cada MUAP es la suma de potenciales de acción superficiales producidos por la fibras individuales de cada unidad motor (MU) y el sEMG es la suma de estos MUAP.
-
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
 
 En el presente laboratorio, se utilizará la plataforma BITalino para poder **adquirir señal de EMG mediante electrodos de superficie (sEMG) de 4 músculos distintos: bícep brachii, músculo aductor del pulgar, músculo gastrocnemio y tricep braquial**. Para cada músculo se relizará prueba en 3 diferentes movimientos (reposo, sin oposición, con oposición), se obtendrán las señales y se graficarán en Python para su visualización y discusión.
 
