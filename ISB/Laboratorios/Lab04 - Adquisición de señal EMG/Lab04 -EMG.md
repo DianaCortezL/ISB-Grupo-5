@@ -6,7 +6,7 @@
 3. [Materiales y equipos](#id3)
 4. [Resultados](#id4)\
    4.1 [Conexión usada](#id5)\
-   4.2 [Prueba 1: Bícep brachii](#id6)\
+   4.2 [Prueba 1: Bícep braquial](#id6)\
    4.3 [Prueba 2: Músculo aductor del pulgar](#id7)\
    4.4 [Prueba 3: Músculo gastrocnemio](#id8)\
    4.5 [Prueba 4: Tricep braquial](#id9)\
@@ -29,7 +29,7 @@ La distribución de voltaje del sEMG en la piel corresponde a la suma de los pot
 <div align="center"> Figura 1: Representación esquemática de las fibras de dos unidades motoras [3]</i></div>
 <p>
 
-En el presente laboratorio, se utilizará la plataforma BITalino para poder **adquirir señal de EMG mediante electrodos de superficie (sEMG) de 4 músculos distintos: bícep brachii, músculo aductor del pulgar, músculo gastrocnemio y tricep braquial**. Para cada músculo se relizará prueba en 3 diferentes movimientos (reposo, sin oposición, con oposición), se obtendrán las señales y se graficarán en Python para su visualización y discusión.
+En el presente laboratorio, se utilizará la plataforma BITalino para poder **adquirir señal de EMG mediante electrodos de superficie (sEMG) de 4 músculos distintos: bícep braquial, músculo aductor del pulgar, músculo gastrocnemio y tricep braquial**. Para cada músculo se relizará prueba en 3 diferentes movimientos (reposo, sin oposición, con oposición), se obtendrán las señales y se graficarán en Python para su visualización y discusión.
 
 ## **Objetivos** <a name="id2"></a>
 * Adquirir señales biomédicas de EMG.
@@ -67,7 +67,7 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 
 El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periféricos del año 2020 elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) *CAMBIAR Y BUSCAR UNA GUIA DE PROCEDIMIENTO 
 
-### **Prueba 1: Bícep brachii** <a name="id6"></a>
+### **Prueba 1: Bícep braquial** <a name="id6"></a>
 Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps1.jpg" width="600" height="300"></p>
