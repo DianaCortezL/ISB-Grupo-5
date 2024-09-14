@@ -6,7 +6,7 @@
 3. [Materiales y equipos](#id3)
 4. [Resultados](#id4)\
    4.1 [Conexión usada](#id5)\
-   4.2 [Prueba 1: Bícep brachii](#id6)\
+   4.2 [Prueba 1: Bícep braquial](#id6)\
    4.3 [Prueba 2: Músculo aductor del pulgar](#id7)\
    4.4 [Prueba 3: Músculo gastrocnemio](#id8)\
    4.5 [Prueba 4: Tricep braquial](#id9)\
@@ -29,7 +29,7 @@ La distribución de voltaje del sEMG en la piel corresponde a la suma de los pot
 <div align="center"> Figura 1: Representación esquemática de las fibras de dos unidades motoras [3]</i></div>
 <p>
 
-En el presente laboratorio, se utilizará la plataforma BITalino para poder **adquirir señal de EMG mediante electrodos de superficie (sEMG) de 4 músculos distintos: bícep brachii, músculo aductor del pulgar, músculo gastrocnemio y tricep braquial**. Para cada músculo se relizará prueba en 3 diferentes movimientos (reposo, sin oposición, con oposición), se obtendrán las señales y se graficarán en Python para su visualización y discusión.
+En el presente laboratorio, se utilizará la plataforma BITalino para poder **adquirir señal de EMG mediante electrodos de superficie (sEMG) de 4 músculos distintos: bícep braquial, músculo aductor del pulgar, músculo gastrocnemio y tricep braquial**. Para cada músculo se relizará prueba en 3 diferentes movimientos (reposo, sin oposición, con oposición), se obtendrán las señales y se graficarán en Python para su visualización y discusión.
 
 ## **Objetivos** <a name="id2"></a>
 * Adquirir señales biomédicas de EMG.
@@ -52,7 +52,7 @@ En el presente laboratorio, se utilizará la plataforma BITalino para poder **ad
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/image_materiales.jpg" width="400" height="266"></p>
-<div align="center">Figura 2: TEXTO</i></div>
+<div align="center">Figura 2: Kit BITalino y electrodos de superficie</i></div>
 </p>
 
 
@@ -61,17 +61,17 @@ En el presente laboratorio, se utilizará la plataforma BITalino para poder **ad
 Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
-<div align="center">Figura 3: TEXTO</i></div>
+<div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
 </p>
 
 
 El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periféricos del año 2020 elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) *CAMBIAR Y BUSCAR UNA GUIA DE PROCEDIMIENTO 
 
-### **Prueba 1: Bícep brachii** <a name="id6"></a>
+### **Prueba 1: Bícep braquial** <a name="id6"></a>
 Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps1.jpg" width="600" height="300"></p>
-<div align="center">Figura 4: TEXTO</i></div>
+<div align="center">Figura 4: Posicionamiento de electrodos para la obtención de señales en el bíceps braquial derecho.</i></div>
 </p>
 
 <div align="center">
@@ -94,7 +94,7 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/aductor pulgar.jpg" width="650" height="250"></p>
-<div align="center">Figura 5: TEXTO</i></div>
+<div align="center">Figura 5: Posicionamiento de electrodos para la obtención de señales en el mùculo aductor del pulgar derecho.</i></div>
 </p>
 
 <div align="center">
@@ -117,7 +117,7 @@ Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese g
 Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastrocnemio.jpg" width="700" height="400"></p>
-<div align="center">Figura 6: TEXTO</i></div>
+<div align="center">Figura 6: Posicionamiento de electrodos para la obtención de señales en el músculo gastrocnemio derecho.</i></div>
 </p>
 
 <div align="center">
@@ -141,7 +141,7 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
 Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/triceps.jpg" width="400" height="500"></p>
-<div align="center">Figura 7: TEXTO</i></div>
+<div align="center">Figura 7: Posicionamiento de electrodos para la obtención de señales en el triceps braquial derecho.</i></div>
 </p>  
 
 
