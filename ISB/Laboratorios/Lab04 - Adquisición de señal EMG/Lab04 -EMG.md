@@ -224,6 +224,9 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/be9da5dae231d9adf809ada70db73281b355ea1a/ISB/Laboratorios/Lab04%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20EMG/LabEMG.ipynb)
 
 ## **Conclusiones y recomendaciones** <a name="id11"></a>
+**Conclusiones:**
+   -
+   -
 
 ## **Referencias bibliográficas** <a name="id12"></a>
 [1] D. Farina, D. F. Stegeman, and R. Merletti, “Biophysics of the Generation of EMG Signals,” Surface Electromyography : Physiology, Engineering, and Applications, pp. 1–24, Apr. 2016, doi: https://doi.org/10.1002/9781119082934.ch02.  
