@@ -224,7 +224,7 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/be9da5dae231d9adf809ada70db73281b355ea1a/ISB/Laboratorios/Lab04%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20EMG/LabEMG.ipynb)
 
 ## **Conclusiones y recomendaciones** <a name="id11"></a>
-**Conclusiones:**
+###**Conclusiones:**
    -
    -
 
