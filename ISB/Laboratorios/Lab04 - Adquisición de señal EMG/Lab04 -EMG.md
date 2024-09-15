@@ -227,6 +227,10 @@ Se escogió el músculo al ser superficial y de fácil identificación igual que
 ## **Conclusiones** <a name="id11"></a>
 
 ## **Recomendaciones** <a name="id12"></a>
+- Evitar que la tierra este muy distante de los otros dos electrodos para obtener una mejor señal.
+- No utilizar músculos que tengan varios músculos subyacentes alrededor cuyas señales pueden generar ruido en la señal.
+- Evitar hacer las pruebas en zonas con dispositivos electrónicos activados, estos pueden generar interferencia.
+
 
 ## **Referencias bibliográficas** <a name="id13"></a>
 [1] D. Farina, D. F. Stegeman, and R. Merletti, “Biophysics of the Generation of EMG Signals,” Surface Electromyography : Physiology, Engineering, and Applications, pp. 1–24, Apr. 2016, doi: https://doi.org/10.1002/9781119082934.ch02.  
