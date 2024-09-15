@@ -80,6 +80,10 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/b49875f0-82ef-4d27-a2aa-e8e5e6103e9a.mp4"></video>|<video src="https://user-images.githubusercontent.com/092f3871-e25f-4d7b-a778-03641931fcaf.mp4"></video>|<video src= "https://user-images.githubusercontent.com/36d881ed-29d1-4178-844e-4b9741314f90.mp4"></video>|
 
+<p align="justify">
+<div align="center">Para mejor visualización de los videos dar click en el ícono de Youtube</i></div>
+</p>  
+
 [<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLKyz-4YrUo3Q4-50zDqIl1RbkGDer-eyK)
 </div>
 
@@ -110,6 +114,10 @@ Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese g
 |  **Reposo**  | **Sin oposición** | **Con oposición** |
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/67a14538-64fe-4a2a-a8d6-a3e4a3f076d5.mp4"></video>|<video src="https://user-images.githubusercontent.com/af3715f6-c9ae-4d9e-88d6-e9c4592ccc69.mp4"></video>|<video src= "https://user-images.githubusercontent.com/077e5478-1f01-4cbe-a1b1-619135a5ab11.mp4"></video>|
+
+<p align="justify">
+<div align="center">Para mejor visualización de los videos dar click en el ícono de Youtube</i></div>
+</p>  
 
 [<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLKyz-4YrUo3R1rk6B5YFyBnburL7kmY8D)
 </div>
@@ -142,6 +150,10 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
 |  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo sin oposición** |
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/27d392ad-a041-4e54-8f90-0a6b14e80f0f.mp4"></video>|<video src="https://user-images.githubusercontent.com/75a6c4f4-0524-44a8-b6da-cfe3df00bb69.mp4"></video>|<video src= "https://user-images.githubusercontent.com/68bb1c7a-39ac-415c-a21c-0ae45fc841b5.mp4"></video>|
+
+<p align="justify">
+<div align="center">Para mejor visualización de los videos dar click en el ícono de Youtube</i></div>
+</p>  
 
 [<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLKyz-4YrUo3RR13SN4Ai1WwyWk6ezuXg1)
 
@@ -176,6 +188,10 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
 |  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo sin oposición** |
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/3d2e256b-1b0b-45e6-881a-7c67814c92b9.mp4"></video>|<video src="https://user-images.githubusercontent.com/c606cd01-5a08-4b8c-a946-48103dcaaec7.mp4"></video>|<video src= "https://user-images.githubusercontent.com/d8ca2d70-d802-41ab-8d84-04cf8d5b42a7.mp4"></video>|
+
+<p align="justify">
+<div align="center">Para mejor visualización de los videos dar click en el ícono de Youtube</i></div>
+</p>  
 
 [<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLKyz-4YrUo3Q2SirQwFWpUK6rOJ3rqsKD)
 
