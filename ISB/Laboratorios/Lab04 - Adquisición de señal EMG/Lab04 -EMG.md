@@ -64,8 +64,7 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 <div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
 </p>
 
-
-El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periféricos del año 2020 elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) *CAMBIAR Y BUSCAR UNA GUIA DE PROCEDIMIENTO 
+El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y Velocidad de Conducción de nervios periféricos (2020) elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) - GP-001/INSNSB/UAIE/SUAIEPSE – NEUROLOGIA PEDIATRICA V01 (RD N° 000226-2020-DG-INSNSB) [4].
 
 ### **Prueba 1: Bícep braquial** <a name="id6"></a>
 Se escogió el músculo al ser superficial y de fácil identificación. La ubicación de los electrodos fue guiada a partir de AAAAAAAAAAAAAAAAAA y se realizaron pruebas en reposo, esfuerzo sin oposición y esfuerzo con oposición para analizar el cambio de señal.
@@ -100,10 +99,16 @@ Se escogió el músculo al ser superficial y de fácil identificación. La ubica
    - Con oposición
      <p align="justify">
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_oposicion.jpg" width="650" height="500"></p>
-(Resumen y explicación de la señal ploteada)
 
 ### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
-Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+El músculo abductor corto del pulgar (ACP) pertenece al primer plano muscular subfascial de la región tenar de gran importancia en los movimientos del pulgar. 
+La ubicación de los electrodos fue la siguiente según la GUÍA DE PROCEDIMIENTO DE ELECTROMIOGRAFÍA Y VELOCIDAD DE CONDUCCIÓN DE NERVIOS PERIFÉRICOS del Instituto Nacional del Niño de San Borja:
+Electrodo activo (G1): Colocar sobre el centro del músculo abductor corto del pulgar 
+(ACP), un tercio de la distancia entre el pliegue carpo metacarpiano y la articulación 
+metacarpo falángica del pulgar (1er dedo). 
+Electrodo de referencia (G2): Colocar sobre la articulación metacarpo falángico del 
+primer dedo, distal al electrodo activo. 
+Electrodo tierra: Colocado en el dorso de la mano.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/aductor pulgar.jpg" width="650" height="250"></p>
 <div align="center">Figura 5: Posicionamiento de electrodos para la obtención de señales en el mùculo aductor del pulgar derecho.</i></div>
@@ -136,10 +141,13 @@ Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese g
      <p align="justify">
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Pulgar_graficas_oposicion.jpg" width="650" height="500"></p>
      </p>
-(Resumen y explicación de la señal ploteada)
 
 ### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
-Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+Se eligió el gastronemio por su fácil localización y sencilla activación del músculo.
+Los electrodos se ubicaron de la siguiente manera:
+Electrodo 1: Ubicado en la piel superficial al músculo, zona anterior de la pierna
+Electrodo 2: Ubicado en la piel superficial al músculo, zona anterior de la pierna, distanciado del primer electrodo verticalmente
+Neutro: Ubicado en la parte superficial de la tibia.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastrocnemio.jpg" width="700" height="400"></p>
 <div align="center">Figura 6: Posicionamiento de electrodos para la obtención de señales en el músculo gastrocnemio derecho.</i></div>
@@ -173,10 +181,9 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
      <p align="justify">
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastronecmio_graficas_sobreesfuerzo.jpg" width="650" height="500"></p>
      </p>
-(Resumen y explicación de la señal ploteada)
      
 ### **Prueba 4: Tricep Braquial** <a name="id9"></a>
-Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+Se escogió el músculo al ser superficial y de fácil identificación igual que el de la prueba 1, pero considerando que está en la zona posterior del brazo y los movimientos de esfuerzo serán diferentes, se optó por la rotación. La ubicación de los electrodos fue guiada a partir de AAAAAAAAAAAAAAAAAA y se realizaron pruebas en reposo, esfuerzo sin oposición y esfuerzo con oposición para analizar el cambio de señal.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/triceps.jpg" width="400" height="500"></p>
 <div align="center">Figura 7: Posicionamiento de electrodos para la obtención de señales en el triceps braquial derecho.</i></div>
@@ -216,12 +223,16 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/faacf940cd92a67b1431c22d82b8411c5dae7d26/Otros/Archivos%20varios/Lab4_EMG)
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/be9da5dae231d9adf809ada70db73281b355ea1a/ISB/Laboratorios/Lab04%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20EMG/LabEMG.ipynb)
 
-## **Conclusiones y recomendaciones** <a name="id11"></a>
+## **Conclusiones** <a name="id11"></a>
+
+## **Recomendaciones** <a name="id11"></a>
 
 ## **Referencias bibliográficas** <a name="id12"></a>
 [1] D. Farina, D. F. Stegeman, and R. Merletti, “Biophysics of the Generation of EMG Signals,” Surface Electromyography : Physiology, Engineering, and Applications, pp. 1–24, Apr. 2016, doi: https://doi.org/10.1002/9781119082934.ch02.  
 
 [2]  M. B. I. Reaz, M. S. Hussain, and F. Mohd-Yasin, “Techniques of EMG signal analysis: detection, processing, classification and applications,” Biological Procedures Online, vol. 8, no. 1, pp. 11–35, Dec. 2006, doi: https://doi.org/10.1251/bpo115.  
 
-[3] I. Campanini, A. Merlo, C. Disselhorst-Klug, L. Mesin, S. Muceli, and R. Merletti, “Fundamental Concepts of Bipolar and High-Density Surface EMG Understanding and Teaching for Clinical, Occupational, and Sport Applications: Origin, Detection, and Main Errors,” Sensors, vol. 22, no. 11, p. 4150, May 2022, doi: https://doi.org/10.3390/s22114150.
+[3] I. Campanini, A. Merlo, C. Disselhorst-Klug, L. Mesin, S. Muceli, and R. Merletti, “Fundamental Concepts of Bipolar and High-Density Surface EMG Understanding and Teaching for Clinical, Occupational, and Sport Applications: Origin, Detection, and Main Errors,” Sensors, vol. 22, no. 11, p. 4150, May 2022, doi: https://doi.org/10.3390/s22114150.  
+
+[4] MINSA, GUÍA DE PROCEDIMIENTO DE ELECTROMIOGRAFÍA Y VELOCIDAD DE CONDUCCIÓN DE NERVIOS PERIFÉRICOS UNIDAD DE ATENCIÓN INTEGRAL ESPECIALIZADA SUB UNIDAD DE ATENCION INTEGRAL ESPECIALIZADA PEDIÁTRICA Y SUB ESPECIALIDADES NEUROLOGIA PEDIATRICA. Disponible en: https://www.insnsb.gob.pe/docs-trans/resoluciones/archivopdf.php?pdf=2020/RD%20N%C2%B0%20000226-2020-DG-INSNSB%20Gu%C3%ADa%20Proced%20Electromiograf%C3%ADa_2020%203REV%20UGC%20CHN%2019.06.2020.pdf
 ‌
