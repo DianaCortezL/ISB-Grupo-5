@@ -99,7 +99,6 @@ Se escogió el músculo al ser superficial y de fácil identificación. La ubica
    - Con oposición
      <p align="justify">
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_oposicion.jpg" width="650" height="500"></p>
-(Resumen y explicación de la señal ploteada)
 
 ### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
 El músculo abductor corto del pulgar (ACP) pertenece al primer plano muscular subfascial de la región tenar de gran importancia en los movimientos del pulgar. 
@@ -142,7 +141,6 @@ Electrodo tierra: Colocado en el dorso de la mano.
      <p align="justify">
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Pulgar_graficas_oposicion.jpg" width="650" height="500"></p>
      </p>
-(Resumen y explicación de la señal ploteada)
 
 ### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
 Se eligió el gastronemio por su fácil localización y sencilla activación del músculo.
@@ -183,7 +181,6 @@ Neutro: Ubicado en la parte superficial de la tibia.
      <p align="justify">
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastronecmio_graficas_sobreesfuerzo.jpg" width="650" height="500"></p>
      </p>
-(Resumen y explicación de la señal ploteada)
      
 ### **Prueba 4: Tricep Braquial** <a name="id9"></a>
 Se escogió el músculo al ser superficial y de fácil identificación igual que el de la prueba 1, pero considerando que está en la zona posterior del brazo y los movimientos de esfuerzo serán diferentes, se optó por la rotación. La ubicación de los electrodos fue guiada a partir de AAAAAAAAAAAAAAAAAA y se realizaron pruebas en reposo, esfuerzo sin oposición y esfuerzo con oposición para analizar el cambio de señal.
