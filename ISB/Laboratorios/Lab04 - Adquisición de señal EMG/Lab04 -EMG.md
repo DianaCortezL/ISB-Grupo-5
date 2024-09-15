@@ -87,10 +87,15 @@ Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese g
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
      <p align="justify">
-      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_reposo.jpg" width="650" height="500"></p>
-      </p>
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_reposo.jpg" width="650" height="500"></p>
+     </p>
    - Sin oposición
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_sin_oposicion.jpg" width="650" height="500"></p>
+     </p>
    - Con oposición
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_oposicion.jpg" width="650" height="500"></p>
 (Resumen y explicación de la señal ploteada)
 
 ### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
@@ -112,8 +117,17 @@ Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese g
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Pulgar_graficas_reposo.jpg" width="650" height="500"></p>
+     </p>
    - Sin oposición
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Pulgar_graficas_sin_oposicion.jpg" width="650" height="500"></p>
+     </p>
    - Con oposición
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Pulgar_graficas_oposicion.jpg" width="650" height="500"></p>
+     </p>
 (Resumen y explicación de la señal ploteada)
 
 ### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
@@ -136,8 +150,17 @@ Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese g
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastronecmio_graficas_reposo.jpg" width="650" height="500"></p>
+     </p>
    - Esfuerzo
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastronecmio_graficas_esfuerzo.jpg" width="650" height="500"></p>
+     </p>
    - Sobreesfuerzo sin oposición
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastronecmio_graficas_sobreesfuerzo.jpg" width="650" height="500"></p>
+     </p>
 (Resumen y explicación de la señal ploteada)
      
 ### **Prueba 4: Tricep Braquial** <a name="id9"></a>
@@ -161,9 +184,17 @@ Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese g
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
    - Reposo
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Triceps_graficas_reposo.jpg" width="650" height="500"></p>
+     </p>
    - Esfuerzo
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Triceps_graficas_esfuerzo.jpg" width="650" height="500"></p>
+     </p>
    - Sobreesfuerzo sin oposición
-
+     <p align="justify">
+     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Triceps_graficas_sobreesfuerzo.jpg" width="650" height="500"></p>
+     </p>
 
 ### **Archivos** <a name="id10"></a>
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/faacf940cd92a67b1431c22d82b8411c5dae7d26/Otros/Archivos%20varios/Lab4_EMG)
