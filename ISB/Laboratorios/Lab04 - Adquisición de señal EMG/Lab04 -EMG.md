@@ -103,7 +103,14 @@ Se escogió el músculo al ser superficial y de fácil identificación. La ubica
 (Resumen y explicación de la señal ploteada)
 
 ### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
-Descripción de prueba 2, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+El músculo abductor corto del pulgar (ACP) pertenece al primer plano muscular subfascial de la región tenar de gran importancia en los movimientos del pulgar. 
+La ubicación de los electrodos fue la siguiente según la GUÍA DE PROCEDIMIENTO DE ELECTROMIOGRAFÍA Y VELOCIDAD DE CONDUCCIÓN DE NERVIOS PERIFÉRICOS del Instituto Nacional del Niño de San Borja:
+Electrodo activo (G1): Colocar sobre el centro del músculo abductor corto del pulgar 
+(ACP), un tercio de la distancia entre el pliegue carpo metacarpiano y la articulación 
+metacarpo falángica del pulgar (1er dedo). 
+Electrodo de referencia (G2): Colocar sobre la articulación metacarpo falángico del 
+primer dedo, distal al electrodo activo. 
+Electrodo tierra: Colocado en el dorso de la mano.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/aductor pulgar.jpg" width="650" height="250"></p>
 <div align="center">Figura 5: Posicionamiento de electrodos para la obtención de señales en el mùculo aductor del pulgar derecho.</i></div>
