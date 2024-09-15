@@ -68,7 +68,7 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periféricos del año 2020 elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) *CAMBIAR Y BUSCAR UNA GUIA DE PROCEDIMIENTO 
 
 ### **Prueba 1: Bícep braquial** <a name="id6"></a>
-Descripción de prueba 1, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+Se escogió el músculo al ser superficial y de fácil identificación. La ubicación de los electrodos fue guiada a partir de AAAAAAAAAAAAAAAAAA y se realizaron pruebas en reposo, esfuerzo sin oposición y esfuerzo con oposición para analizar el cambio de señal.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps1.jpg" width="600" height="300"></p>
 <div align="center">Figura 4: Posicionamiento de electrodos para la obtención de señales en el bíceps braquial derecho.</i></div>
