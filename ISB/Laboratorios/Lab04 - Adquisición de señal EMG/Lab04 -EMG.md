@@ -11,8 +11,9 @@
    4.4 [Prueba 3: Músculo gastrocnemio](#id8)\
    4.5 [Prueba 4: Tricep braquial](#id9)\
    4.6 [Archivos utilizados](#id10)
-6. [Conclusiones y recomendaciones](#id11)
-6. [Referencias bibliográficas](#id12)
+6. [Conclusiones](#id11)
+7. [Recomendaciones](#id12)
+6. [Referencias bibliográficas](#id13)
 
 ## **Introducción** <a name="id1"></a>
 La señal electromiográficas (EMG) es una representación del campo de potencial eléctrico generado por la despolarización de la membrana externa de la fibra muscular (sarcolema). La señal EMG es generada por la actividad eléctrica de las fibras musculares durante una contracción. Las fuentes de la señal son las zonas de despolarización y repolarización de las fibras musculares [1]. El rango de amplitud de la señal EMG es de 0 a 10 mV (+5 a -5) antes de la amplificación [2]. La señal EMG tiene muchas aplicaciones en dispositivos de rehabilitación o prostéticos, ciencias del deporte y neurofisiología [3].
@@ -225,9 +226,9 @@ Se escogió el músculo al ser superficial y de fácil identificación igual que
 
 ## **Conclusiones** <a name="id11"></a>
 
-## **Recomendaciones** <a name="id11"></a>
+## **Recomendaciones** <a name="id12"></a>
 
-## **Referencias bibliográficas** <a name="id12"></a>
+## **Referencias bibliográficas** <a name="id13"></a>
 [1] D. Farina, D. F. Stegeman, and R. Merletti, “Biophysics of the Generation of EMG Signals,” Surface Electromyography : Physiology, Engineering, and Applications, pp. 1–24, Apr. 2016, doi: https://doi.org/10.1002/9781119082934.ch02.  
 
 [2] D. Jiménez y J. Antonio, “Análisis de las señales EMG de superficie del bíceps durante la ejecución de ejercicios con pesas /”, Universidad Tecnológica de Bolívar, 2015.
