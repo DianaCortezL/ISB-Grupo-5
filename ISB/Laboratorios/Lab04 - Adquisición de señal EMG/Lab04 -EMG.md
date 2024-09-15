@@ -187,7 +187,7 @@ Neutro: Ubicado en la parte superficial de la tibia.
 (Resumen y explicación de la señal ploteada)
      
 ### **Prueba 4: Tricep Braquial** <a name="id9"></a>
-Descripción de prueba 4, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+Se escogió el músculo al ser superficial y de fácil identificación igual que el de la prueba 1, pero considerando que está en la zona posterior del brazo y los movimientos de esfuerzo serán diferentes, se optó por la rotación. La ubicación de los electrodos fue guiada a partir de AAAAAAAAAAAAAAAAAA y se realizaron pruebas en reposo, esfuerzo sin oposición y esfuerzo con oposición para analizar el cambio de señal.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/triceps.jpg" width="400" height="500"></p>
 <div align="center">Figura 7: Posicionamiento de electrodos para la obtención de señales en el triceps braquial derecho.</i></div>
