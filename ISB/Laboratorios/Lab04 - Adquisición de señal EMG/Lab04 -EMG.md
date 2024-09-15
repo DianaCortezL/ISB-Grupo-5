@@ -64,7 +64,7 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 <div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
 </p>
 
-El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y Velocidad de Conducción de nervios periféricos (2020) elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) - GP-001/INSNSB/UAIE/SUAIEPSE – NEUROLOGIA PEDIATRICA V01 (RD N° 000226-2020-DG-INSNSB).
+El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y Velocidad de Conducción de nervios periféricos (2020) elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) - GP-001/INSNSB/UAIE/SUAIEPSE – NEUROLOGIA PEDIATRICA V01 (RD N° 000226-2020-DG-INSNSB) [4].
 
 ### **Prueba 1: Bícep braquial** <a name="id6"></a>
 Se escogió el músculo al ser superficial y de fácil identificación. La ubicación de los electrodos fue guiada a partir de AAAAAAAAAAAAAAAAAA y se realizaron pruebas en reposo, esfuerzo sin oposición y esfuerzo con oposición para analizar el cambio de señal.
