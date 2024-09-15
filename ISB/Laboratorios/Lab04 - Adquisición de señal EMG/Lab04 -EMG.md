@@ -146,7 +146,11 @@ Electrodo tierra: Colocado en el dorso de la mano.
 (Resumen y explicación de la señal ploteada)
 
 ### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
-Descripción de prueba 3, fundamento de la señal adquirida (porque usaran ese grupo muscular de interes)
+Se eligió el gastronemio por su fácil localización y sencilla activación del músculo.
+Los electrodos se ubicaron de la siguiente manera:
+Electrodo 1: Ubicado en la piel superficial al músculo, zona anterior de la pierna
+Electrodo 2: Ubicado en la piel superficial al músculo, zona anterior de la pierna, distanciado del primer electrodo verticalmente
+Neutro: Ubicado en la parte superficial de la tibia.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastrocnemio.jpg" width="700" height="400"></p>
 <div align="center">Figura 6: Posicionamiento de electrodos para la obtención de señales en el músculo gastrocnemio derecho.</i></div>
