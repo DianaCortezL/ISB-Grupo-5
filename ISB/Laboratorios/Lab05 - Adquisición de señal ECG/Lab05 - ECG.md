@@ -214,14 +214,10 @@ Se escogió el músculo al ser superficial y de fácil identificación igual que
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/be9da5dae231d9adf809ada70db73281b355ea1a/ISB/Laboratorios/Lab04%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20EMG/LabEMG.ipynb)
 
 ## **Conclusiones** <a name="id12"></a>
-   - Se logró obtener una clara diferencia entre las gráficas de reposo, esfuerzo y sobreesfuerzo o esfuerzo con oposición. Es posible notar que las gráficas en función del tiempo para los esfuerzos con oposición o sobreesfuerzo fueron las que alcanzaron mayores amplitudes.
-   - Las gráficas en dominio de frecuencias no presentan una gran alteración entre ellas, esto es debido a que las frecuencias recibidas por los impulsos musculares no suelen variar significativamente, sin embargo, las amplitudes sí son fácilmente diferenciables en el dominio del tiempo.
-
+   -
 
 ## **Recomendaciones** <a name="id13"></a>
-- Evitar que la tierra este muy distante de los otros dos electrodos para obtener una mejor señal.
-- No utilizar músculos que tengan varios músculos subyacentes alrededor cuyas señales pueden generar ruido en la señal.
-- Evitar hacer las pruebas en zonas con dispositivos electrónicos activados, estos pueden generar interferencia.
+   -
 
 
 ## **Referencias bibliográficas** <a name="id14"></a>
