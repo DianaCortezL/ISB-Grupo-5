@@ -10,7 +10,7 @@
    4.3 [Manteniendo la respiración por 10 segundos](#id7)\
    4.4 [Reposo basal](#id8)\
    4.5 [Después de una actividad física](#id9)\
-   4.6 [Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)](#id10)
+   4.6 [Señal del Promsim4](#id10)
 6. [Conclusiones](#id11)
 7. [Recomendaciones](#id12)
 6. [Referencias bibliográficas](#id13)
@@ -87,7 +87,7 @@ Se escogió el músculo al ser superficial y de fácil identificación. La ubica
      <p align="justify">
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_oposicion.jpg" width="650" height="500"></p>
 
-### **Prueba 2: Músculo aductor del pulgar** <a name="id7"></a>
+### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
 El músculo abductor corto del pulgar (ACP) pertenece al primer plano muscular subfascial de la región tenar de gran importancia en los movimientos del pulgar. 
 La ubicación de los electrodos fue la siguiente según la GUÍA DE PROCEDIMIENTO DE ELECTROMIOGRAFÍA Y VELOCIDAD DE CONDUCCIÓN DE NERVIOS PERIFÉRICOS del Instituto Nacional del Niño de San Borja:
 Electrodo activo (G1): Colocar sobre el centro del músculo abductor corto del pulgar 
@@ -129,7 +129,7 @@ Electrodo tierra: Colocado en el dorso de la mano.
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Pulgar_graficas_oposicion.jpg" width="650" height="500"></p>
      </p>
 
-### **Prueba 3: Músculo gastrocnemio** <a name="id8"></a>
+### **Reposo basal** <a name="id8"></a>
 Se eligió el gastronemio por su fácil localización y sencilla activación del músculo.
 Los electrodos se ubicaron de la siguiente manera:
 Electrodo 1: Ubicado en la piel superficial al músculo, zona anterior de la pierna
@@ -169,7 +169,7 @@ Neutro: Ubicado en la parte superficial de la tibia.
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastronecmio_graficas_sobreesfuerzo.jpg" width="650" height="500"></p>
      </p>
      
-### **Prueba 4: Tricep Braquial** <a name="id9"></a>
+### **Después de una actividad física** <a name="id9"></a>
 Se escogió el músculo al ser superficial y de fácil identificación igual que el de la prueba 1, pero considerando que está en la zona posterior del brazo y los movimientos de esfuerzo serán diferentes, se optó por la rotación. La ubicación de los electrodos fue guiada a partir de AAAAAAAAAAAAAAAAAA y se realizaron pruebas en reposo, esfuerzo sin oposición y esfuerzo con oposición para analizar el cambio de señal.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/triceps.jpg" width="400" height="500"></p>
