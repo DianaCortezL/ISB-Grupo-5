@@ -10,7 +10,7 @@
    4.3 [Manteniendo la respiración por 10 segundos](#id7)\
    4.4 [Reposo basal](#id8)\
    4.5 [Después de una actividad física](#id9)\
-   4.6 [Señal del Promsim4](#id10)
+   4.6 [Señal del Promsim4](#id10)\
    4.7 [Archivos](#id11)
 6. [Conclusiones](#id12)
 7. [Recomendaciones](#id13)
