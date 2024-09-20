@@ -11,9 +11,10 @@
    4.4 [Reposo basal](#id8)\
    4.5 [Después de una actividad física](#id9)\
    4.6 [Señal del Promsim4](#id10)
-6. [Conclusiones](#id11)
-7. [Recomendaciones](#id12)
-6. [Referencias bibliográficas](#id13)
+   4.7 [Archivos](#id11)
+6. [Conclusiones](#id12)
+7. [Recomendaciones](#id13)
+6. [Referencias bibliográficas](#id14)
 
 ## **Introducción** <a name="id1"></a>
 AAAAA
@@ -206,22 +207,24 @@ Se escogió el músculo al ser superficial y de fácil identificación igual que
      <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Triceps_graficas_sobreesfuerzo.jpg" width="650" height="500"></p>
      </p>
 
-### **Archivos** <a name="id10"></a>
+### **Señal del Promsim4** <a name="id10"></a>
+
+### **Archivos** <a name="id11"></a>
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/faacf940cd92a67b1431c22d82b8411c5dae7d26/Otros/Archivos%20varios/Lab4_EMG)
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/be9da5dae231d9adf809ada70db73281b355ea1a/ISB/Laboratorios/Lab04%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20EMG/LabEMG.ipynb)
 
-## **Conclusiones** <a name="id11"></a>
+## **Conclusiones** <a name="id12"></a>
    - Se logró obtener una clara diferencia entre las gráficas de reposo, esfuerzo y sobreesfuerzo o esfuerzo con oposición. Es posible notar que las gráficas en función del tiempo para los esfuerzos con oposición o sobreesfuerzo fueron las que alcanzaron mayores amplitudes.
    - Las gráficas en dominio de frecuencias no presentan una gran alteración entre ellas, esto es debido a que las frecuencias recibidas por los impulsos musculares no suelen variar significativamente, sin embargo, las amplitudes sí son fácilmente diferenciables en el dominio del tiempo.
 
 
-## **Recomendaciones** <a name="id12"></a>
+## **Recomendaciones** <a name="id13"></a>
 - Evitar que la tierra este muy distante de los otros dos electrodos para obtener una mejor señal.
 - No utilizar músculos que tengan varios músculos subyacentes alrededor cuyas señales pueden generar ruido en la señal.
 - Evitar hacer las pruebas en zonas con dispositivos electrónicos activados, estos pueden generar interferencia.
 
 
-## **Referencias bibliográficas** <a name="id13"></a>
+## **Referencias bibliográficas** <a name="id14"></a>
 [1] D. Farina, D. F. Stegeman, and R. Merletti, “Biophysics of the Generation of EMG Signals,” Surface Electromyography : Physiology, Engineering, and Applications, pp. 1–24, Apr. 2016, doi: https://doi.org/10.1002/9781119082934.ch02.  
 
 [2] D. Jiménez y J. Antonio, “Análisis de las señales EMG de superficie del bíceps durante la ejecución de ejercicios con pesas /”, Universidad Tecnológica de Bolívar, 2015.
