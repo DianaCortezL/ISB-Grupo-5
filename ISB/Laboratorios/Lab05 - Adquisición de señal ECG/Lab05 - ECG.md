@@ -67,12 +67,6 @@ Se escogió el músculo al ser superficial y de fácil identificación. La ubica
 |:------------:|:---------------:|:------------:|
 |<video src="https://user-images.githubusercontent.com/b49875f0-82ef-4d27-a2aa-e8e5e6103e9a.mp4"></video>|<video src="https://user-images.githubusercontent.com/092f3871-e25f-4d7b-a778-03641931fcaf.mp4"></video>|<video src= "https://user-images.githubusercontent.com/36d881ed-29d1-4178-844e-4b9741314f90.mp4"></video>|
 
-<p align="justify">
-<div align="center">Para mejor visualización de los videos dar click en el ícono de Youtube</i></div>
-</p>  
-
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLKyz-4YrUo3Q4-50zDqIl1RbkGDer-eyK)
-</div>
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
    A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
