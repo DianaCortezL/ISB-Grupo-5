@@ -100,7 +100,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 |                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
 |:------------------------------------------:|:---------:|:------------:|
 |                **I**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_mant_resp_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_mant_resp_fft.jpg" width="500" height="270"></p>|
-| **II** |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_reposo_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_mant_resp_fft.jpg" width="500" height="270"></p>|
+| **II** |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_mant_resp_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_mant_resp_fft.jpg" width="500" height="270"></p>|
 |                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_mant_resp_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_mant_resp_fft.jpg" width="500" height="270"></p>|
 
 </div>
@@ -122,9 +122,9 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 
 |                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
 |:------------------------------------------:|:---------:|:------------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
+|                **I**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_resp_basal_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_resp_basal_fft.jpg" width="500" height="270"></p>|
+| **II** |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_resp_basal_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_resp_basal_fft.jpg" width="500" height="270"></p>|
+|                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_resp_basal_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_resp_basal_fft.jpg" width="500" height="270"></p>|
 
 </div>
 
@@ -145,9 +145,10 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
    
 |                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
 |:------------------------------------------:|:---------:|:------------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
+|                **I**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_ejercicio_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_ejercicio_fft.jpg" width="500" height="270"></p>|
+| **II** |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_ejercicio_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_ejercicio_fft.jpg" width="500" height="270"></p>|
+|                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_ejercicio_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_ejercicio_fft.jpg" width="500" height="270"></p>|
+
 
 </div>
 
