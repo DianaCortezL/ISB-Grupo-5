@@ -88,7 +88,7 @@ $$ LPM = \frac{60}{\text{Intervalo  R-R (segundos)}} $$
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_reposo.jpg" width="600" height="400"></p>
-<div align="center">Figura 3: Identifiación de ondas para la I derivación</i></div>
+<div align="center">Figura 3: Identifiación de ondas para la I derivación en estado basal</i></div>
 </p>
 
 De la Figura 3, se obtuvo un intervalo de onda R-R de 1.22 segundos y aplicando la ecuación anterior se obtiene un lpm de 49.
