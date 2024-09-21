@@ -59,6 +59,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 
 ## **Resultados** <a name="id5"></a>
 ### **Estado basal** <a name="id6"></a>
+El sujeto de prueba se quedó quieto y manteniendo la calma
 - ### **Ploteo en OpenSignals**
   
 <div align="center">
@@ -83,6 +84,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 </div>
 
 ### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
+El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
 - ### **Ploteo en OpenSignals**
 <div align="center">
    
@@ -106,6 +108,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 </div>
 
 ### **Reposo basal** <a name="id8"></a>
+Reposo después de mantener la respiración
 - ### **Ploteo en OpenSignals**
 <div align="center">
    
@@ -128,7 +131,9 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 
 </div>
 
-### **Después de una actividad física** <a name="id9"></a>   
+### **Después de una actividad física** <a name="id9"></a> 
+El sujeto de prueba realizó movimientos aeróbicos
+por 5 minutos
 - ### **Ploteo en OpenSignals**
 <div align="center">
 
@@ -165,10 +170,10 @@ Se realizó una simulación de diferentes latidos por minuto utilizando el dispo
    
 |                 **Simulación**                 | **Toma en OpenSignal** |
 |:------------------------------------------:|:---------:|
-|**Simulación de 60lpm - estado basal**||
-|**Simulación de 120lpm - empieza a agitarse**||
-|**Simulación de 150lpm - haciendo ejercicio**||
-|**Simulación de 90lpm - reponiendose**||
+|**Simulación de 60 lpm - estado basal**||
+|**Simulación de 120 lpm - empieza a agitarse**||
+|**Simulación de 150 lpm - haciendo ejercicio**||
+|**Simulación de 90 lpm - reponiendose**||
 
 </div>
 
