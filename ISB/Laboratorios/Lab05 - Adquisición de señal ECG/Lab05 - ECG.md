@@ -59,6 +59,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 
 ## **Resultados** <a name="id5"></a>
 ### **Estado basal** <a name="id6"></a>
+El sujeto de prueba se quedó quieto y manteniendo la calma
 - ### **Ploteo en OpenSignals**
   
 <div align="center">
@@ -83,6 +84,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 </div>
 
 ### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
+El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
 - ### **Ploteo en OpenSignals**
 <div align="center">
    
@@ -106,6 +108,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 </div>
 
 ### **Reposo basal** <a name="id8"></a>
+Reposo después de mantener la respiración
 - ### **Ploteo en OpenSignals**
 <div align="center">
    
@@ -128,7 +131,9 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 
 </div>
 
-### **Después de una actividad física** <a name="id9"></a>   
+### **Después de una actividad física** <a name="id9"></a> 
+El sujeto de prueba realizó movimientos aeróbicos
+por 5 minutos
 - ### **Ploteo en OpenSignals**
 <div align="center">
 
@@ -154,20 +159,21 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 
 
 ### **Señal del Promsim4** <a name="id10"></a>
-Se realizó una simulación de diferentes latidos por minuto utilizando el dispositivo de metrología FLUKE ProSim4 que genera una señal patrón
+Se realizó una simulación de diferentes latidos por minuto utilizando el dispositivo de metrología FLUKE ProSim4 que genera una señal patrón.
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/prosim.jpg" width="400" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/prosim.jpg" width="400" height="500"></p>
 <div align="center">Figura 2: Conexión del Prosim y BITalino - 60 lpm</i></div>
 </p>
+
 
 <div align="center">
    
 |                 **Simulación**                 | **Toma en OpenSignal** |
 |:------------------------------------------:|:---------:|
-|**Simulación de 60lpm - estado basal**||
-|**Simulación de 120lpm - empieza a agitarse**||
-|**Simulación de 150lpm - haciendo ejercicio**||
-|**Simulación de 90lpm - reponiendose**||
+|**Simulación de 60 lpm - estado basal**||
+|**Simulación de 120 lpm - empieza a agitarse**||
+|**Simulación de 150 lpm - haciendo ejercicio**||
+|**Simulación de 90 lpm - reponiendose**||
 
 </div>
 
