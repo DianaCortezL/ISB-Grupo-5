@@ -38,8 +38,8 @@ AAAAA Básicos del ECG, tipo de ondas, uso de ECG, derivaciones y descripción d
 </div>
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/image_materiales.jpg" width="400" height="266"></p>
-<div align="center">Figura 2: Kit BITalino y electrodos de superficie</i></div>
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/conexion.jpg" width="400" height="266"></p>
+<div align="center">Figura 2: Kit BITalino y electrodos</i></div>
 </p>
 
 ## **Conexión usada y Procedimiento** <a name="id4"></a>
