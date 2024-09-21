@@ -84,12 +84,14 @@ El sujeto de prueba se quedó quieto y manteniendo la calma
 </div>
 Se analizó la primera derivación para poder identificar segmentos y ondas específicas. Además, se calculó el intervalo R-R en las señales para poder obtener los latidos por minuto (lpm) y poder compararlos con el dispositivo patrón (FLUKE ProSim4). En este semtido, el intervalo R-R en un ECG es el tiempo entre dos picos consecutivos de ondas R. La fórmula para calcular los latidos por minuto (lpm) a partir del intervalo R-R es:  
 
-$$ LPM = \frac{60}{Intervalo  R-R (segundos)} $$
+$$ LPM = \frac{60}{\text{Intervalo  R-R (segundos)}} $$
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_reposo.jpg" width="400" height="500"></p>
-<div align="center">Figura 2: Identifiación de ondas par la I derivación</i></div>
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_reposo.jpg" width="600" height="400"></p>
+<div align="center">Figura 3: Identifiación de ondas para la I derivación</i></div>
 </p>
+
+De la Figura 3, se obtuvo un intervalo de onda R-R de 1.22 segundos y aplicando la ecuación anterior se obtiene un lpm de 49.
 
 ### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
 El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
