@@ -32,7 +32,7 @@ AAAAA
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
-|       -      |    Electrodos superficiales   |       3      |
+|       -      |    Electrodos de superficie   |       3      |
 <div align="center"> Tabla 1: Materiales y equipos</i></div>
 
 
@@ -46,7 +46,9 @@ AAAAA
 
 ## **Resultados** <a name="id4"></a>
 ### **Conexión usada** <a name="id5"></a>
-Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
+   1. I derivación bipolar
+   2. II derivación bipolar
+   3. III derivación bipolar
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
 <div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
@@ -55,74 +57,34 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y Velocidad de Conducción de nervios periféricos (2020) elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) - GP-001/INSNSB/UAIE/SUAIEPSE – NEUROLOGIA PEDIATRICA V01 (RD N° 000226-2020-DG-INSNSB) [4].
 
 ### **Estado basal** <a name="id6"></a>
-Se escogió el músculo al ser superficial y de fácil identificación. La ubicación de los electrodos fue guiada a partir de las indicaciones propuestas por la publicación de nombre "Análisis de las señales EMG de superficie del bíceps durante la ejecución de ejercicios con pesas" (2 electrodos sobre el bicel braquial en formato serie y un electrodo de referencia, el cual puede ser colocado en el codo o muñeca) y se realizaron pruebas en reposo, esfuerzo sin oposición y esfuerzo con oposición para analizar el cambio de señal.
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps1.jpg" width="600" height="300"></p>
-<div align="center">Figura 4: Posicionamiento de electrodos para la obtención de señales en el bíceps braquial derecho.</i></div>
-</p>
-
-<div align="center">
-   
-|  **Reposo**  | **Sin oposición** | **Con oposición** |
-|:------------:|:---------------:|:------------:|
-|<video src="https://user-images.githubusercontent.com/b49875f0-82ef-4d27-a2aa-e8e5e6103e9a.mp4"></video>|<video src="https://user-images.githubusercontent.com/092f3871-e25f-4d7b-a778-03641931fcaf.mp4"></video>|<video src= "https://user-images.githubusercontent.com/36d881ed-29d1-4178-844e-4b9741314f90.mp4"></video>|
-
+- ### **Ploteo en OpenSignals**
+|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
+|:------------------------------------------:|:---------:|
+|                **I**                ||
+| **II** ||
+|                **III**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
-   A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
-   - Reposo
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_reposo.jpg" width="650" height="500"></p>
-     </p>
-   - Sin oposición
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_sin_oposicion.jpg" width="650" height="500"></p>
-     </p>
-   - Con oposición
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Biceps_graficas_oposicion.jpg" width="650" height="500"></p>
+|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
+|:------------------------------------------:|:---------:|
+|                **I**                ||
+| **II** ||
+|                **III**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
 
 ### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
-El músculo abductor corto del pulgar (ACP) pertenece al primer plano muscular subfascial de la región tenar de gran importancia en los movimientos del pulgar. 
-La ubicación de los electrodos fue la siguiente según la GUÍA DE PROCEDIMIENTO DE ELECTROMIOGRAFÍA Y VELOCIDAD DE CONDUCCIÓN DE NERVIOS PERIFÉRICOS del Instituto Nacional del Niño de San Borja:
-Electrodo activo (G1): Colocar sobre el centro del músculo abductor corto del pulgar 
-(ACP), un tercio de la distancia entre el pliegue carpo metacarpiano y la articulación 
-metacarpo falángica del pulgar (1er dedo). 
-Electrodo de referencia (G2): Colocar sobre la articulación metacarpo falángico del 
-primer dedo, distal al electrodo activo. 
-Electrodo tierra: Colocado en el dorso de la mano.
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/aductor pulgar.jpg" width="650" height="250"></p>
-<div align="center">Figura 5: Posicionamiento de electrodos para la obtención de señales en el mùculo aductor del pulgar derecho.</i></div>
-</p>
-
-<div align="center">
-   
-|  **Reposo**  | **Sin oposición** | **Con oposición** |
-|:------------:|:---------------:|:------------:|
-|<video src="https://user-images.githubusercontent.com/67a14538-64fe-4a2a-a8d6-a3e4a3f076d5.mp4"></video>|<video src="https://user-images.githubusercontent.com/af3715f6-c9ae-4d9e-88d6-e9c4592ccc69.mp4"></video>|<video src= "https://user-images.githubusercontent.com/077e5478-1f01-4cbe-a1b1-619135a5ab11.mp4"></video>|
-
-<p align="justify">
-<div align="center">Para mejor visualización de los videos dar click en el ícono de Youtube</i></div>
-</p>  
-
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLKyz-4YrUo3R1rk6B5YFyBnburL7kmY8D)
-</div>
+- ### **Ploteo en OpenSignals**
+|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
+|:------------------------------------------:|:---------:|
+|                **I**                ||
+| **II** ||
+|                **III**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
-   A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
-   - Reposo
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Pulgar_graficas_reposo.jpg" width="650" height="500"></p>
-     </p>
-   - Sin oposición
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Pulgar_graficas_sin_oposicion.jpg" width="650" height="500"></p>
-     </p>
-   - Con oposición
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Pulgar_graficas_oposicion.jpg" width="650" height="500"></p>
-     </p>
+|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
+|:------------------------------------------:|:---------:|
+|                **I**                ||
+| **II** ||
+|                **III**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
 
 ### **Reposo basal** <a name="id8"></a>
 Se eligió el gastronemio por su fácil localización y sencilla activación del músculo.
