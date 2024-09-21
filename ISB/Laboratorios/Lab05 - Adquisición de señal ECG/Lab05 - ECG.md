@@ -12,9 +12,9 @@
    4.5 [Después de una actividad física](#id9)\
    4.6 [Señal del Promsim4](#id10)\
    4.7 [Archivos](#id11)
-6. [Conclusiones](#id12)
-7. [Recomendaciones](#id13)
-6. [Referencias bibliográficas](#id14)
+5. [Conclusiones](#id12)
+6. [Recomendaciones](#id13)
+7. [Referencias bibliográficas](#id14)
 
 ## **Introducción** <a name="id1"></a>
 AAAAA
