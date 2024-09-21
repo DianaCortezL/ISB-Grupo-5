@@ -154,6 +154,12 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 
 
 ### **Señal del Promsim4** <a name="id10"></a>
+Se realizó una simulación de diferentes latidos por minuto utilizando el dispositivo de metrología FLUKE ProSim4 que genera una señal patrón
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/prosim.jpg" width="400" height="266"></p>
+<div align="center">Figura 2: Conexión del Prosim y BITalino - 60 lpm</i></div>
+</p>
+
 <div align="center">
    
 |                 **Simulación**                 | **Toma en OpenSignal** |
