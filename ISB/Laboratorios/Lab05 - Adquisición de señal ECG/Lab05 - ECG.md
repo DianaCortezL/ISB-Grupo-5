@@ -116,6 +116,14 @@ El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspi
 |                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_mant_resp_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_mant_resp_fft.jpg" width="500" height="270"></p>|
 
 </div>
+Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto mantiene la respiración por 10 segundos
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_mant_resp.jpg" width="600" height="400"></p>
+<div align="center">Figura 4: Identifiación de ondas para la I derivación cuando el sujeto mantiene la respiración</i></div>
+</p>
+
+De la Figura 4, se obtuvo un intervalo de onda R-R de 1.3 segundos y aplicando la ecuación anterior se obtiene un lpm de 46.
+
 
 ### **Reposo basal** <a name="id8"></a>
 Reposo después de mantener la respiración
