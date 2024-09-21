@@ -165,8 +165,8 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 </div>
 
 ### **Archivos** <a name="id11"></a>
-- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/faacf940cd92a67b1431c22d82b8411c5dae7d26/Otros/Archivos%20varios/Lab4_EMG)
-- [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/be9da5dae231d9adf809ada70db73281b355ea1a/ISB/Laboratorios/Lab04%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20EMG/LabEMG.ipynb)
+- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/ca2087a1e8c80dfdf1d244956771d8c6e7e543ac/Otros/Archivos%20varios/Lab5_ECG)
+- [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/ca2087a1e8c80dfdf1d244956771d8c6e7e543ac/ISB/Laboratorios/Lab05%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20ECG/LabECG.ipynb)
 
 ## **Conclusiones** <a name="id12"></a>
    -
