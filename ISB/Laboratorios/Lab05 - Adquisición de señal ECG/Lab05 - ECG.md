@@ -42,21 +42,20 @@ AAAAA Básicos del ECG, tipo de ondas, uso de ECG, derivaciones y descripción d
 <div align="center">Figura 2: Kit BITalino y electrodos</i></div>
 </p>
 
-## **Conexión usada y Procedimiento** <a name="id4"></a>
+## **Conexión usada y procedimiento** <a name="id4"></a>
 ### **Conexión usada** 
-DESCRIBIR EL TIPO DE CONEXION PARA CADA DERIVACIÓN Y LA POSICION DE LOS ELECTRODOS PARA CADA UNA, PONER IMAGENES SEÑALANDO 
+DESCRIBIR EL TIPO DE CONEXION PARA CADA DERIVACIÓN Y LA POSICION DE LOS ELECTRODOS PARA CADA UNA, PONER IMAGENES SEÑALANDO, COLOCAR QUE SE SIGUIO LA CONEXION DEL PDF DEL BITALINO Y UNA GUIA CLINICA: GUIA GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”. O BUSCAR OTRA 
    1. I derivación bipolar
    2. II derivación bipolar
    3. III derivación bipolar
+      
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
 <div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
 </p>
 
 ### **Procedimiento** 
-
-El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y Velocidad de Conducción de nervios periféricos (2020) elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) - GP-001/INSNSB/UAIE/SUAIEPSE – NEUROLOGIA PEDIATRICA V01 (RD N° 000226-2020-DG-INSNSB) [4].
-
+COLOCAR PROCEDIMIENTO, SEÑALAR QUE MEDIMOS EL ECG EM ESTADO BASAL, EJERCICO, ETC Y QUE SE CAMBIABAN LAS POSICIONES DE LOS ELCETRODOS PARA TENER LAS 3 DERIVACIONES. 
 ## **Resultados** <a name="id5"></a>
 ### **Estado basal** <a name="id6"></a>
 El sujeto de prueba se quedó quieto y manteniendo la calma
