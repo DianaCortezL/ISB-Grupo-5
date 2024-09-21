@@ -55,7 +55,8 @@ DESCRIBIR EL TIPO DE CONEXION PARA CADA DERIVACIÓN Y LA POSICION DE LOS ELECTRO
 </p>
 
 ### **Procedimiento** 
-COLOCAR PROCEDIMIENTO, SEÑALAR QUE MEDIMOS EL ECG EM ESTADO BASAL, EJERCICO, ETC Y QUE SE CAMBIABAN LAS POSICIONES DE LOS ELCETRODOS PARA TENER LAS 3 DERIVACIONES. 
+COLOCAR PROCEDIMIENTO, SEÑALAR QUE MEDIMOS EL ECG EM ESTADO BASAL, EJERCICO, ETC Y QUE SE CAMBIABAN LAS POSICIONES DE LOS ELCETRODOS PARA TENER LAS 3 DERIVACIONES.  
+
 ## **Resultados** <a name="id5"></a>
 ### **Estado basal** <a name="id6"></a>
 El sujeto de prueba se quedó quieto y manteniendo la calma
@@ -81,6 +82,16 @@ El sujeto de prueba se quedó quieto y manteniendo la calma
 |                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_reposo_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_reposo_fft.jpg" width="500" height="270"></p>|
 
 </div>
+Se analizó la primera derivación para poder identificar segmentos y ondas específicas. Además, se calculó el intervalo R-R en las señales para poder obtener los latidos por minuto (lpm) y poder compararlos con el dispositivo patrón (FLUKE ProSim4). En este semtido, el intervalo R-R en un ECG es el tiempo entre dos picos consecutivos de ondas R. La fórmula para calcular los latidos por minuto (lpm) a partir del intervalo R-R es:  
+
+$$ LPM = \frac{60}{\text{Intervalo  R-R (segundos)}} $$
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_reposo.jpg" width="600" height="400"></p>
+<div align="center">Figura 3: Identifiación de ondas para la I derivación en estado basal</i></div>
+</p>
+
+De la Figura 3, se obtuvo un intervalo de onda R-R de 1.22 segundos y aplicando la ecuación anterior se obtiene un lpm de 49.
 
 ### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
 El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
@@ -105,6 +116,14 @@ El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspi
 |                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_mant_resp_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_mant_resp_fft.jpg" width="500" height="270"></p>|
 
 </div>
+Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto mantiene la respiración por 10 segundos
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_mant_resp.jpg" width="600" height="400"></p>
+<div align="center">Figura 4: Identifiación de ondas para la I derivación cuando el sujeto mantiene la respiración</i></div>
+</p>
+
+De la Figura 4, se obtuvo un intervalo de onda R-R de 1.3 segundos y aplicando la ecuación anterior se obtiene un lpm de 46.
+
 
 ### **Reposo basal** <a name="id8"></a>
 Reposo después de mantener la respiración
