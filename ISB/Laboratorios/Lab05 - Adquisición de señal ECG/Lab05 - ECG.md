@@ -76,7 +76,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
    
 |                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
 |:------------------------------------------:|:---------:|:------------:|
-|                **I**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_EMG/D1_reposo_time.jpg" width="400" height="266"></p>|
+|                **I**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_reposo_time.jpg" width="400" height="266"></p>|
 | **II** ||
 |                **III**                ||
 
