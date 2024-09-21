@@ -4,20 +4,20 @@
 1. [Introducción](#id1)
 2. [Objetivos](#id2)
 3. [Materiales y equipos](#id3)
-4. [Resultados](#id4)\
-   4.1 [Conexión usada](#id5)\
-   4.2 [Estado basal](#id6)\
-   4.3 [Manteniendo la respiración por 10 segundos](#id7)\
-   4.4 [Reposo basal](#id8)\
-   4.5 [Después de una actividad física](#id9)\
-   4.6 [Señal del Promsim4](#id10)\
-   4.7 [Archivos](#id11)
-5. [Conclusiones](#id12)
-6. [Recomendaciones](#id13)
-7. [Referencias bibliográficas](#id14)
+4. [Conexión usada y procedimiento](#id4)
+5. [Resultados](#id5)\
+   4.1 [Estado basal](#id6)\
+   4.2 [Manteniendo la respiración por 10 segundos](#id7)\
+   4.3 [Reposo basal](#id8)\
+   4.4 [Después de una actividad física](#id9)\
+   4.5 [Señal del Promsim4](#id10)\
+   4.6 [Archivos](#id11)
+6. [Conclusiones](#id12)
+7. [Recomendaciones](#id13)
+8. [Referencias bibliográficas](#id14)
 
 ## **Introducción** <a name="id1"></a>
-AAAAA
+AAAAA Básicos del ECG, tipo de ondas, uso de ECG, derivaciones y descripción de lo que se hará en el lab
 
 ## **Objetivos** <a name="id2"></a>
 * Adquirir señales biomédicas de ECG
@@ -27,14 +27,13 @@ AAAAA
 
 ## **Materiales y equipos** <a name="id3"></a>
 <div align="center">
-
+   
 |  **Modelo**  | **Descripción** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
 |       -      |    Electrodos   |       3      |
 <div align="center"> Tabla 1: Materiales y equipos</i></div>
-
 
 </div>
 
@@ -43,9 +42,9 @@ AAAAA
 <div align="center">Figura 2: Kit BITalino y electrodos de superficie</i></div>
 </p>
 
-
-## **Resultados** <a name="id4"></a>
-### **Conexión usada** <a name="id5"></a>
+## **Conexión usada y Procedimiento** <a name="id4"></a>
+### **Conexión usada** 
+DESCRIBIR EL TIPO DE CONEXION PARA CADA DERIVACIÓN Y LA POSICION DE LOS ELECTRODOS PARA CADA UNA, PONER IMAGENES SEÑALANDO 
    1. I derivación bipolar
    2. II derivación bipolar
    3. III derivación bipolar
@@ -54,78 +53,115 @@ AAAAA
 <div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
 </p>
 
+### **Procedimiento** 
+
 El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la Guía De Procedimiento de Electromiografía y Velocidad de Conducción de nervios periféricos (2020) elaborada por el Instituto Nacional del Niño de San Borja para el Ministerio de Salud (MINSA) - GP-001/INSNSB/UAIE/SUAIEPSE – NEUROLOGIA PEDIATRICA V01 (RD N° 000226-2020-DG-INSNSB) [4].
 
+## **Resultados** <a name="id5"></a>
 ### **Estado basal** <a name="id6"></a>
 - ### **Ploteo en OpenSignals**
+  
+<div align="center">
+   
 |                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
 |:------------------------------------------:|:---------:|
 |                **I**                ||
 | **II** ||
 |                **III**                ||
 
+</div>
+
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+<div align="center">
+   
 |                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
 |:------------------------------------------:|:---------:|:------------:|
 |                **I**                ||
 | **II** ||
 |                **III**                ||
+
+</div>
 
 ### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
 - ### **Ploteo en OpenSignals**
+<div align="center">
+   
 |                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
 |:------------------------------------------:|:---------:|
 |                **I**                ||
 | **II** ||
 |                **III**                ||
 
+</div>
+
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+<div align="center">
+
 |                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
 |:------------------------------------------:|:---------:|:------------:|
 |                **I**                ||
 | **II** ||
 |                **III**                ||
+
+</div>
 
 ### **Reposo basal** <a name="id8"></a>
 - ### **Ploteo en OpenSignals**
+<div align="center">
+   
 |                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
 |:------------------------------------------:|:---------:|
 |                **I**                ||
 | **II** ||
 |                **III**                ||
 
+</div>
+
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+<div align="center">
+
 |                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
 |:------------------------------------------:|:---------:|:------------:|
 |                **I**                ||
 | **II** ||
 |                **III**                ||
 
+</div>
 
-### **Después de una actividad física** <a name="id9"></a>
+### **Después de una actividad física** <a name="id9"></a>   
 - ### **Ploteo en OpenSignals**
+<div align="center">
+
 |                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
 |:------------------------------------------:|:---------:|
 |                **I**                ||
 | **II** ||
 |                **III**                ||
 
+</div>
+
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+<div align="center">
+   
 |                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
 |:------------------------------------------:|:---------:|:------------:|
 |                **I**                ||
 | **II** ||
 |                **III**                ||
+
+</div>
 
 
 ### **Señal del Promsim4** <a name="id10"></a>
 <div align="center">
-|                 **Simulación**                 | **Toma** |
+   
+|                 **Simulación**                 | **Toma en OpenSignal** |
 |:------------------------------------------:|:---------:|
 |**Simulación de 60lpm - estado basal**||
 |**Simulación de 120lpm - empieza a agitarse**||
 |**Simulación de 150lpm - haciendo ejercicio**||
 |**Simulación de 90lpm - reponiendose**||
+
 </div>
 
 ### **Archivos** <a name="id11"></a>
