@@ -32,7 +32,7 @@ AAAAA
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
-|       -      |    Electrodos de superficie   |       3      |
+|       -      |    Electrodos   |       3      |
 <div align="center"> Tabla 1: Materiales y equipos</i></div>
 
 
@@ -62,14 +62,14 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 |:------------------------------------------:|:---------:|
 |                **I**                ||
 | **II** ||
-|                **III**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
+|                **III**                ||
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
-|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
-|:------------------------------------------:|:---------:|
+|                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
+|:------------------------------------------:|:---------:|:------------:|
 |                **I**                ||
 | **II** ||
-|                **III**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
+|                **III**                ||
 
 ### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
 - ### **Ploteo en OpenSignals**
@@ -77,93 +77,56 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 |:------------------------------------------:|:---------:|
 |                **I**                ||
 | **II** ||
-|                **III**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
+|                **III**                ||
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+|                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
+|:------------------------------------------:|:---------:|:------------:|
+|                **I**                ||
+| **II** ||
+|                **III**                ||
+
+### **Reposo basal** <a name="id8"></a>
+- ### **Ploteo en OpenSignals**
 |                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
 |:------------------------------------------:|:---------:|
 |                **I**                ||
 | **II** ||
-|                **III**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
-
-### **Reposo basal** <a name="id8"></a>
-Se eligió el gastronemio por su fácil localización y sencilla activación del músculo.
-Los electrodos se ubicaron de la siguiente manera:
-Electrodo 1: Ubicado en la piel superficial al músculo, zona anterior de la pierna
-Electrodo 2: Ubicado en la piel superficial al músculo, zona anterior de la pierna, distanciado del primer electrodo verticalmente
-Neutro: Ubicado en la parte superficial de la tibia.
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastrocnemio.jpg" width="700" height="400"></p>
-<div align="center">Figura 6: Posicionamiento de electrodos para la obtención de señales en el músculo gastrocnemio derecho.</i></div>
-</p>
-
-<div align="center">
-   
-|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo sin oposición** |
-|:------------:|:---------------:|:------------:|
-|<video src="https://user-images.githubusercontent.com/27d392ad-a041-4e54-8f90-0a6b14e80f0f.mp4"></video>|<video src="https://user-images.githubusercontent.com/75a6c4f4-0524-44a8-b6da-cfe3df00bb69.mp4"></video>|<video src= "https://user-images.githubusercontent.com/68bb1c7a-39ac-415c-a21c-0ae45fc841b5.mp4"></video>|
-
-<p align="justify">
-<div align="center">Para mejor visualización de los videos dar click en el ícono de Youtube</i></div>
-</p>  
-
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLKyz-4YrUo3RR13SN4Ai1WwyWk6ezuXg1)
-
-</div>
+|                **III**                ||
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
-   A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
-   - Reposo
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastronecmio_graficas_reposo.jpg" width="650" height="500"></p>
-     </p>
-   - Esfuerzo
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastronecmio_graficas_esfuerzo.jpg" width="650" height="500"></p>
-     </p>
-   - Sobreesfuerzo sin oposición
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Gastronecmio_graficas_sobreesfuerzo.jpg" width="650" height="500"></p>
-     </p>
-     
+|                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
+|:------------------------------------------:|:---------:|:------------:|
+|                **I**                ||
+| **II** ||
+|                **III**                ||
+
+
 ### **Después de una actividad física** <a name="id9"></a>
-Se escogió el músculo al ser superficial y de fácil identificación igual que el de la prueba 1, pero considerando que está en la zona posterior del brazo y los movimientos de esfuerzo serán diferentes, se optó por la rotación. La ubicación de los electrodos fue guiada a partir de AAAAAAAAAAAAAAAAAA y se realizaron pruebas en reposo, esfuerzo sin oposición y esfuerzo con oposición para analizar el cambio de señal.
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/triceps.jpg" width="400" height="500"></p>
-<div align="center">Figura 7: Posicionamiento de electrodos para la obtención de señales en el triceps braquial derecho.</i></div>
-</p>  
-
-
-<div align="center">
-   
-|  **Reposo**  | **Esfuerzo** | **Sobreesfuerzo sin oposición** |
-|:------------:|:---------------:|:------------:|
-|<video src="https://user-images.githubusercontent.com/3d2e256b-1b0b-45e6-881a-7c67814c92b9.mp4"></video>|<video src="https://user-images.githubusercontent.com/c606cd01-5a08-4b8c-a946-48103dcaaec7.mp4"></video>|<video src= "https://user-images.githubusercontent.com/d8ca2d70-d802-41ab-8d84-04cf8d5b42a7.mp4"></video>|
-
-<p align="justify">
-<div align="center">Para mejor visualización de los videos dar click en el ícono de Youtube</i></div>
-</p>  
-
-[<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLKyz-4YrUo3Q2SirQwFWpUK6rOJ3rqsKD)
-
-</div>
+- ### **Ploteo en OpenSignals**
+|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
+|:------------------------------------------:|:---------:|
+|                **I**                ||
+| **II** ||
+|                **III**                ||
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
-   A coninuación se muestran la data obtenida en el dominio del tiempo y dominio de la frecuencia
-   - Reposo
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Triceps_graficas_reposo.jpg" width="650" height="500"></p>
-     </p>
-   - Esfuerzo
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Triceps_graficas_esfuerzo.jpg" width="650" height="500"></p>
-     </p>
-   - Sobreesfuerzo sin oposición
-     <p align="justify">
-     <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/Triceps_graficas_sobreesfuerzo.jpg" width="650" height="500"></p>
-     </p>
+|                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
+|:------------------------------------------:|:---------:|:------------:|
+|                **I**                ||
+| **II** ||
+|                **III**                ||
+
 
 ### **Señal del Promsim4** <a name="id10"></a>
+<div align="center">
+|                 **Simulación**                 | **Toma** |
+|:------------------------------------------:|:---------:|
+|**Simulación de 60lpm - estado basal**||
+|**Simulación de 120lpm - empieza a agitarse**||
+|**Simulación de 150lpm - haciendo ejercicio**||
+|**Simulación de 90lpm - reponiendose**||
+</div>
 
 ### **Archivos** <a name="id11"></a>
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/faacf940cd92a67b1431c22d82b8411c5dae7d26/Otros/Archivos%20varios/Lab4_EMG)
