@@ -66,9 +66,9 @@ El sujeto de prueba se quedó quieto y manteniendo la calma
    
 |                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
 |:------------------------------------------:|:---------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
+|                **I**                || <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD1.PNG" width="500" height="270"></p>
+| **II** || <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD2.PNG" width="500" height="270"></p>
+|                **III**                || <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD3.PNG" width="500" height="270"></p>
 
 </div>
 
