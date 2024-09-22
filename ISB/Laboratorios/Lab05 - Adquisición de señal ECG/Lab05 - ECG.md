@@ -87,7 +87,7 @@ Se analizó la primera derivación para poder identificar segmentos y ondas espe
 $$ LPM = \frac{60}{\text{Intervalo  R-R (segundos)}} $$
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_reposo.jpg" width="600" height="400"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_reposo1.jpg" width="600" height="400"></p>
 <div align="center">Figura 3: Identifiación de ondas para la I derivación en estado basal</i></div>
 </p>
 
@@ -118,7 +118,7 @@ El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspi
 </div>
 Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto mantiene la respiración por 10 segundos
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_mant_resp.jpg" width="600" height="400"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_mant_resp1.jpg" width="600" height="400"></p>
 <div align="center">Figura 4: Identifiación de ondas para la I derivación cuando el sujeto mantiene la respiración</i></div>
 </p>
 
@@ -151,7 +151,7 @@ Reposo después de mantener la respiración
 
 Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto está en estado basal.
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_post_resp.jpg" width="600" height="400"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_post_resp1.jpg" width="600" height="400"></p>
 <div align="center">Figura 4: Identifiación de ondas para la I derivación en estado basal</i></div>
 </p>
 
@@ -182,7 +182,7 @@ por 5 minutos
 
 
 </div>
-
+Notamos que niguna de las 3 derivaciones muestra una señal ECG adecuada debido a que no se logra distinguir de forma adecuada las ondas y segmentos relevantes por lo que no es posible hallar los latidos por minuto. Probablemte se haya colocado los electrodos de forma incorrecta u otro problema durante la toma de datos.
 
 ### **Señal del Promsim4** <a name="id10"></a>
 Se realizó una simulación de diferentes latidos por minuto utilizando el dispositivo de metrología FLUKE ProSim4 que genera una señal patrón.
