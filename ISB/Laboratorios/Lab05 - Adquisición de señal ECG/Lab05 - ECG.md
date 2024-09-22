@@ -63,11 +63,11 @@ El sujeto de prueba se quedó quieto y manteniendo la calma
 - ### **Ploteo en OpenSignals**
   
 <div align="center">
-
-|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|                **I**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD1.PNG" width="500" height="270"></p>|
-| **II** || <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD2.PNG" width="500" height="270"></p>
+ 
+|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
+|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD1.PNG" width="500" height="270"></p>|
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD2.PNG" width="500" height="270"></p>|
 |                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD3.PNG" width="500" height="270"></p>|
 
 </div>
