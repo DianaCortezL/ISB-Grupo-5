@@ -22,6 +22,7 @@ El ECG o electrocardiograma es una prueba médica que registra la actividad elé
 Las señales ECG son captadas mediante electrodos colocados en la superficie corporal, permitiendo el diagnóstico y monitoreo de condiciones cardíacas como arritmias, infartos de miocardio y otras alteraciones del ritmo cardíaco 
 
 El ciclo cardíaco esta compuesto de diferentes ondas: [1]
+
    . Onda P: Es la primera onda del ciclo cardíaco y representa la despolarización de las aurículas.  
    
    . Onda Q: Es la primera onda correspondiente al complejo QRS, su valor es negativo.  
