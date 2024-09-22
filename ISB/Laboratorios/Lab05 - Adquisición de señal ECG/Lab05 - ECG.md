@@ -21,9 +21,11 @@ El ECG o electrocardiograma es una prueba médica que registra la actividad elé
 
 Las señales ECG son captadas mediante electrodos colocados en la superficie corporal, permitiendo el diagnóstico y monitoreo de condiciones cardíacas como arritmias, infartos de miocardio y otras alteraciones del ritmo cardíaco 
 
-El ECG muestra principalmente tres tipos de ondas: la onda P, que indica la despolarización auricular; el complejo QRS, que representa la despolarización ventricular; y la onda T, que refleja la repolarización ventricular. Estos componentes ofrecen información detallada sobre el ciclo cardíaco y son esenciales para la interpretación clínica
+El ECG muestra principalmente tres tipos de ondas: la onda P, que indica la despolarización auricular; el complejo QRS, que representa la despolarización ventricular; y la onda T, que refleja la repolarización ventricular. Estos componentes ofrecen información detallada sobre el ciclo cardíaco y son esenciales para la interpretación clínica [1]
 
 En este laboratorio, se utilizarán tres electrodos para adquirir las señales de ECG de las derivadas de Einthoven I, II y III. Para poder obtener una visión completa de las tres derivadas de Einthoven utilizando solo tres electrodos, se realizarán cambios en la posición de estos.
+
+
 
 
 ## **Objetivos** <a name="id2"></a>
@@ -220,5 +222,5 @@ Se realizó una simulación de diferentes latidos por minuto utilizando el dispo
 
 
 ## **Referencias bibliográficas** <a name="id14"></a>
-[1] 
+[1] Las ondas del electrocardiograma (ECG)," My EKG, 2024. [En línea]. Disponible en: https://www.my-ekg.com/generalidades-ekg/ondas-electrocardiograma.html. 
 ‌
