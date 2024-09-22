@@ -90,7 +90,9 @@ Para la correcta colocación de los electrodos, seguimos dos guías: la "Guía d
          - Electrodo negativo (LA): brazo izquierdo
          - Electrodo positivo (LL): pierna izquierda
          - Electrodo de referencia (RL): pierna derecha
-      
+
+</div>
+
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
 <div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
@@ -102,6 +104,18 @@ Se realizó la adquisición de las señales ECG en cuatro condiciones diferentes
    2. Contención de la respiración: El sujeto mantuvo la respiración durante 10 segundos, y durante ese tiempo, se registraron las tres derivadas.
    3. Post-contención de la respiración: Inmediatamente después de la contención, con el sujeto de vuelta en estado basal, se volvieron a registrar las tres derivadas.
    4. Después de actividad física: El sujeto realizó ejercicio durante 5 minutos y, al finalizar, se tomaron nuevamente las tres derivadas en su estado de recuperación.
+
+</div>
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/einthoven.png" width="400" height="266"></p>
+<div align="center">Figura 4: Triangulo de Einthoven</i></div>
+</p>
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/einthoven 3.png" width="400" height="266"></p>
+<div align="center">Figura 5: 3 derivadas de Einthoven</i></div>
+</p>
 
 ## **Resultados** <a name="id5"></a>
 ### **Estado basal** <a name="id6"></a>
