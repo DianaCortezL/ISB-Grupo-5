@@ -19,6 +19,13 @@
 ## **Introducción** <a name="id1"></a>
 El ECG o electrocardiograma es una prueba médica que registra la actividad eléctrica del corazón. Cada latido genera impulsos eléctricos que viajan por el corazón y el ECG captura estos impulsos y los presenta como ondas en un gráfico. Con él podemos analizar el ritmo cardíaco, identificar arritmias y detectar posibles daños en el corazón.
 
+Las señales ECG son captadas mediante electrodos colocados en la superficie corporal, permitiendo el diagnóstico y monitoreo de condiciones cardíacas como arritmias, infartos de miocardio y otras alteraciones del ritmo cardíaco 
+
+El ECG muestra principalmente tres tipos de ondas: la onda P, que indica la despolarización auricular; el complejo QRS, que representa la despolarización ventricular; y la onda T, que refleja la repolarización ventricular. Estos componentes ofrecen información detallada sobre el ciclo cardíaco y son esenciales para la interpretación clínica
+
+En este laboratorio, se utilizarán tres electrodos para adquirir las señales de ECG de las derivadas de Einthoven I, II y III. Para poder obtener una visión completa de las tres derivadas de Einthoven utilizando solo tres electrodos, se realizarán cambios en la posición de estos.
+
+
 ## **Objetivos** <a name="id2"></a>
 * Adquirir señales biomédicas de ECG
 * Hacer una correcta configuración de BiTalino.
@@ -163,9 +170,9 @@ por 5 minutos
 
 |         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
 |:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD1.PNG" width="500" height="270"></p> |
-|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD2.PNG" width="500" height="270"></p> |
-|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD3.PNG" width="500" height="270"></p> |
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD1.PNG" width="500" height="270"></p>|
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD2.PNG" width="500" height="270"></p>|
+|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD3.PNG" width="500" height="270"></p>|
 
 </div>
 
@@ -192,12 +199,12 @@ Se realizó una simulación de diferentes latidos por minuto utilizando el dispo
 
 <div align="center">
    
-|                   **Simulación**                 |                                         **Toma en OpenSignal**                                         |
-|:------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-|      **Simulación de 60 lpm - estado basal**     |  <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim60.PNG" width="500" height="270"></p> |
-|  **Simulación de 120 lpm - empieza a agitarse**  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim120.PNG" width="500" height="270"></p> |
-|  **Simulación de 150 lpm - haciendo ejercicio**  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim150.PNG" width="500" height="270"></p> |
-|      **Simulación de 90 lpm - reponiendose**     | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim90.PNG" width="500" height="270"></p> |
+|                 **Simulación**                 | **Toma en OpenSignal** |
+|:------------------------------------------:|:---------:|
+|**Simulación de 60 lpm - estado basal**||
+|**Simulación de 120 lpm - empieza a agitarse**||
+|**Simulación de 150 lpm - haciendo ejercicio**||
+|**Simulación de 90 lpm - reponiendose**||
 
 </div>
 
