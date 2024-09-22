@@ -161,11 +161,11 @@ por 5 minutos
 - ### **Ploteo en OpenSignals**
 <div align="center">
 
-|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
+|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
+|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD1.PNG" width="500" height="270"></p>|
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD2.PNG" width="500" height="270"></p>|
+|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD3.PNG" width="500" height="270"></p>|
 
 </div>
 
