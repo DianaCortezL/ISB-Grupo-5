@@ -70,26 +70,26 @@ En este laboratorio, se utilizarán tres electrodos para adquirir las señales d
 ### **Conexión usada** 
 Para la correcta colocación de los electrodos, seguimos dos guías: la "Guía de Procedimiento Asistencial: Toma de Electrocardiograma del Hospital Hipólito Unanue" y la guía de uso del dispositivo Bitalino.
 
-   1. I derivación bipolar
+   1. I derivación bipolar: La señal se mide del brazo derecho al brazo izquierdo, capturando la actividad eléctrica desde una vista lateral del corazón.
       Posición de los electrodos: 
          - Electrodo negativo (RA): brazo derecho
          - Electrodo positivo (LL): pierna izquierda
          - Electrodo de referencia (RL): pierna derecha
-   La señal se mide del brazo derecho al brazo izquierdo, capturando la actividad eléctrica desde una vista lateral del corazón.
+   
 
-   2. II derivación bipolar
+   2. II derivación bipolar: La señal se mide desde el brazo derecho hasta la pierna izquierda, siendo una de las derivadas más comunes para el diagnóstico.
+
       Posición de los electrodos:
          - Electrodo negativo (RA): brazo derecho
          - Electrodo positivo (LL): pierna izquierda
          - Electrodo de referencia (RL): pierna derecha
-   La señal se mide desde el brazo derecho hasta la pierna izquierda, siendo una de las derivadas más comunes para el diagnóstico.
 
-   3. III derivación bipolar
+   3. III derivación bipolar: La señal se mide del brazo izquierdo a la pierna izquierda, proporcionando una vista adicional del corazón.
+
       Posición de los electrodos:
          - Electrodo negativo (LA): brazo izquierdo
          - Electrodo positivo (LL): pierna izquierda
          - Electrodo de referencia (RL): pierna derecha
-   La señal se mide del brazo izquierdo a la pierna izquierda, proporcionando una vista adicional del corazón.
       
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
