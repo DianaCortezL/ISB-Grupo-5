@@ -21,7 +21,7 @@ El ECG o electrocardiograma es una prueba médica que registra la actividad elé
 
 Las señales ECG son captadas mediante electrodos colocados en la superficie corporal, permitiendo el diagnóstico y monitoreo de condiciones cardíacas como arritmias, infartos de miocardio y otras alteraciones del ritmo cardíaco 
 
-El ciclo cardíaco esta compuesto de diferentes ondas:
+El ciclo cardíaco esta compuesto de diferentes ondas: [1]
    . Onda P: Es la primera onda del ciclo cardíaco y representa la despolarización de las aurículas.  
    
    . Onda Q: Es la primera onda correspondiente al complejo QRS, su valor es negativo.  
@@ -68,7 +68,7 @@ En este laboratorio, se utilizarán tres electrodos para adquirir las señales d
 
 ## **Conexión usada y procedimiento** <a name="id4"></a>
 ### **Conexión usada** 
-Para la correcta colocación de los electrodos, seguimos dos guías: la "Guía de Procedimiento Asistencial: Toma de Electrocardiograma del Hospital Hipólito Unanue" y la guía de uso del dispositivo Bitalino.
+Para la correcta colocación de los electrodos, seguimos dos guías: la "Guía de Procedimiento Asistencial: Toma de Electrocardiograma del Hospital Hipólito Unanue" [2] y la guía de uso del dispositivo Bitalino [3].
 
    1. I derivación bipolar: La señal se mide del brazo derecho al brazo izquierdo, capturando la actividad eléctrica desde una vista lateral del corazón.
       Posición de los electrodos: 
@@ -109,7 +109,7 @@ Se realizó la adquisición de las señales ECG en cuatro condiciones diferentes
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/einthoven.png" width="400" height="266"></p>
-<div align="center">Figura 4: Triangulo de Einthoven</i></div>
+<div align="center">Figura 4: Triangulo de Einthoven [4]</i></div>
 </p>
 
 <p align="justify">
@@ -148,10 +148,10 @@ $$ LPM = \frac{60}{\text{Intervalo  R-R (segundos)}} $$
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_reposo1.jpg" width="600" height="400"></p>
-<div align="center">Figura 3: Identifiación de ondas para la I derivación en estado basal</i></div>
+<div align="center">Figura 6: Identifiación de ondas para la I derivación en estado basal</i></div>
 </p>
 
-De la Figura 3, se obtuvo un intervalo de onda R-R de 1.22 segundos y aplicando la ecuación anterior se obtiene un lpm de 49.
+De la Figura 6, se obtuvo un intervalo de onda R-R de 1.22 segundos y aplicando la ecuación anterior se obtiene un lpm de 49.
 
 ### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
 El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
@@ -178,10 +178,10 @@ El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspi
 Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto mantiene la respiración por 10 segundos
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_mant_resp1.jpg" width="600" height="400"></p>
-<div align="center">Figura 4: Identifiación de ondas para la I derivación cuando el sujeto mantiene la respiración</i></div>
+<div align="center">Figura 7: Identifiación de ondas para la I derivación cuando el sujeto mantiene la respiración</i></div>
 </p>
 
-De la Figura 4, se obtuvo un intervalo de onda R-R de 1.3 segundos y aplicando la ecuación anterior se obtiene un lpm de 46.
+De la Figura 7, se obtuvo un intervalo de onda R-R de 1.3 segundos y aplicando la ecuación anterior se obtiene un lpm de 46.
 
 
 ### **Reposo basal** <a name="id8"></a>
@@ -210,10 +210,10 @@ Reposo después de mantener la respiración
 Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto está en estado basal.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_post_resp1.jpg" width="600" height="400"></p>
-<div align="center">Figura 4: Identifiación de ondas para la I derivación en estado basal</i></div>
+<div align="center">Figura 8: Identifiación de ondas para la I derivación en estado basal</i></div>
 </p>
 
-De la Figura 4, se obtuvo un intervalo de onda R-R de 1.35 segundos y aplicando la ecuación anterior se obtiene un lpm de 44.
+De la Figura 8, se obtuvo un intervalo de onda R-R de 1.35 segundos y aplicando la ecuación anterior se obtiene un lpm de 44.
 
 ### **Después de una actividad física** <a name="id9"></a> 
 El sujeto de prueba realizó movimientos aeróbicos
@@ -246,7 +246,7 @@ Notamos que niguna de las 3 derivaciones muestra una señal ECG adecuada debido 
 Se realizó una simulación de diferentes latidos por minuto utilizando el dispositivo de metrología FLUKE ProSim4 que genera una señal patrón.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/prosim.jpg" width="400" height="500"></p>
-<div align="center">Figura 2: Conexión del Prosim y BITalino - 60 lpm</i></div>
+<div align="center">Figura 9: Conexión del Prosim y BITalino - 60 lpm</i></div>
 </p>
 
 
@@ -274,4 +274,9 @@ Se realizó una simulación de diferentes latidos por minuto utilizando el dispo
 
 ## **Referencias bibliográficas** <a name="id14"></a>
 [1] Las ondas del electrocardiograma (ECG)," My EKG, 2024. [En línea]. Disponible en: https://www.my-ekg.com/generalidades-ekg/ondas-electrocardiograma.html. 
-‌
+
+‌[2] "Guía de Procedimiento Asistencial: Toma de Electrocardiograma del Hospital Nacional Hipólito Unanue," Hospital Nacional Hipólito Unanue, Ministerio de Salud, Perú, 2022. [En línea]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/3457356/RESOLUCI%C3%93N%20DIRECTORAL%20N%C2%B0%20192-2022-.pdf.pdf
+
+[3] M. Proença y K. Mrotzcek, "BITalino HomeGuide," PLUX – Wireless Biosignals, S.A., Lisboa, Portugal, 2021. [En línea]. Disponible en: http://BITalino.com/.
+
+[4] “Einthoven’s Triangle,” Unm.edu, 2024. [En línea]. Disponible en: https://www.unm.edu/~lkravitz/EKG/einthoven.html. 
