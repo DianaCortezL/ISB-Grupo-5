@@ -75,21 +75,21 @@ Para la correcta colocación de los electrodos, seguimos dos guías: la "Guía d
          - Electrodo negativo (RA): brazo derecho
          - Electrodo positivo (LL): pierna izquierda
          - Electrodo de referencia (RL): pierna derecha
-      La señal se mide del brazo derecho al brazo izquierdo, capturando la actividad eléctrica desde una vista lateral del corazón.
+   La señal se mide del brazo derecho al brazo izquierdo, capturando la actividad eléctrica desde una vista lateral del corazón.
 
    2. II derivación bipolar
       Posición de los electrodos:
          - Electrodo negativo (RA): brazo derecho
          - Electrodo positivo (LL): pierna izquierda
          - Electrodo de referencia (RL): pierna derecha
-      La señal se mide desde el brazo derecho hasta la pierna izquierda, siendo una de las derivadas más comunes para el diagnóstico.
+   La señal se mide desde el brazo derecho hasta la pierna izquierda, siendo una de las derivadas más comunes para el diagnóstico.
 
    3. III derivación bipolar
       Posición de los electrodos:
          - Electrodo negativo (LA): brazo izquierdo
          - Electrodo positivo (LL): pierna izquierda
          - Electrodo de referencia (RL): pierna derecha
-      La señal se mide del brazo izquierdo a la pierna izquierda, proporcionando una vista adicional del corazón.
+   La señal se mide del brazo izquierdo a la pierna izquierda, proporcionando una vista adicional del corazón.
       
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
