@@ -268,10 +268,14 @@ Se realizó una simulación de diferentes latidos por minuto utilizando el dispo
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/ca2087a1e8c80dfdf1d244956771d8c6e7e543ac/ISB/Laboratorios/Lab05%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20ECG/LabECG.ipynb)
 
 ## **Conclusiones** <a name="id12"></a>
-   -
+   - Se logró adquirir exitosamente las señales de ECG en las diferentes condiciones (estado basal, manteniendo la respiración, reposo post-respiración y después de actividad física) utilizando el sistema BITalino, lo que permitió la identificación de ondas y segmentos importantes del ciclo cardíaco.
+   - El intervalo R-R varió según las diferentes etapas del experimento, demostrando cambios en la frecuencia cardíaca del sujeto. Esto es consistente con las expectativas de variaciones cardíacas durante la contención de la respiración y actividad física.
+   - La simulación con el dispositivo FLUKE ProSim4 fue efectiva para comparar la señal generada por BITalino con una señal ECG estándar y ayudó a validar la funcionalidad del sistema de adquisición.
 
 ## **Recomendaciones** <a name="id13"></a>
-   -
+   - Asegurarse de la correcta colocación de los electrodos para obtener mejores señales ECG, especialmente durante la actividad física, ya que la señal no fue completamente identificable en esta etapa del experimento.
+   - Revisar la conexión de los electrodos y cables antes de iniciar la adquisición de la señal para evitar interferencias o artefactos en los registros.
+   - Utilizar filtros adecuados durante el procesamiento de la señal para reducir el ruido y mejorar la calidad de la señal ECG-
 
 
 ## **Referencias bibliográficas** <a name="id14"></a>
