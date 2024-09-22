@@ -275,7 +275,7 @@ Se realizó una simulación de diferentes latidos por minuto utilizando el dispo
 ## **Recomendaciones** <a name="id13"></a>
    - Asegurarse de la correcta colocación de los electrodos para obtener mejores señales ECG, especialmente durante la actividad física, ya que la señal no fue completamente identificable en esta etapa del experimento.
    - Revisar la conexión de los electrodos y cables antes de iniciar la adquisición de la señal para evitar interferencias o artefactos en los registros.
-   - Utilizar filtros adecuados durante el procesamiento de la señal para reducir el ruido y mejorar la calidad de la señal ECG-
+   - Utilizar filtros adecuados durante el procesamiento de la señal para reducir el ruido y mejorar la calidad de la señal ECG.
 
 
 ## **Referencias bibliográficas** <a name="id14"></a>
