@@ -149,6 +149,14 @@ Reposo después de mantener la respiración
 
 </div>
 
+Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto está en estado basal.
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_post_resp.jpg" width="600" height="400"></p>
+<div align="center">Figura 4: Identifiación de ondas para la I derivación en estado basal</i></div>
+</p>
+
+De la Figura 4, se obtuvo un intervalo de onda R-R de 1.3 segundos y aplicando la ecuación anterior se obtiene un lpm de 44.
+
 ### **Después de una actividad física** <a name="id9"></a> 
 El sujeto de prueba realizó movimientos aeróbicos
 por 5 minutos
