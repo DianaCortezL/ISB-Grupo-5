@@ -256,10 +256,10 @@ Se realizó una simulación de diferentes latidos por minuto utilizando el dispo
    
 |                 **Simulación**                 | **Toma en OpenSignal** |
 |:------------------------------------------:|:---------:|
-|**Simulación de 60 lpm - estado basal**||
-|**Simulación de 120 lpm - empieza a agitarse**||
-|**Simulación de 150 lpm - haciendo ejercicio**||
-|**Simulación de 90 lpm - reponiendose**||
+|**Simulación de 60 lpm - estado basal**| <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim60.PNG" width="500" height="270"></p>|
+|**Simulación de 120 lpm - empieza a agitarse**| <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim120.PNG" width="500" height="270"></p>|
+|**Simulación de 150 lpm - haciendo ejercicio**| <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim150.PNG" width="500" height="270"></p>|
+|**Simulación de 90 lpm - reponiendose**| <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim90.PNG" width="500" height="270"></p>|
 
 </div>
 
