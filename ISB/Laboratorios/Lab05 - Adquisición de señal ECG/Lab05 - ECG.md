@@ -68,10 +68,28 @@ En este laboratorio, se utilizarán tres electrodos para adquirir las señales d
 
 ## **Conexión usada y procedimiento** <a name="id4"></a>
 ### **Conexión usada** 
-DESCRIBIR EL TIPO DE CONEXION PARA CADA DERIVACIÓN Y LA POSICION DE LOS ELECTRODOS PARA CADA UNA, PONER IMAGENES SEÑALANDO, COLOCAR QUE SE SIGUIO LA CONEXION DEL PDF DEL BITALINO Y UNA GUIA CLINICA: GUIA GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”. O BUSCAR OTRA 
+Para la correcta colocación de los electrodos, seguimos dos guías: la "Guía de Procedimiento Asistencial: Toma de Electrocardiograma del Hospital Hipólito Unanue" y la guía de uso del dispositivo Bitalino.
+
    1. I derivación bipolar
+      Posición de los electrodos: 
+         - Electrodo negativo (RA): brazo derecho
+         - Electrodo positivo (LL): pierna izquierda
+         - Electrodo de referencia (RL): pierna derecha
+      La señal se mide del brazo derecho al brazo izquierdo, capturando la actividad eléctrica desde una vista lateral del corazón.
+
    2. II derivación bipolar
+      Posición de los electrodos:
+         - Electrodo negativo (RA): brazo derecho
+         - Electrodo positivo (LL): pierna izquierda
+         - Electrodo de referencia (RL): pierna derecha
+      La señal se mide desde el brazo derecho hasta la pierna izquierda, siendo una de las derivadas más comunes para el diagnóstico.
+
    3. III derivación bipolar
+      Posición de los electrodos:
+         - Electrodo negativo (LA): brazo izquierdo
+         - Electrodo positivo (LL): pierna izquierda
+         - Electrodo de referencia (RL): pierna derecha
+      La señal se mide del brazo izquierdo a la pierna izquierda, proporcionando una vista adicional del corazón.
       
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
@@ -79,7 +97,11 @@ DESCRIBIR EL TIPO DE CONEXION PARA CADA DERIVACIÓN Y LA POSICION DE LOS ELECTRO
 </p>
 
 ### **Procedimiento** 
-COLOCAR PROCEDIMIENTO, SEÑALAR QUE MEDIMOS EL ECG EM ESTADO BASAL, EJERCICO, ETC Y QUE SE CAMBIABAN LAS POSICIONES DE LOS ELCETRODOS PARA TENER LAS 3 DERIVACIONES.  
+Se realizó la adquisición de las señales ECG en cuatro condiciones diferentes: estado basal, contención de la respiración, post-contención de la respiración y después de actividad física. Para cada una de estas etapas, se midieron las tres derivadas de Einthoven (I, II y III), cambiando las posiciones de los electrodos de acuerdo a la derivada correspondiente
+   1. Estado basal: Con el sujeto en reposo, se tomaron las tres derivadas de Einthoven, cambiando las conexiones de los cables para obtener cada derivada.
+   2. Contención de la respiración: El sujeto mantuvo la respiración durante 10 segundos, y durante ese tiempo, se registraron las tres derivadas.
+   3. Post-contención de la respiración: Inmediatamente después de la contención, con el sujeto de vuelta en estado basal, se volvieron a registrar las tres derivadas.
+   4. Después de actividad física: El sujeto realizó ejercicio durante 5 minutos y, al finalizar, se tomaron nuevamente las tres derivadas en su estado de recuperación.
 
 ## **Resultados** <a name="id5"></a>
 ### **Estado basal** <a name="id6"></a>
