@@ -163,9 +163,9 @@ por 5 minutos
 
 |         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
 |:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD1.PNG" width="500" height="270"></p>|
-|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD2.PNG" width="500" height="270"></p>|
-|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD3.PNG" width="500" height="270"></p>|
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD1.PNG" width="500" height="270"></p> |
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD2.PNG" width="500" height="270"></p> |
+|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD3.PNG" width="500" height="270"></p> |
 
 </div>
 
@@ -192,12 +192,12 @@ Se realizó una simulación de diferentes latidos por minuto utilizando el dispo
 
 <div align="center">
    
-|                 **Simulación**                 | **Toma en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|**Simulación de 60 lpm - estado basal**||
-|**Simulación de 120 lpm - empieza a agitarse**||
-|**Simulación de 150 lpm - haciendo ejercicio**||
-|**Simulación de 90 lpm - reponiendose**||
+|                   **Simulación**                 |                                         **Toma en OpenSignal**                                         |
+|:------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|      **Simulación de 60 lpm - estado basal**     |  <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim60.PNG" width="500" height="270"></p> |
+|  **Simulación de 120 lpm - empieza a agitarse**  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim120.PNG" width="500" height="270"></p> |
+|  **Simulación de 150 lpm - haciendo ejercicio**  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim150.PNG" width="500" height="270"></p> |
+|      **Simulación de 90 lpm - reponiendose**     | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim90.PNG" width="500" height="270"></p> |
 
 </div>
 
