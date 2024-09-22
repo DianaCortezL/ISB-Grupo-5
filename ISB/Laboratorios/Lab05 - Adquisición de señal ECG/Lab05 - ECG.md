@@ -17,7 +17,7 @@
 8. [Referencias bibliográficas](#id14)
 
 ## **Introducción** <a name="id1"></a>
-AAAAA Básicos del ECG, tipo de ondas, uso de ECG, derivaciones y descripción de lo que se hará en el lab
+El ECG o electrocardiograma es una prueba médica que registra la actividad eléctrica del corazón. Cada latido genera impulsos eléctricos que viajan por el corazón y el ECG captura estos impulsos y los presenta como ondas en un gráfico.
 
 ## **Objetivos** <a name="id2"></a>
 * Adquirir señales biomédicas de ECG
