@@ -21,7 +21,16 @@ El ECG o electrocardiograma es una prueba médica que registra la actividad elé
 
 Las señales ECG son captadas mediante electrodos colocados en la superficie corporal, permitiendo el diagnóstico y monitoreo de condiciones cardíacas como arritmias, infartos de miocardio y otras alteraciones del ritmo cardíaco 
 
-El ECG muestra principalmente tres tipos de ondas: la onda P, que indica la despolarización auricular; el complejo QRS, que representa la despolarización ventricular; y la onda T, que refleja la repolarización ventricular. Estos componentes ofrecen información detallada sobre el ciclo cardíaco y son esenciales para la interpretación clínica
+El ciclo cardíaco esta compuesto de diferentes ondas:
+   . Onda P: Es la primera onda del ciclo cardíaco y representa la despolarización de las aurículas.
+   . Onda Q: Es la primera onda correspondiente al complejo QRS, su valor es negativo.
+   . Onda R: Es la segunda onda correspondiente al complejo QRS, su valor es positivo y se ve representada por un pico de gran tamaño.
+   . Onda S: Es la última onda correspondiente al compejo QRS, su valor es negativo y similar al de la onda Q.
+   . Onda T: Representa la repolarización de los ventrículos y posee una menor amplitud que el complejo QRS.
+   . Onda U: Onda de escasa amplitud, aparece inmediatamente despúes de la onda T y suele verse representada habitualmente en las derivaciones precordiales
+
+Esta prueba es usada es diferentes circunstancias en el entorno médico, su uso comprende desde el monitoreo de pacientes hospitalizados o durante una cirujía, hasta revisiones rutinarias. Otra función fundamental de esta prueba es el diagnóstico de patologías cardíacas como arritmias, infartos al miocardio, taquicardias, etc.
+
 
 En este laboratorio, se utilizarán tres electrodos para adquirir las señales de ECG de las derivadas de Einthoven I, II y III. Para poder obtener una visión completa de las tres derivadas de Einthoven utilizando solo tres electrodos, se realizarán cambios en la posición de estos.
 
