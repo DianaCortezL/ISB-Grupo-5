@@ -24,11 +24,16 @@ Las señales ECG son captadas mediante electrodos colocados en la superficie cor
 El ciclo cardíaco esta compuesto de diferentes ondas:
    . Onda P: Es la primera onda del ciclo cardíaco y representa la despolarización de las aurículas.  
    
-   . Onda Q: Es la primera onda correspondiente al complejo QRS, su valor es negativo.
-   . Onda R: Es la segunda onda correspondiente al complejo QRS, su valor es positivo y se ve representada por un pico de gran tamaño.
-   . Onda S: Es la última onda correspondiente al compejo QRS, su valor es negativo y similar al de la onda Q.
-   . Onda T: Representa la repolarización de los ventrículos y posee una menor amplitud que el complejo QRS.
-   . Onda U: Onda de escasa amplitud, aparece inmediatamente despúes de la onda T y suele verse representada habitualmente en las derivaciones precordiales
+   . Onda Q: Es la primera onda correspondiente al complejo QRS, su valor es negativo.   
+   
+   . Onda R: Es la segunda onda correspondiente al complejo QRS, su valor es positivo y se ve representada por un pico de gran tamaño.  
+   
+   . Onda S: Es la última onda correspondiente al compejo QRS, su valor es negativo y similar al de la onda Q.  
+   
+   . Onda T: Representa la repolarización de los ventrículos y posee una menor amplitud que el complejo QRS.  
+   
+   . Onda U: Onda de escasa amplitud, aparece inmediatamente despúes de la onda T y suele verse representada habitualmente en las derivaciones precordiales.  
+   
 
 Esta prueba es usada es diferentes circunstancias en el entorno médico, su uso comprende desde el monitoreo de pacientes hospitalizados o durante una cirujía, hasta revisiones rutinarias. Otra función fundamental de esta prueba es el diagnóstico de patologías cardíacas como arritmias, infartos al miocardio, taquicardias, etc.
 
