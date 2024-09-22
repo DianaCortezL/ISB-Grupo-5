@@ -113,7 +113,7 @@ Se realizó la adquisición de las señales ECG en cuatro condiciones diferentes
 </p>
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/einthoven 3.png" width="400" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/einthoven 3.png" width="600" height="266"></p>
 <div align="center">Figura 5: 3 derivadas de Einthoven</i></div>
 </p>
 
