@@ -17,7 +17,32 @@
 8. [Referencias bibliográficas](#id14)
 
 ## **Introducción** <a name="id1"></a>
-AAAAA Básicos del ECG, tipo de ondas, uso de ECG, derivaciones y descripción de lo que se hará en el lab
+El ECG o electrocardiograma es una prueba médica que registra la actividad eléctrica del corazón. Cada latido genera impulsos eléctricos que viajan por el corazón y el ECG captura estos impulsos y los presenta como ondas en un gráfico. Con él podemos analizar el ritmo cardíaco, identificar arritmias y detectar posibles daños en el corazón.
+
+Las señales ECG son captadas mediante electrodos colocados en la superficie corporal, permitiendo el diagnóstico y monitoreo de condiciones cardíacas como arritmias, infartos de miocardio y otras alteraciones del ritmo cardíaco 
+
+El ciclo cardíaco esta compuesto de diferentes ondas: [1]
+
+   - Onda P: Es la primera onda del ciclo cardíaco y representa la despolarización de las aurículas.  
+   
+   - Onda Q: Es la primera onda correspondiente al complejo QRS, su valor es negativo.  
+   
+   - Onda R: Es la segunda onda correspondiente al complejo QRS, su valor es positivo y se ve representada por un pico de gran tamaño.  
+   
+   - Onda S: Es la última onda correspondiente al compejo QRS, su valor es negativo y similar al de la onda Q.  
+   
+   - Onda T: Representa la repolarización de los ventrículos, posee una menor amplitud que el complejo QRS.  
+   
+   - Onda U: Onda habitualmente positiva y de poca amplitud. Suele aparecer en las derivaciones precordiales.  
+   
+   
+Esta prueba es usada es diferentes circunstancias en el entorno médico, su uso comprende desde el monitoreo de pacientes hospitalizados o durante una cirujía, hasta revisiones rutinarias. Otra función fundamental de esta prueba es el diagnóstico de patologías cardíacas como arritmias, infartos al miocardio, taquicardias, etc.
+
+
+En este laboratorio, se utilizarán tres electrodos para adquirir las señales de ECG de las derivadas de Einthoven I, II y III. Para poder obtener una visión completa de las tres derivadas de Einthoven utilizando solo tres electrodos, se realizarán cambios en la posición de estos.
+
+
+
 
 ## **Objetivos** <a name="id2"></a>
 * Adquirir señales biomédicas de ECG
@@ -44,18 +69,55 @@ AAAAA Básicos del ECG, tipo de ondas, uso de ECG, derivaciones y descripción d
 
 ## **Conexión usada y procedimiento** <a name="id4"></a>
 ### **Conexión usada** 
-DESCRIBIR EL TIPO DE CONEXION PARA CADA DERIVACIÓN Y LA POSICION DE LOS ELECTRODOS PARA CADA UNA, PONER IMAGENES SEÑALANDO, COLOCAR QUE SE SIGUIO LA CONEXION DEL PDF DEL BITALINO Y UNA GUIA CLINICA: GUIA GUÍA DE PROCEDIMIENTO ASISTENCIAL: TOMA DE ELECTROCARDIOGRAMA DEL HOSPITAL NACIONAL HIPOLITO UNANUE”. O BUSCAR OTRA 
-   1. I derivación bipolar
-   2. II derivación bipolar
-   3. III derivación bipolar
+Para la correcta colocación de los electrodos, seguimos dos guías: la "Guía de Procedimiento Asistencial: Toma de Electrocardiograma del Hospital Hipólito Unanue" [2] y la guía de uso del dispositivo Bitalino [3].
+
+   1. I derivación bipolar: La señal se mide del brazo derecho al brazo izquierdo, capturando la actividad eléctrica desde una vista lateral del corazón.
       
+      Posición de los electrodos: 
+         - Electrodo negativo (RA): brazo derecho
+         - Electrodo positivo (LL): pierna izquierda
+         - Electrodo de referencia (RL): pierna derecha
+   
+
+   2. II derivación bipolar: La señal se mide desde el brazo derecho hasta la pierna izquierda, siendo una de las derivadas más comunes para el diagnóstico.
+
+      Posición de los electrodos:
+         - Electrodo negativo (RA): brazo derecho
+         - Electrodo positivo (LL): pierna izquierda
+         - Electrodo de referencia (RL): pierna derecha
+
+   3. III derivación bipolar: La señal se mide del brazo izquierdo a la pierna izquierda, proporcionando una vista adicional del corazón.
+
+      Posición de los electrodos:
+         - Electrodo negativo (LA): brazo izquierdo
+         - Electrodo positivo (LL): pierna izquierda
+         - Electrodo de referencia (RL): pierna derecha
+
+</div>
+
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
 <div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
 </p>
 
 ### **Procedimiento** 
-COLOCAR PROCEDIMIENTO, SEÑALAR QUE MEDIMOS EL ECG EM ESTADO BASAL, EJERCICO, ETC Y QUE SE CAMBIABAN LAS POSICIONES DE LOS ELCETRODOS PARA TENER LAS 3 DERIVACIONES.  
+Se realizó la adquisición de las señales ECG en cuatro condiciones diferentes: estado basal, contención de la respiración, post-contención de la respiración y después de actividad física. Para cada una de estas etapas, se midieron las tres derivadas de Einthoven (I, II y III), cambiando las posiciones de los electrodos de acuerdo a la derivada correspondiente
+   1. Estado basal: Con el sujeto en reposo, se tomaron las tres derivadas de Einthoven, cambiando las conexiones de los cables para obtener cada derivada.
+   2. Contención de la respiración: El sujeto mantuvo la respiración durante 10 segundos, y durante ese tiempo, se registraron las tres derivadas.
+   3. Post-contención de la respiración: Inmediatamente después de la contención, con el sujeto de vuelta en estado basal, se volvieron a registrar las tres derivadas.
+   4. Después de actividad física: El sujeto realizó ejercicio durante 5 minutos y, al finalizar, se tomaron nuevamente las tres derivadas en su estado de recuperación.
+
+</div>
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/einthoven.png" width="400" height="266"></p>
+<div align="center">Figura 4: Triangulo de Einthoven [4]</i></div>
+</p>
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/einthoven 3.png" width="600" height="266"></p>
+<div align="center">Figura 5: 3 derivadas de Einthoven</i></div>
+</p>
 
 ## **Resultados** <a name="id5"></a>
 ### **Estado basal** <a name="id6"></a>
@@ -63,12 +125,12 @@ El sujeto de prueba se quedó quieto y manteniendo la calma
 - ### **Ploteo en OpenSignals**
   
 <div align="center">
-   
-|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
+ 
+|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
+|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD1.PNG" width="500" height="270"></p>|
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD2.PNG" width="500" height="270"></p>|
+|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD3.PNG" width="500" height="270"></p>|
 
 </div>
 
@@ -88,22 +150,21 @@ $$ LPM = \frac{60}{\text{Intervalo  R-R (segundos)}} $$
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_reposo1.jpg" width="600" height="400"></p>
-<div align="center">Figura 3: Identifiación de ondas para la I derivación en estado basal</i></div>
+<div align="center">Figura 6: Identifiación de ondas para la I derivación en estado basal</i></div>
 </p>
 
-De la Figura 3, se obtuvo un intervalo de onda R-R de 1.22 segundos y aplicando la ecuación anterior se obtiene un lpm de 49.
+De la Figura 6, se obtuvo un intervalo de onda R-R de 1.22 segundos y aplicando la ecuación anterior se obtiene un lpm de 49.
 
 ### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
 El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
 - ### **Ploteo en OpenSignals**
 <div align="center">
-   
-|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
-
+  
+|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
+|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/respD1.PNG" width="500" height="270"></p>|
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/respD2.PNG" width="500" height="270"></p>|
+|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/respD3.PNG" width="500" height="270"></p>|
 </div>
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
@@ -119,10 +180,10 @@ El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspi
 Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto mantiene la respiración por 10 segundos
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_mant_resp1.jpg" width="600" height="400"></p>
-<div align="center">Figura 4: Identifiación de ondas para la I derivación cuando el sujeto mantiene la respiración</i></div>
+<div align="center">Figura 7: Identifiación de ondas para la I derivación cuando el sujeto mantiene la respiración</i></div>
 </p>
 
-De la Figura 4, se obtuvo un intervalo de onda R-R de 1.3 segundos y aplicando la ecuación anterior se obtiene un lpm de 46.
+De la Figura 7, se obtuvo un intervalo de onda R-R de 1.3 segundos y aplicando la ecuación anterior se obtiene un lpm de 46.
 
 
 ### **Reposo basal** <a name="id8"></a>
@@ -130,12 +191,11 @@ Reposo después de mantener la respiración
 - ### **Ploteo en OpenSignals**
 <div align="center">
    
-|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
-
+|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
+|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/postRespD1.PNG" width="500" height="270"></p>|
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/postRespD2.PNG" width="500" height="270"></p>|
+|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/postRespD3.PNG" width="500" height="270"></p>|
 </div>
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
@@ -152,10 +212,10 @@ Reposo después de mantener la respiración
 Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto está en estado basal.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_post_resp1.jpg" width="600" height="400"></p>
-<div align="center">Figura 4: Identifiación de ondas para la I derivación en estado basal</i></div>
+<div align="center">Figura 8: Identifiación de ondas para la I derivación en estado basal</i></div>
 </p>
 
-De la Figura 4, se obtuvo un intervalo de onda R-R de 1.35 segundos y aplicando la ecuación anterior se obtiene un lpm de 44.
+De la Figura 8, se obtuvo un intervalo de onda R-R de 1.35 segundos y aplicando la ecuación anterior se obtiene un lpm de 44.
 
 ### **Después de una actividad física** <a name="id9"></a> 
 El sujeto de prueba realizó movimientos aeróbicos
@@ -163,11 +223,11 @@ por 5 minutos
 - ### **Ploteo en OpenSignals**
 <div align="center">
 
-|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
+|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
+|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD1.PNG" width="500" height="270"></p>|
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD2.PNG" width="500" height="270"></p>|
+|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD3.PNG" width="500" height="270"></p>|
 
 </div>
 
@@ -188,7 +248,7 @@ Notamos que niguna de las 3 derivaciones muestra una señal ECG adecuada debido 
 Se realizó una simulación de diferentes latidos por minuto utilizando el dispositivo de metrología FLUKE ProSim4 que genera una señal patrón.
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/prosim.jpg" width="400" height="500"></p>
-<div align="center">Figura 2: Conexión del Prosim y BITalino - 60 lpm</i></div>
+<div align="center">Figura 9: Conexión del Prosim y BITalino - 60 lpm</i></div>
 </p>
 
 
@@ -208,12 +268,21 @@ Se realizó una simulación de diferentes latidos por minuto utilizando el dispo
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/ca2087a1e8c80dfdf1d244956771d8c6e7e543ac/ISB/Laboratorios/Lab05%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20ECG/LabECG.ipynb)
 
 ## **Conclusiones** <a name="id12"></a>
-   -
+   - Se logró adquirir exitosamente las señales de ECG en las diferentes condiciones (estado basal, manteniendo la respiración, reposo post-respiración y después de actividad física) utilizando el sistema BITalino, lo que permitió la identificación de ondas y segmentos importantes del ciclo cardíaco.
+   - El intervalo R-R varió según las diferentes etapas del experimento, demostrando cambios en la frecuencia cardíaca del sujeto. Esto es consistente con las expectativas de variaciones cardíacas durante la contención de la respiración y actividad física.
+   - La simulación con el dispositivo FLUKE ProSim4 fue efectiva para comparar la señal generada por BITalino con una señal ECG estándar y ayudó a validar la funcionalidad del sistema de adquisición.
 
 ## **Recomendaciones** <a name="id13"></a>
-   -
+   - Asegurarse de la correcta colocación de los electrodos para obtener mejores señales ECG, especialmente durante la actividad física, ya que la señal no fue completamente identificable en esta etapa del experimento.
+   - Revisar la conexión de los electrodos y cables antes de iniciar la adquisición de la señal para evitar interferencias o artefactos en los registros.
+   - Utilizar filtros adecuados durante el procesamiento de la señal para reducir el ruido y mejorar la calidad de la señal ECG.
 
 
 ## **Referencias bibliográficas** <a name="id14"></a>
-[1] 
-‌
+[1] Las ondas del electrocardiograma (ECG)," My EKG, 2024. [En línea]. Disponible en: https://www.my-ekg.com/generalidades-ekg/ondas-electrocardiograma.html. 
+
+‌[2] "Guía de Procedimiento Asistencial: Toma de Electrocardiograma del Hospital Nacional Hipólito Unanue," Hospital Nacional Hipólito Unanue, Ministerio de Salud, Perú, 2022. [En línea]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/3457356/RESOLUCI%C3%93N%20DIRECTORAL%20N%C2%B0%20192-2022-.pdf.pdf
+
+[3] M. Proença y K. Mrotzcek, "BITalino HomeGuide," PLUX – Wireless Biosignals, S.A., Lisboa, Portugal, 2021. [En línea]. Disponible en: http://BITalino.com/.
+
+[4] “Einthoven’s Triangle,” Unm.edu, 2024. [En línea]. Disponible en: https://www.unm.edu/~lkravitz/EKG/einthoven.html. 
