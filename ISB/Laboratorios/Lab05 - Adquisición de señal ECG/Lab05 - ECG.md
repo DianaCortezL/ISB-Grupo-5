@@ -129,12 +129,11 @@ Reposo después de mantener la respiración
 - ### **Ploteo en OpenSignals**
 <div align="center">
    
-|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
-
+|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
+|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/postRespD1.PNG" width="500" height="270"></p>|
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/postRespD2.PNG" width="500" height="270"></p>|
+|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/postRespD3.PNG" width="500" height="270"></p>|
 </div>
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
