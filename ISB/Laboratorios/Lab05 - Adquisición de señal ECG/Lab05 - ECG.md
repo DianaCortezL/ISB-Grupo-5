@@ -97,13 +97,12 @@ De la Figura 3, se obtuvo un intervalo de onda R-R de 1.22 segundos y aplicando 
 El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
 - ### **Ploteo en OpenSignals**
 <div align="center">
-   
-|                 **Derivación Bipolar**                 | **Señal en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|                **I**                ||
-| **II** ||
-|                **III**                ||
-
+  
+|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
+|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/respD1.PNG" width="500" height="270"></p>|
+|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/respD2.PNG" width="500" height="270"></p>|
+|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/respD3.PNG" width="500" height="270"></p>|
 </div>
 
 - ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
