@@ -77,7 +77,9 @@ Describir que se hará en este lab
 
 </div>
 
-### **Señal con BITalino"** <a name="id7"></a>
+### **Señal con BITalino** <a name="id7"></a>
+- ### **Gráficos en OpenBCI GUI**
+A continuacion mostraremos los graficos ploteados en Open Signals.
 <div align="center">
  
 |         **Fase**        |  **Gráfico en OpenSignals**    |
@@ -88,6 +90,9 @@ Describir que se hará en este lab
 |                **Respondiendo preguntas categoría compleja**                | |
 
 </div>
+
+- ### **Gráficos en Python**
+Asimismo, se realizo el ploteo de las señales de OpenSignals en Python.
 
 ### **Archivos** 
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/ca2087a1e8c80dfdf1d244956771d8c6e7e543ac/Otros/Archivos%20varios/Lab5_ECG)
