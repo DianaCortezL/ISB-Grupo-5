@@ -69,12 +69,12 @@ En este laboratorio utilizamos 2 sistemas de conexión :
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/electrodos2.jpg" width="300" height="300"></p>
-<div align="center">Figura 4: Posición de los electrodos (positivo y negativo) el sujeto de prueba</i></div>
+<div align="center">Figura 4: Posición de los electrodos (positivo y negativo) en el sujeto de prueba</i></div>
 </p>
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/electrodos1.jpg" width="300" height="300"></p>
-<div align="center">Figura 5: Posición de los electrodos el sujeto de prueba</i></div>
+<div align="center">Figura 5: Posición de los electrodos en el sujeto de prueba</i></div>
 </p>
 
 2. Ultracortex Mark IV + Tarjeta Cyton:
