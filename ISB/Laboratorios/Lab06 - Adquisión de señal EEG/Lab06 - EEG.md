@@ -103,13 +103,13 @@ Para la obtención de la señal EEG con el BITalino y el UltraCortex MARK IV se 
 </div>
 
 ### **Señal con BITalino** <a name="id7"></a>
-- ### **Gráficos en OpenBCI GUI**
+- ### **Gráficos en OpenSignals**
 A continuacion mostraremos los graficos ploteados en Open Signals.
 <div align="center">
  
 |         **Fase**        |  **Gráfico en OpenSignals**    |
 |:-------------------------------------:|:---------------------------------------------------------------------:|
-|                **Fase de referencia de 30 segundos**                  | |
+|                **Fase de referencia de 30 segundos**                  | <p align="center"><img src="Otros/Imagenes/Lab6_EEG/sinpensar.PNG" width="550" height="350"></p>|
 |                **Realizando secuencia de ojos abiertos - ojos cerrados**                 | |
 |                **Respondiendo preguntas categoría simple**                | |
 |                **Respondiendo preguntas categoría compleja**                | |
