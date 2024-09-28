@@ -7,7 +7,7 @@
 4. [Conexión usada y procedimiento](#id4)
 5. [Resultados](#id5)\
    5.1 [Señal con OpenBCI Ultracortex "Mark IV"](#id6)\
-   5.2 [Señal con BITalino](#id7)
+   5.2 [Señal con BITalino](#id7)\
    5.3 [Archivos](#id8)
 7. [Conclusiones](#id9)
 8. [Recomendaciones](#id10)
