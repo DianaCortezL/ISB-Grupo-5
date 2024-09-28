@@ -83,8 +83,8 @@ En este laboratorio utilizamos 2 sistemas de conexión :
 </div>
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab4_EMG/bitalino.jpg" width="400" height="266"></p>
-<div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/ultracortex_profe.jpg" width="400" height="500"></p>
+<div align="center">Figura 7: Uso del Ultracortex Mark IV </i></div>
 </p>
 
 ### **Procedimiento - Obtención de señales EEG** 
