@@ -107,12 +107,12 @@ Para la obtención de la señal EEG con el BITalino y el UltraCortex MARK IV se 
 A continuacion mostraremos los graficos ploteados en Open Signals.
 <div align="center">
  
-|         **Fase**        |  **Gráfico en OpenSignals**    |
-|:-------------------------------------:|:---------------------------------------------------------------------:|
-|                **Fase de referencia de 30 segundos**                  | <p align="center"><img src="Otros/Imagenes/Lab6_EEG/sinpensar.PNG" width="550" height="350"></p>|
-|                **Realizando secuencia de ojos abiertos - ojos cerrados**                 | |
-|                **Respondiendo preguntas categoría simple**                | |
-|                **Respondiendo preguntas categoría compleja**                | |
+|         **Fase**                                              |                       **Gráfico en OpenSignals**                      |
+|:-------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|  **Fase de referencia de 30 segundos**                        | <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/sinpensar.PNG" width="500" height="270"></p>
+|  **Realizando secuencia de ojos abiertos - ojos cerrados**    | <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/abiertocerrado.PNG" width="500" height="270"></p>
+|  **Respondiendo preguntas categoría simple**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pfacil.PNG" width="500" height="270"></p>
+|  **Respondiendo preguntas categoría compleja**                | <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pdificil.PNG" width="500" height="270"></p>|
 
 </div>
 
