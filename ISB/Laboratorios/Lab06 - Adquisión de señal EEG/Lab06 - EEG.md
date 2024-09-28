@@ -7,10 +7,11 @@
 4. [Conexión usada y procedimiento](#id4)
 5. [Resultados](#id5)\
    5.1 [Señal con OpenBCI Ultracortex "Mark IV"](#id6)\
-   5.2 [Señal con BITalino](#id7)
-6. [Conclusiones](#id8)
-7. [Recomendaciones](#id9)
-8. [Referencias bibliográficas](#id10)
+   5.2 [Señal con BITalino](#id7)\
+   5.3 [Archivos](#id8)
+7. [Conclusiones](#id9)
+8. [Recomendaciones](#id10)
+9. [Referencias bibliográficas](#id11)
 
 ## **Introducción** <a name="id1"></a>
 
@@ -43,8 +44,14 @@ Describir que se hará en este lab
 </div>
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/conexion.jpg" width="400" height="266"></p>
-<div align="center">Figura 2: Kit BITalino y electrodos</i></div>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/Ultracortex.jpg" width="400" height="350"></p>
+<div align="center">Figura 2:  Ultracortex Mark IV EEG Headset</i></div>
+</p>  
+
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/BITalino.png" width="400" height="400"></p>
+<div align="center">Figura 3:  BITalino y electrodos</i></div>
 </p>
 
 ## **Conexión usada y procedimiento** <a name="id4"></a>
@@ -59,8 +66,12 @@ Describir que se hará en este lab
 <div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
 </p>
 
-### **Procedimiento** 
-* Obtención de señales EEG
+### **Procedimiento - Obtención de señales EEG** 
+Para la obtención de la señal EEG con el BITalino y el UltraCortex MARK IV se utilizó el siguiente procedimiento:
+- Se registró una línea base de la señal EEG con poco ruido y sin movimientos (respiración normal, sin movimientos oculares / ojos cerrados) durante 30 segundos.
+- Se registró la señal EEG repitiendo 5 ciclos de 10 segundos de ojos abiertos - ojos cerrados
+- Se registró la señal EEG en reposo durante 30 segundos nuevamente
+- Se registró la señal EEG en un estado de razonamiento lógico-matemático a través de preguntas fáciles y complejas.
 
 ## **Resultados** <a name="id5"></a>
 ### **Señal con OpenBCI Ultracortex "Mark IV"** <a name="id6"></a>
@@ -94,16 +105,16 @@ A continuacion mostraremos los graficos ploteados en Open Signals.
 - ### **Gráficos en Python**
 Asimismo, se realizo el ploteo de las señales de OpenSignals en Python.
 
-### **Archivos** 
+### **Archivos** <a name="id8"></a>
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/88e031b9ee680d6403ba408c9e73f99652f8cca3/Otros/Archivos%20varios/Lab6_EEG)
-- [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/ca2087a1e8c80dfdf1d244956771d8c6e7e543ac/ISB/Laboratorios/Lab05%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20ECG/LabECG.ipynb)
+- [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/01dd208ed2c0990ba65ef55da91e29f922fbb739/ISB/Laboratorios/Lab06%20-%20Adquisi%C3%B3n%20de%20se%C3%B1al%20EEG/LabEEG.ipynb)
 
-## **Conclusiones** <a name="id8"></a>
+## **Conclusiones** <a name="id9"></a>
    - 
 
-## **Recomendaciones** <a name="id9"></a>
+## **Recomendaciones** <a name="id10"></a>
    - 
 
 
-## **Referencias bibliográficas** <a name="id10"></a>
+## **Referencias bibliográficas** <a name="id11"></a>
 [1] 
