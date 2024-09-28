@@ -1,4 +1,4 @@
-# **LABORATORIO 5: – USO DE BITalino PARA EEG**
+# **LABORATORIO 6: – USO DE BITalino PARA EEG**
 # **Tabla de contenidos**
 
 1. [Introducción](#id1)
