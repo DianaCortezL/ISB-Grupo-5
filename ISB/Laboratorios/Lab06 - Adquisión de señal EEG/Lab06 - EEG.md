@@ -60,11 +60,11 @@ El EEG es utilizado en distintas situaciones en el ámbito clínico, como en el 
 En este laboratorio utilizamos 2 sistemas de conexión :
 
 1. BITalino Board + Electrodos:
-   - Usamos tres electrodos para la adquisición de la señal EEG, siguiendo la guía de BITalino. Dos electrodos se colocaron en la frente y uno detrás de la oreja. Se siguió el procedimiento de la guía de BITalino: "BITalino (r)revolution Home Guide #3 - ELECTROENCEPHALOGRAPHY (EEG)". En la Fig. 3 se muestra una representación esquemática de la posición de electrodos. En la Fig. 4 y 5 la se observa la colocación de los electrodos en el sujeto de prueba.
+   - Usamos tres electrodos para la adquisición de la señal EEG, siguiendo la guía de BITalino. Dos electrodos se colocaron en la frente y uno detrás de la oreja. Se siguió el procedimiento de la guía de BITalino: "BITalino (r)revolution Home Guide #3 - ELECTROENCEPHALOGRAPHY (EEG)" [4]. En la Fig. 3 se muestra una representación esquemática de la posición de electrodos. En la Fig. 4 y 5 la se observa la colocación de los electrodos en el sujeto de prueba.
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/posicion_electrodos.jpg" width="400" height="250"></p>
-<div align="center">Figura 3: Representación esquemática de la osición de los electrodos para obtención de la señal EEG usando el BITalino</i></div>
+<div align="center">Figura 3: Representación esquemática de la osición de los electrodos para obtención de la señal EEG usando el BITalino [4]</i></div>
 </p>
 
 <p align="justify">
@@ -74,7 +74,7 @@ En este laboratorio utilizamos 2 sistemas de conexión :
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/electrodos1.jpg" width="300" height="300"></p>
-<div align="center">Figura 5: Posición de los electrodos para obtención de la señal EEG usando el BITalino</i></div>
+<div align="center">Figura 5: Posición de los electrodos el sujeto de prueba</i></div>
 </p>
 
 2. Ultracortex Mark IV + Tarjeta Cyton:
