@@ -157,17 +157,17 @@ A continuación, se muestran las señale ploteadas en Python de las 3 preguntas 
 A continuación, se muestran las señale ploteadas en Python de las 3 preguntas difíciles que se le realizó al sujeto. Se muestran en el dominio del tiempo y frecuencia
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_difícil_1.jpg" width="420" height="266"></p>
-<div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta difícil 1</i></div>
+<div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta difícl 1</i></div>
 </p>
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_difícil_2.jpg" width="420" height="266"></p>
-<div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta difícil 2</i></div>
+<div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta difícl 2</i></div>
 </p>
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_difícil_3.jpg" width="420" height="266"></p>
-<div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta difícil 3</i></div>
+<div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta difícl 3</i></div>
 </p>
 
    
