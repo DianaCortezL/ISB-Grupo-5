@@ -67,7 +67,11 @@ Describir que se hará en este lab
 </p>
 
 ### **Procedimiento - Obtención de señales EEG** 
-
+Para la obtención de la señal EEG con el BITalino y el UltraCortex MARK IV se utilizó el siguiente procedimiento:
+- Se registró una línea base de la señal EEG con poco ruido y sin movimientos (respiración normal, sin movimientos oculares / ojos cerrados) durante 30 segundos.
+- Se registró la señal EEG repitiendo 5 ciclos de 10 segundos de ojos abiertos - ojos cerrados
+- Se registró la señal EEG en reposo durante 30 segundos nuevamente
+- Se registró la señal EEG en un estado de razonamiento lógico-matemático a través de preguntas fáciles y complejas.
 
 ## **Resultados** <a name="id5"></a>
 ### **Señal con OpenBCI Ultracortex "Mark IV"** <a name="id6"></a>
