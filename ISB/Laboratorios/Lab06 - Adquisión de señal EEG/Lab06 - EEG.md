@@ -108,8 +108,8 @@ Para la obtención de la señal EEG con el BITalino y el UltraCortex MARK IV se 
   
 <div align="center">
  
-|         **Fase**        |                                              **Video**                                   |   **Gráfico en OpenBCI GUI**    |
-|:-------------------------------------:|:---------------------------------------------------------------------:|:---------------------------:|
+|         **Fase**          |   **Gráfico en OpenBCI GUI**    |
+|:-------------------------------------:|:---------------------------------------------------------------------:|
 |                **Fase de referencia de 30 segundos**                  | |
 |                **Realizando secuencia de ojos abiertos - ojos cerrados**                 | |
 |                **Respondiendo preguntas categoría simple**                | |
