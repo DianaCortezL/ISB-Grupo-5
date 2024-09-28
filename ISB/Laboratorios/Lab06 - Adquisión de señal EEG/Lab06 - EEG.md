@@ -14,15 +14,16 @@
 9. [Referencias bibliográficas](#id11)
 
 ## **Introducción** <a name="id1"></a>
+El EEG o electroencefalograma es una prueba médica que registra la actividad eléctrica del cerebro. Los impulsos eléctricos generados por las neuronas viajan a través del cerebro, y el EEG captura estos impulsos y los presenta como ondas en un gráfico. A través del EEG, podemos analizar la actividad cerebral, identificar trastornos como epilepsia, monitorizar el estado de coma y estudiar patrones de sueño, entre otras aplicaciones. [1, 2]
 
-### ¿Qué es EEG? ###
-Qué es EEG, tipos de ondas y frecuencias
+Las señales de EEG se captan mediante electrodos colocados en el cuero cabelludo, permitiendo el diagnóstico y monitoreo de condiciones neurológicas. Las ondas cerebrales se dividen en diferentes tipos, clasificadas por su frecuencia (número de veces que se repite una onda en un segundo): [3]
+   - Ondas Delta (0.1 - 4 Hz): Ondas muy lentas y las de mayor amplitud, están asociadas con el sueño profundo, coincide con la regeneración y restauración del Sistema Nervioso Central.
+   - Ondas Theta (4 - 8 Hz): Relacionadas con estados de relajación profunda y meditación. Son muy importantes durante el aprendizaje y memoria. Se producen durante la transición entre vigilia y sueño.
+   - Ondas Alfa (8 - 12 Hz): Asociadas a la relajación con los ojos cerrados y la actividad en reposo. Si hay déficit de alfa el individuo tiene dificultad para relajarse. Esta frecuencia ayuda a la coordinación mental, la integración mente/cuerpo, la calma y la alerta.
+   - Ondas Beta (12 - 30 Hz): Se presentan durante la actividad mental y el estado de alerta. Un exceso de Beta consume mucha energía. El mapa cerebral de un paciente con trastorno de ansiedad puede mostrar un exceso de Beta 2 o 3.
+   - Ondas Gamma (30 - 90 Hz): Involucradas en procesos cognitivos complejos y la consolidación de la memoria. Se observan ráfagas de ondas Gamma cuando el cerebro está en estado de alta resolución. (Ejemplo durante el cálculo de una fórmula matemática).
 
-### Aplicaciones ###
-
-### Tipos de medición de EEG ###
-
-Describir que se hará en este lab
+El EEG es utilizado en distintas situaciones en el ámbito clínico, como en el diagnóstico de epilepsias, alteraciones del sueño y encefalopatías, así como para la investigación de la actividad cerebral en estudios cognitivos y del comportamiento. [2]
 
 ## **Objetivos** <a name="id2"></a>
 * Adquirir señales biomédicas de EEG utilizando el Kit BITalino (R)evolution
@@ -58,6 +59,7 @@ Describir que se hará en este lab
 ### **Conexión usada** 
 * BITalino Board + Electrodos
 * UltraCortex MARK IV + Tarjeta Cyton
+En este laboratorio, se utilizaron dos métodos para medir el EEG: el uso del Ultracortex Mark IV EEG Headset y la medición mediante tres electrodos de acuerdo con la guía del sistema BITalino. Para la colocación de los electrodos, dos se ubicaron en la frente y uno detrás de la oreja, siguiendo las instrucciones de BITalino. El Ultracortex Mark IV EEG Headset, por su parte, es un casco que contiene varios electrodos integrados y ajustables para un contacto adecuado con el cuero cabelludo, proporcionando una captura precisa de las señales cerebrales. Antes de la medición, el Ultracortex debe ajustarse cuidadosamente para asegurar un buen contacto, utilizando las perillas de ajuste para adaptarse a la forma y tamaño de la cabeza del usuario.
 
 </div>
 
@@ -72,6 +74,8 @@ Para la obtención de la señal EEG con el BITalino y el UltraCortex MARK IV se 
 - Se registró la señal EEG repitiendo 5 ciclos de 10 segundos de ojos abiertos - ojos cerrados
 - Se registró la señal EEG en reposo durante 30 segundos nuevamente
 - Se registró la señal EEG en un estado de razonamiento lógico-matemático a través de preguntas fáciles y complejas.
+
+
 
 ## **Resultados** <a name="id5"></a>
 ### **Señal con OpenBCI Ultracortex "Mark IV"** <a name="id6"></a>
