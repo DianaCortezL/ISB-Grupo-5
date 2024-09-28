@@ -66,7 +66,20 @@ En este laboratorio utilizamos 2 sistemas de conexión :
    - Se utilizó el Ultracortex Mark IV EEG Headset, un casco equipado con múltiples electrodos integrados. La tarjeta de biosensado Cyton de 8 canales permitió la recopilación de las señales capturadas por el headset. El Ultracortex fue ajustado cuidadosamente mediante las perillas de ajuste para asegurar un contacto óptimo con el cuero cabelludo y una señal EEG clara.
 
 ### **Procedimiento**
- 
+Para la obtención de la señal EEG con el BITalino y el UltraCortex MARK IV se utilizó el siguiente procedimiento:
+   - Se registró una línea base de la señal EEG con poco ruido y sin movimientos (respiración normal, sin movimientos oculares / ojos cerrados) durante 30 segundos.
+   - Se registró la señal EEG repitiendo 5 ciclos de 10 segundos de ojos abiertos - ojos cerrados
+   - Se registró la señal EEG en reposo durante 30 segundos nuevamente
+   - Se registró la señal EEG en un estado de razonamiento lógico-matemático a través de preguntas fáciles y complejas.
+      - Preguntas fáciles realizadas: 
+         - Una tienda tiene 7 camisetas y vende 3 ¿Cuántas camisetas quedan en la tienda?
+         - En una caja hay 10 libros y se sacan 2 ¿Cuántos libros quedan en la caja?
+         - Hay 4 gatos en una casa y llegan 3 más. ¿Cuántos gatos hay ahora?
+      - Preguntas complejas realizadas:
+         - Juan anotó 30 puntos en un juego, que es 5 más que lo que anotó Pedro. Carlos anotó 12 puntos más que la suma de Juan y Pedro. ¿Cuántos puntos anotó Carlos?
+         - Un campo tiene 70 árboles, 20 más que el campo B. Otro campo C tiene 10 árboles menos que la suma de los campos A y B. ¿Cuántos árboles tiene el campo C?
+         - ¿Cuánto es la raíz de 9 al cuadrado más 40?
+
 </div>
 
 <p align="justify">
