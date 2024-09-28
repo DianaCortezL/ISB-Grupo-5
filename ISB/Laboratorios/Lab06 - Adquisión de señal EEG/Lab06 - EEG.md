@@ -133,9 +133,9 @@ Asimismo, se realizo el ploteo de las señales de OpenSignals en Python.
 ## **Referencias bibliográficas** <a name="id11"></a>
 
 [1] “Electroencefalografía (EEG) - Mayo Clinic,” Mayoclinic.org, 2024. https://www.mayoclinic.org/es/tests-procedures/eeg/about/pac-20393875 (accessed Sep. 28, 2024).
-‌
+
 [2] C. Clinic, “EEGs (electroencephalograms) are tests that evaluate brain function. Healthcare providers order EEGs to diagnose brain issues like epilepsy or dementia.,” Cleveland Clinic, Nov. 16, 2016. https://my.clevelandclinic.org/health/diagnostics/9656-electroencephalogram-eeg (accessed Sep. 28, 2024).
-‌
+
 [3] neurofeedback, “¿Qué son las ondas Cerebrales? - NeuroFeedBack Barcelona,” NeuroFeedBack Barcelona, Jul. 24, 2019. https://www.neurofeedback.cat/que-son-las-ondas-cerebrales/ (accessed Sep. 28, 2024).
 ‌
 
