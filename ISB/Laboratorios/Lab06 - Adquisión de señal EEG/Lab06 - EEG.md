@@ -118,55 +118,55 @@ A continuacion mostraremos los graficos ploteados en Open Signals.
 
 - ### **Gráficos en Python**
 Asimismo, se realizo el ploteo de las señales de OpenSignals en Python. Se graficó en dominio del tiempo y de frecuencia
-   1. Línea base 1 de la señal EEG con poco ruido y sin movimientos
+   **1. Línea base 1 de la señal EEG con poco ruido y sin movimientos**
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/linea_base.jpg" width="420" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/linea_base.jpg" width="550" height="350"></p>
 <div align="center">Figura *: Señal EEG en dominio de tiempo y freciencia de un ciclo sin movimientos oculares y con los ojos cerrados</i></div>
 </p>
 
    2. Señal EEG repitiendo 5 ciclos de 10 segundos de ojos abiertos - ojos cerrados
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/ojos_abierto_cerrados.jpg" width="420" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/ojos_abierto_cerrados.jpg" width="550" height="350"></p>
 <div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia de un ciclo de ojos abiertos y ojos cerrados</i></div>
 </p>
 
-   3. Línea base 2 de la señal EEG con poco ruido y sin movimientos
+   **3. Línea base 2 de la señal EEG con poco ruido y sin movimientos**
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/otra línea base.jpg" width="420" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/otra línea base.jpg" width="550" height="350"></p>
 <div align="center">Figura *: Señal EEG en dominio de tiempo y freciencia de un ciclo sin movimientos oculares y con los ojos cerrados</i></div>
 </p>
 
-  4. Señal completa de EEG durante sesion de preguntas fáciles\
+  **4. Señal completa de EEG durante sesion de preguntas fáciles**\
 A continuación, se muestran las señale ploteadas en Python de las 3 preguntas fáciles que se le realizó al sujeto. Se muestran en el dominio del tiempo y frecuencia
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_facil.jpg" width="420" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_facil.jpg" width="550" height="350"></p>
 <div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta fácil 1</i></div>
 </p>
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_facil_2.jpg" width="420" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_facil_2.jpg" width="550" height="350"></p>
 <div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta fácil 2</i></div>
 </p>
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_facil_3.jpg" width="420" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_facil_3.jpg" width="550" height="350"></p>
 <div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta fácil 3</i></div>
 </p>
 
-  5. Señal completa de EEG durante sesion de preguntas difíciles\
+  **5. Señal completa de EEG durante sesion de preguntas difíciles**\
 A continuación, se muestran las señale ploteadas en Python de las 3 preguntas difíciles que se le realizó al sujeto. Se muestran en el dominio del tiempo y frecuencia
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_difícl_1.jpg" width="420" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_difícl_1.jpg" width="550" height="350"></p>
 <div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta difícil 1</i></div>
 </p>
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_difícl_2.jpg" width="420" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_difícl_2.jpg" width="550" height="350"></p>
 <div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta difícil 2</i></div>
 </p>
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_difícl_3.jpg" width="420" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_difícl_3.jpg" width="550" height="350"></p>
 <div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia durante pregunta difícil 3</i></div>
 </p>
 
