@@ -8,9 +8,10 @@
 5. [Resultados](#id5)\
    5.1 [Señal con OpenBCI Ultracortex "Mark IV"](#id6)\
    5.2 [Señal con BITalino](#id7)
-6. [Conclusiones](#id8)
-7. [Recomendaciones](#id9)
-8. [Referencias bibliográficas](#id10)
+   5.3 [Archivos](#id8)
+7. [Conclusiones](#id9)
+8. [Recomendaciones](#id10)
+9. [Referencias bibliográficas](#id11)
 
 ## **Introducción** <a name="id1"></a>
 
@@ -100,16 +101,16 @@ A continuacion mostraremos los graficos ploteados en Open Signals.
 - ### **Gráficos en Python**
 Asimismo, se realizo el ploteo de las señales de OpenSignals en Python.
 
-### **Archivos** 
+### **Archivos** <a name="id8"></a>
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/88e031b9ee680d6403ba408c9e73f99652f8cca3/Otros/Archivos%20varios/Lab6_EEG)
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/ca2087a1e8c80dfdf1d244956771d8c6e7e543ac/ISB/Laboratorios/Lab05%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20ECG/LabECG.ipynb)
 
-## **Conclusiones** <a name="id8"></a>
+## **Conclusiones** <a name="id9"></a>
    - 
 
-## **Recomendaciones** <a name="id9"></a>
+## **Recomendaciones** <a name="id10"></a>
    - 
 
 
-## **Referencias bibliográficas** <a name="id10"></a>
+## **Referencias bibliográficas** <a name="id11"></a>
 [1] 
