@@ -7,10 +7,10 @@
 4. [Conexión usada y procedimiento](#id4)
 5. [Resultados](#id5)\
    5.1 [Señal con OpenBCI Ultracortex "Mark IV"](#id6)\
-   5.2 [Señal con BITalino](#id7)\
-6. [Conclusiones](#id12)
-7. [Recomendaciones](#id13)
-8. [Referencias bibliográficas](#id14)
+   5.2 [Señal con BITalino](#id7)
+6. [Conclusiones](#id8)
+7. [Recomendaciones](#id9)
+8. [Referencias bibliográficas](#id10)
 
 ## **Introducción** <a name="id1"></a>
 
@@ -24,9 +24,8 @@ Qué es EEG, tipos de ondas y frecuencias
 Describir que se hará en este lab
 
 ## **Objetivos** <a name="id2"></a>
-* Adquirir señales biomédicas de ECG
-* Hacer una correcta configuración de BiTalino.
-* Extraer la información de las señales ECG del software OpenSignals (r)evolution
+* Adquirir señales biomédicas de EEG utilizando el Kit BITalino (R)evolution
+* Obtener señales de EEG utilizando Ultracortex Mark IV EEG Headset y la tarjeta de biosensado Cyton de 8 canales.
 * Plotear las señales en dominio del tiempo y frecuencia en Python
 
 ## **Materiales y equipos** <a name="id3"></a>
@@ -37,6 +36,8 @@ Describir que se hará en este lab
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
 |       -      |    Electrodos   |       3      |
+|    OpenBCI   |    Ultracortex Mark IV EEG Headset   |       1      |
+|    OpenBCI   |   OpenBCI Cyton 8-channel Board   |       1      |
 <div align="center"> Tabla 1: Materiales y equipos</i></div>
 
 </div>
@@ -48,29 +49,8 @@ Describir que se hará en este lab
 
 ## **Conexión usada y procedimiento** <a name="id4"></a>
 ### **Conexión usada** 
-Para la correcta colocación de los electrodos, seguimos dos guías: la "Guía de Procedimiento Asistencial: Toma de Electrocardiograma del Hospital Hipólito Unanue" [2] y la guía de uso del dispositivo Bitalino [3].
-
-   1. I derivación bipolar: La señal se mide del brazo derecho al brazo izquierdo, capturando la actividad eléctrica desde una vista lateral del corazón.
-      
-      Posición de los electrodos: 
-         - Electrodo negativo (RA): brazo derecho
-         - Electrodo positivo (LL): pierna izquierda
-         - Electrodo de referencia (RL): pierna derecha
-   
-
-   2. II derivación bipolar: La señal se mide desde el brazo derecho hasta la pierna izquierda, siendo una de las derivadas más comunes para el diagnóstico.
-
-      Posición de los electrodos:
-         - Electrodo negativo (RA): brazo derecho
-         - Electrodo positivo (LL): pierna izquierda
-         - Electrodo de referencia (RL): pierna derecha
-
-   3. III derivación bipolar: La señal se mide del brazo izquierdo a la pierna izquierda, proporcionando una vista adicional del corazón.
-
-      Posición de los electrodos:
-         - Electrodo negativo (LA): brazo izquierdo
-         - Electrodo positivo (LL): pierna izquierda
-         - Electrodo de referencia (RL): pierna derecha
+* BITalino Board + Electrodos
+* UltraCortex MARK IV + Tarjeta Cyton
 
 </div>
 
@@ -80,188 +60,50 @@ Para la correcta colocación de los electrodos, seguimos dos guías: la "Guía d
 </p>
 
 ### **Procedimiento** 
-Se realizó la adquisición de las señales ECG en cuatro condiciones diferentes: estado basal, contención de la respiración, post-contención de la respiración y después de actividad física. Para cada una de estas etapas, se midieron las tres derivadas de Einthoven (I, II y III), cambiando las posiciones de los electrodos de acuerdo a la derivada correspondiente
-   1. Estado basal: Con el sujeto en reposo, se tomaron las tres derivadas de Einthoven, cambiando las conexiones de los cables para obtener cada derivada.
-   2. Contención de la respiración: El sujeto mantuvo la respiración durante 10 segundos, y durante ese tiempo, se registraron las tres derivadas.
-   3. Post-contención de la respiración: Inmediatamente después de la contención, con el sujeto de vuelta en estado basal, se volvieron a registrar las tres derivadas.
-   4. Después de actividad física: El sujeto realizó ejercicio durante 5 minutos y, al finalizar, se tomaron nuevamente las tres derivadas en su estado de recuperación.
-
-</div>
-
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/einthoven.png" width="400" height="266"></p>
-<div align="center">Figura 4: Triangulo de Einthoven [4]</i></div>
-</p>
-
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/einthoven 3.png" width="600" height="266"></p>
-<div align="center">Figura 5: 3 derivadas de Einthoven</i></div>
-</p>
+* Obtención de señales EEG
 
 ## **Resultados** <a name="id5"></a>
-### **Estado basal** <a name="id6"></a>
-El sujeto de prueba se quedó quieto y manteniendo la calma
-- ### **Ploteo en OpenSignals**
+### **Señal con OpenBCI Ultracortex "Mark IV"** <a name="id6"></a>
+- ### **Gráficos en OpenBCI GUI**
   
 <div align="center">
  
-|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
-|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD1.PNG" width="500" height="270"></p>|
-|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD2.PNG" width="500" height="270"></p>|
-|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/basalD3.PNG" width="500" height="270"></p>|
+|         **Fase**        |                                              **Video**                                   |   **Gráfico en OpenBCI GUI**    |
+|:-------------------------------------:|:---------------------------------------------------------------------:|:---------------------------:|
+|                **Fase de referencia de 30 segundos**                  | |
+|                **Realizando secuencia de ojos abiertos - ojos cerrados**                 | |
+|                **Respondiendo preguntas categoría simple**                | |
+|                **Respondiendo preguntas categoría compleja**                | |
 
 </div>
 
-- ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
+### **Señal con BITalino** <a name="id7"></a>
+- ### **Gráficos en OpenBCI GUI**
+A continuacion mostraremos los graficos ploteados en Open Signals.
 <div align="center">
-   
-|                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
-|:------------------------------------------:|:---------:|:------------:|
-|                **I**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_reposo_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_reposo_fft.jpg" width="500" height="270"></p>|
-| **II** |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_reposo_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_reposo_fft.jpg" width="500" height="270"></p>|
-|                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_reposo_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_reposo_fft.jpg" width="500" height="270"></p>|
-
-</div>
-Se analizó la primera derivación para poder identificar segmentos y ondas específicas. Además, se calculó el intervalo R-R en las señales para poder obtener los latidos por minuto (lpm) y poder compararlos con el dispositivo patrón (FLUKE ProSim4). En este semtido, el intervalo R-R en un ECG es el tiempo entre dos picos consecutivos de ondas R. La fórmula para calcular los latidos por minuto (lpm) a partir del intervalo R-R es:  
-
-$$ LPM = \frac{60}{\text{Intervalo  R-R (segundos)}} $$
-
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_reposo1.jpg" width="600" height="400"></p>
-<div align="center">Figura 6: Identifiación de ondas para la I derivación en estado basal</i></div>
-</p>
-
-De la Figura 6, se obtuvo un intervalo de onda R-R de 1.22 segundos y aplicando la ecuación anterior se obtiene un lpm de 49.
-
-### **Manteniendo la respiración por 10 segundos** <a name="id7"></a>
-El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
-- ### **Ploteo en OpenSignals**
-<div align="center">
-  
-|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
-|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/respD1.PNG" width="500" height="270"></p>|
-|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/respD2.PNG" width="500" height="270"></p>|
-|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/respD3.PNG" width="500" height="270"></p>|
-</div>
-
-- ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
-<div align="center">
-
-|                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
-|:------------------------------------------:|:---------:|:------------:|
-|                **I**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_mant_resp_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_mant_resp_fft.jpg" width="500" height="270"></p>|
-| **II** |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_mant_resp_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_mant_resp_fft.jpg" width="500" height="270"></p>|
-|                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_mant_resp_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_mant_resp_fft.jpg" width="500" height="270"></p>|
-
-</div>
-Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto mantiene la respiración por 10 segundos
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_mant_resp1.jpg" width="600" height="400"></p>
-<div align="center">Figura 7: Identifiación de ondas para la I derivación cuando el sujeto mantiene la respiración</i></div>
-</p>
-
-De la Figura 7, se obtuvo un intervalo de onda R-R de 1.3 segundos y aplicando la ecuación anterior se obtiene un lpm de 46.
-
-
-### **Reposo basal** <a name="id8"></a>
-Reposo después de mantener la respiración
-- ### **Ploteo en OpenSignals**
-<div align="center">
-   
-|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
-|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/postRespD1.PNG" width="500" height="270"></p>|
-|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/postRespD2.PNG" width="500" height="270"></p>|
-|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/postRespD3.PNG" width="500" height="270"></p>|
-</div>
-
-- ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
-<div align="center">
-
-|                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
-|:------------------------------------------:|:---------:|:------------:|
-|                **I**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_resp_basal_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_resp_basal_fft.jpg" width="500" height="270"></p>|
-| **II** |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_resp_basal_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_resp_basal_fft.jpg" width="500" height="270"></p>|
-|                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_resp_basal_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_resp_basal_fft.jpg" width="500" height="270"></p>|
+ 
+|         **Fase**        |  **Gráfico en OpenSignals**    |
+|:-------------------------------------:|:---------------------------------------------------------------------:|
+|                **Fase de referencia de 30 segundos**                  | |
+|                **Realizando secuencia de ojos abiertos - ojos cerrados**                 | |
+|                **Respondiendo preguntas categoría simple**                | |
+|                **Respondiendo preguntas categoría compleja**                | |
 
 </div>
 
-Se analizó la primera derivación para poder identificar segmentos y ondas específicas cuando el sujeto está en estado basal.
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ondas_post_resp1.jpg" width="600" height="400"></p>
-<div align="center">Figura 8: Identifiación de ondas para la I derivación en estado basal</i></div>
-</p>
+- ### **Gráficos en Python**
+Asimismo, se realizo el ploteo de las señales de OpenSignals en Python.
 
-De la Figura 8, se obtuvo un intervalo de onda R-R de 1.35 segundos y aplicando la ecuación anterior se obtiene un lpm de 44.
-
-### **Después de una actividad física** <a name="id9"></a> 
-El sujeto de prueba realizó movimientos aeróbicos
-por 5 minutos
-- ### **Ploteo en OpenSignals**
-<div align="center">
-
-|         **Derivación Bipolar**        |                                              **Señal en OpenSignal**                                   |
-|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-|                **I**                  | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD1.PNG" width="500" height="270"></p>|
-|                **II**                 | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD2.PNG" width="500" height="270"></p>|
-|                **III**                | <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/ejerD3.PNG" width="500" height="270"></p>|
-
-</div>
-
-- ### **Ploteo de la señal en Python: Dominio del tiempo y frecuencia**
-<div align="center">
-   
-|                 **Derivación Bipolar**                 | **Dominio del tiempo** |**Dominio de la frecuencia**|
-|:------------------------------------------:|:---------:|:------------:|
-|                **I**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_ejercicio_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D1_ejercicio_fft.jpg" width="500" height="270"></p>|
-| **II** |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_ejercicio_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D2_ejercicio_fft.jpg" width="500" height="270"></p>|
-|                **III**                |<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_ejercicio_time.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/D3_ejercicio_fft.jpg" width="500" height="270"></p>|
-
-
-</div>
-Notamos que niguna de las 3 derivaciones muestra una señal ECG adecuada debido a que no se logra distinguir de forma adecuada las ondas y segmentos relevantes por lo que no es posible hallar los latidos por minuto. Probablemte se haya colocado los electrodos de forma incorrecta u otro problema durante la toma de datos.
-
-### **Señal del Promsim4** <a name="id10"></a>
-Se realizó una simulación de diferentes latidos por minuto utilizando el dispositivo de metrología FLUKE ProSim4 que genera una señal patrón.
-<p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/prosim.jpg" width="400" height="500"></p>
-<div align="center">Figura 9: Conexión del Prosim y BITalino - 60 lpm</i></div>
-</p>
-
-
-<div align="center">
-   
-|                 **Simulación**                 | **Toma en OpenSignal** |
-|:------------------------------------------:|:---------:|
-|**Simulación de 60 lpm - estado basal**| <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim60.PNG" width="500" height="270"></p>|
-|**Simulación de 120 lpm - empieza a agitarse**| <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim120.PNG" width="500" height="270"></p>|
-|**Simulación de 150 lpm - haciendo ejercicio**| <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim150.PNG" width="500" height="270"></p>|
-|**Simulación de 90 lpm - reponiendose**| <p align="center"><img src="../../../Otros/Imagenes/Lab5_ECG/sim90.PNG" width="500" height="270"></p>|
-
-</div>
-
-### **Archivos** <a name="id11"></a>
-- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/ca2087a1e8c80dfdf1d244956771d8c6e7e543ac/Otros/Archivos%20varios/Lab5_ECG)
+### **Archivos** 
+- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/88e031b9ee680d6403ba408c9e73f99652f8cca3/Otros/Archivos%20varios/Lab6_EEG)
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/ca2087a1e8c80dfdf1d244956771d8c6e7e543ac/ISB/Laboratorios/Lab05%20-%20Adquisici%C3%B3n%20de%20se%C3%B1al%20ECG/LabECG.ipynb)
 
-## **Conclusiones** <a name="id12"></a>
-   - Se logró adquirir exitosamente las señales de ECG en las diferentes condiciones (estado basal, manteniendo la respiración, reposo post-respiración y después de actividad física) utilizando el sistema BITalino, lo que permitió la identificación de ondas y segmentos importantes del ciclo cardíaco.
-   - El intervalo R-R varió según las diferentes etapas del experimento, demostrando cambios en la frecuencia cardíaca del sujeto. Esto es consistente con las expectativas de variaciones cardíacas durante la contención de la respiración y actividad física.
-   - La simulación con el dispositivo FLUKE ProSim4 fue efectiva para comparar la señal generada por BITalino con una señal ECG estándar y ayudó a validar la funcionalidad del sistema de adquisición.
+## **Conclusiones** <a name="id8"></a>
+   - 
 
-## **Recomendaciones** <a name="id13"></a>
-   - Asegurarse de la correcta colocación de los electrodos para obtener mejores señales ECG, especialmente durante la actividad física, ya que la señal no fue completamente identificable en esta etapa del experimento.
-   - Revisar la conexión de los electrodos y cables antes de iniciar la adquisición de la señal para evitar interferencias o artefactos en los registros.
-   - Utilizar filtros adecuados durante el procesamiento de la señal para reducir el ruido y mejorar la calidad de la señal ECG.
+## **Recomendaciones** <a name="id9"></a>
+   - 
 
 
-## **Referencias bibliográficas** <a name="id14"></a>
-[1] Las ondas del electrocardiograma (ECG)," My EKG, 2024. [En línea]. Disponible en: https://www.my-ekg.com/generalidades-ekg/ondas-electrocardiograma.html. 
-
-‌[2] "Guía de Procedimiento Asistencial: Toma de Electrocardiograma del Hospital Nacional Hipólito Unanue," Hospital Nacional Hipólito Unanue, Ministerio de Salud, Perú, 2022. [En línea]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/3457356/RESOLUCI%C3%93N%20DIRECTORAL%20N%C2%B0%20192-2022-.pdf.pdf
-
-[3] M. Proença y K. Mrotzcek, "BITalino HomeGuide," PLUX – Wireless Biosignals, S.A., Lisboa, Portugal, 2021. [En línea]. Disponible en: http://BITalino.com/.
-
-[4] “Einthoven’s Triangle,” Unm.edu, 2024. [En línea]. Disponible en: https://www.unm.edu/~lkravitz/EKG/einthoven.html. 
+## **Referencias bibliográficas** <a name="id10"></a>
+[1] 
