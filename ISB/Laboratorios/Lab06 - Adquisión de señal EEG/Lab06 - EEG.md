@@ -43,12 +43,13 @@ Describir que se hará en este lab
 </div>
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/Ultracortex.jpg" width="400" height="300"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/Ultracortex.jpg" width="400" height="350"></p>
 <div align="center">Figura 2:  Ultracortex Mark IV EEG Headset</i></div>
-</p>
+</p>  
+
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/BITalino.png" width="400" height="266"></p>
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/BITalino.png" width="400" height="400"></p>
 <div align="center">Figura 3:  BITalino y electrodos</i></div>
 </p>
 
@@ -64,8 +65,8 @@ Describir que se hará en este lab
 <div align="center">Figura 3: Conexión usada del BITalino y electrodos</i></div>
 </p>
 
-### **Procedimiento** 
-* Obtención de señales EEG
+### **Procedimiento - Obtención de señales EEG** 
+
 
 ## **Resultados** <a name="id5"></a>
 ### **Señal con OpenBCI Ultracortex "Mark IV"** <a name="id6"></a>
