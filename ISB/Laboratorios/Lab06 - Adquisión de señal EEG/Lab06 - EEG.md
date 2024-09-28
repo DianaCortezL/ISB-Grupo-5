@@ -204,6 +204,6 @@ A continuación, se muestran las señale ploteadas en Python de las 3 preguntas 
 
 [2] C. Clinic, “EEGs (electroencephalograms) are tests that evaluate brain function. Healthcare providers order EEGs to diagnose brain issues like epilepsy or dementia.,” Cleveland Clinic, Nov. 16, 2016. https://my.clevelandclinic.org/health/diagnostics/9656-electroencephalogram-eeg (accessed Sep. 28, 2024).
 
-[3] neurofeedback, “¿Qué son las ondas Cerebrales? - NeuroFeedBack Barcelona,” NeuroFeedBack Barcelona, Jul. 24, 2019. https://www.neurofeedback.cat/que-son-las-ondas-cerebrales/ (accessed Sep. 28, 2024).
+[3] Neurofeedback, “¿Qué son las ondas Cerebrales? - NeuroFeedBack Barcelona,” NeuroFeedBack Barcelona, Jul. 24, 2019. https://www.neurofeedback.cat/que-son-las-ondas-cerebrales/ (accessed Sep. 28, 2024).
 ‌
-
+[4] BITalino, “BITalino HOME-GUIDE #3 ELECTROENCEPHALOGRAPHY (EEG) Exploring Brain signals” 2020 Accessed: Sep. 28, 2024. [Online]. Available from:https://bitalino.com/storage/uploads/media/homeguide3-eeg.pdf
