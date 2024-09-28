@@ -17,7 +17,7 @@
 El EEG o electroencefalograma es una prueba médica que registra la actividad eléctrica del cerebro. Los impulsos eléctricos generados por las neuronas viajan a través del cerebro, y el EEG captura estos impulsos y los presenta como ondas en un gráfico. A través del EEG, podemos analizar la actividad cerebral, identificar trastornos como epilepsia, monitorizar el estado de coma y estudiar patrones de sueño, entre otras aplicaciones. [1, 2]
 
 Las señales de EEG se captan mediante electrodos colocados en el cuero cabelludo, permitiendo el diagnóstico y monitoreo de condiciones neurológicas. Las ondas cerebrales se dividen en diferentes tipos, clasificadas por su frecuencia (número de veces que se repite una onda en un segundo): [3]
-   - Ondas Delta (0.1 - 4 Hz): Ondas muy lentas y las de mayor amplitud, están asociadas con el sueño profundo, coincide con la regeneración y restauración del Sistema Nervioso Central.
+   - Ondas Delta (0.2 - 4 Hz): Ondas muy lentas y las de mayor amplitud, están asociadas con el sueño profundo, coincide con la regeneración y restauración del Sistema Nervioso Central.
    - Ondas Theta (4 - 8 Hz): Relacionadas con estados de relajación profunda y meditación. Son muy importantes durante el aprendizaje y memoria. Se producen durante la transición entre vigilia y sueño.
    - Ondas Alfa (8 - 12 Hz): Asociadas a la relajación con los ojos cerrados y la actividad en reposo. Si hay déficit de alfa el individuo tiene dificultad para relajarse. Esta frecuencia ayuda a la coordinación mental, la integración mente/cuerpo, la calma y la alerta.
    - Ondas Beta (12 - 30 Hz): Se presentan durante la actividad mental y el estado de alerta. Un exceso de Beta consume mucha energía. El mapa cerebral de un paciente con trastorno de ansiedad puede mostrar un exceso de Beta 2 o 3.
@@ -57,10 +57,16 @@ El EEG es utilizado en distintas situaciones en el ámbito clínico, como en el 
 
 ## **Conexión usada y procedimiento** <a name="id4"></a>
 ### **Conexión usada** 
-* BITalino Board + Electrodos
-* UltraCortex MARK IV + Tarjeta Cyton
-En este laboratorio, se utilizaron dos métodos para medir el EEG: el uso del Ultracortex Mark IV EEG Headset y la medición mediante tres electrodos de acuerdo con la guía del sistema BITalino. Para la colocación de los electrodos, dos se ubicaron en la frente y uno detrás de la oreja, siguiendo las instrucciones de BITalino. El Ultracortex Mark IV EEG Headset, por su parte, es un casco que contiene varios electrodos integrados y ajustables para un contacto adecuado con el cuero cabelludo, proporcionando una captura precisa de las señales cerebrales. Antes de la medición, el Ultracortex debe ajustarse cuidadosamente para asegurar un buen contacto, utilizando las perillas de ajuste para adaptarse a la forma y tamaño de la cabeza del usuario.
+En este laboratorio utilizamos 2 sistemas de conexión :
 
+1. BITalino Board + Electrodos:
+   - Usamos tres electrodos para la adquisición de la señal EEG, siguiendo la guía de BITalino. Dos electrodos se colocaron en la frente y uno detrás de la oreja. 
+
+2. Ultracortex Mark IV + Tarjeta Cyton:
+   - Se utilizó el Ultracortex Mark IV EEG Headset, un casco equipado con múltiples electrodos integrados. La tarjeta de biosensado Cyton de 8 canales permitió la recopilación de las señales capturadas por el headset. El Ultracortex fue ajustado cuidadosamente mediante las perillas de ajuste para asegurar un contacto óptimo con el cuero cabelludo y una señal EEG clara.
+
+### **Procedimiento**
+ 
 </div>
 
 <p align="justify">
