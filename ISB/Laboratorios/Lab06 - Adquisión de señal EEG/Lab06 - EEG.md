@@ -77,7 +77,7 @@ Para la obtención de la señal EEG con el BITalino y el UltraCortex MARK IV se 
    - Se registró una línea base de la señal EEG con poco ruido y sin movimientos (respiración normal, sin movimientos oculares / ojos cerrados) durante 30 segundos.
    - Se registró la señal EEG repitiendo 5 ciclos de 10 segundos de ojos abiertos - ojos cerrados
    - Se registró la señal EEG en reposo durante 30 segundos nuevamente
-   - Se registró la señal EEG en un estado de razonamiento lógico-matemático a través de preguntas fáciles y complejas.
+   - Se registró la señal EEG en un estado de razonamiento lógico-matemático a través de preguntas fáciles y complejas:
       - Preguntas fáciles realizadas: 
          - Una tienda tiene 7 camisetas y vende 3 ¿Cuántas camisetas quedan en la tienda?
          - En una caja hay 10 libros y se sacan 2 ¿Cuántos libros quedan en la caja?
@@ -117,8 +117,42 @@ A continuacion mostraremos los graficos ploteados en Open Signals.
 </div>
 
 - ### **Gráficos en Python**
-Asimismo, se realizo el ploteo de las señales de OpenSignals en Python.
+Asimismo, se realizo el ploteo de las señales de OpenSignals en Python. Se graficó en dominio del tiempo y de frecuencia
+   1. Línea base 1 de la señal EEG con poco ruido y sin movimientos
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/linea_base.jpg" width="420" height="266"></p>
+<div align="center">Figura *: Señal EEG en dominio de tiempo y freciencia de un ciclo sin movimientos oculares y con los ojos cerrados</i></div>
+</p>
 
+   2. Señal EEG repitiendo 5 ciclos de 10 segundos de ojos abiertos - ojos cerrados
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/ojos_abierto_cerrados.jpg" width="420" height="266"></p>
+<div align="center">Figura *: Señal EEG en dominio de tiempo y frecuencia de un ciclo de ojos abiertos y ojos cerrados</i></div>
+</p>
+
+   3. Línea base 2 de la señal EEG con poco ruido y sin movimientos
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/otra línea base.jpg" width="420" height="266"></p>
+<div align="center">Figura *: Señal EEG en dominio de tiempo y freciencia de un ciclo sin movimientos oculares y con los ojos cerrados</i></div>
+</p>
+
+  4. Señal completa de EEG durante sesion de preguntas fáciles
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_facil.jpg" width="420" height="266"></p>
+<div align="center">Figura *: Señal EEG en dominio de tiempo y freciencia durante preguntas fáciles</i></div>
+</p>
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_facil_2.jpg" width="420" height="266"></p>
+<div align="center">Figura *: Señal EEG en dominio de tiempo y freciencia durante preguntas fáciles</i></div>
+</p>
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/pregunta_facil_2.jpg" width="420" height="266"></p>
+<div align="center">Figura *: Señal EEG en dominio de tiempo y freciencia durante preguntas fáciles</i></div>
+</p>
+
+   
 ### **Archivos** <a name="id8"></a>
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/88e031b9ee680d6403ba408c9e73f99652f8cca3/Otros/Archivos%20varios/Lab6_EEG)
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/01dd208ed2c0990ba65ef55da91e29f922fbb739/ISB/Laboratorios/Lab06%20-%20Adquisi%C3%B3n%20de%20se%C3%B1al%20EEG/LabEEG.ipynb)
