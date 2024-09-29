@@ -108,12 +108,12 @@ Para la obtención de la señal EEG con el BITalino y el UltraCortex MARK IV se 
   
 <div align="center">
  
-|                                 **Fase**                             |                                  **Gráfico en OpenBCI GUI**                           |
-|:--------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
-|                **Fase de referencia de 30 segundos**                 | <p align="center"><img src="../../../Otros/Imagenes/OPENBCI-faseref.png" width="500"  |
-|       **Realizando secuencia de ojos abiertos - ojos cerrados**      | <p align="center"><img src="../../../Otros/Imagenes/OPENBCI-ojos.png" width="500"     |
-|             **Respondiendo preguntas categoría simple**              | <p align="center"><img src="../../../Otros/Imagenes/OPENBCI-pregfacil.png" width="500"|
-|           **Respondiendo preguntas categoría compleja**              | <p align="center"><img src="../../../Otros/Imagenes/OPENBCI-pregdif.png" width="500"  |
+|                            **Fase**                            |                                      **Gráfico en OpenBCI GUI**                                |
+|:--------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
+|             **Fase de referencia de 30 segundos**              | <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/OPENBCI-faseref.png" width="500"  |
+|   **Realizando secuencia de ojos abiertos - ojos cerrados**    | <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/OPENBCI-ojos.png" width="500"     |
+|          **Respondiendo preguntas categoría simple**           | <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/OPENBCI-pregfacil.png" width="500"|
+|        **Respondiendo preguntas categoría compleja**           | <p align="center"><img src="../../../Otros/Imagenes/Lab6_EEG/OPENBCI-pregdif.png" width="500"  |
 
 </div>
 
