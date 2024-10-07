@@ -1,0 +1,62 @@
+4.273236221383033e-06,1.0
+0.0,-7.505212586134488
+-1.7092944885532127e-05,24.838462581094124
+-1.6940658945086007e-20,-47.33663859466184
+2.5639417328298224e-05,56.814618331033
+-1.3552527156068805e-20,-43.97458537370928
+-1.7092944885532127e-05,21.435744833335253
+0.0,-6.017235695405117
+4.273236221383033e-06,0.7448533727040305
+
+fs = sampling_rate
+data = emg_signal
+t = time
+
+df = pd.read_csv("filter.csv", names=["b","a"])
+
+b = df.b
+a = df.a
+
+b, a
+
+signalf = signal.lfilter(b, a, data)
+
+signalf
+
+plt.plot(t, signalf)
+plt.xlim(9,10)
+plt.xlabel('Time (s)')
+plt.ylabel('Amplitude')
+plt.grid(ls=":")
+plt.show()
+
+#GRAFICA EN EL DOMINIO DE LA FRECUENCIA
+plt.magnitude_spectrum(signalf, Fs=fs, scale="dB")
+plt.xlabel('Frequency (Hz)')
+#plt.ylabel('Magnitude')
+plt.grid(ls=":")
+plt.xlim(0,30)
+plt.ylim(-100,0)
+plt.show()
+
+plt.figure(figsize=(16,4))
+
+plt.subplot(1,2,1)
+f, t, Zxx = signal.stft(data, fs, nperseg=1000)
+plt.pcolormesh(t, f, np.abs(Zxx), vmin=0, vmax=np.max(signalg), shading='gouraud')
+plt.title('STFT Magnitude DATA')
+plt.ylabel('Frequency [Hz]')
+plt.xlabel('Time [sec]')
+plt.ylim(0,30)
+plt.colorbar()
+#plt.show()
+
+plt.subplot(1,2,2)
+f, t, Zxx = signal.stft(signalf, fs, nperseg=1000)
+plt.pcolormesh(t, f, np.abs(Zxx), vmin=0, vmax=np.max(signalg), shading='gouraud')
+plt.title('STFT Magnitude DATA FILTRADA')
+plt.ylabel('Frequency [Hz]')
+plt.xlabel('Time [sec]')
+plt.ylim(0,30)
+plt.colorbar()
+plt.show()
