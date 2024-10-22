@@ -26,7 +26,7 @@
 |  **Modelo**  | **Descripción** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 |       -      |      Laptop     |       1      |
-| - |   Python y librerías  |       1      |
+| - |   Python y librerías  |       -      |
 <div align="center"> Tabla 1: Materiales y equipos</i></div>
 
 </div>
