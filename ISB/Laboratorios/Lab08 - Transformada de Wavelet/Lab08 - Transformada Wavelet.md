@@ -16,9 +16,9 @@
 ## **Introducción** <a name="id1"></a>
 
 ## **Objetivos** <a name="id2"></a>
-* Adquirir señales biomédicas de EEG utilizando el Kit BITalino (R)evolution
-* Obtener señales de EEG utilizando Ultracortex Mark IV EEG Headset y la tarjeta de biosensado Cyton de 8 canales.
-* Plotear las señales en dominio del tiempo y frecuencia en Python
+* Comprender los conceptos básicos de la transformada wavelet 
+* Realizar el filtrado de las señales ECG, EMG y EEG utilizando la transformada wavelet
+* Aplicar técnicas de wavelets para el procesamiento de señales enfocándose en la eliminación de ruido y la detección de características importantes.
 
 ## **Materiales y equipos** <a name="id3"></a>
 <div align="center">
@@ -32,7 +32,20 @@
 </div>
 
 ## **Metodología** <a name="id4"></a>
+- Especificaciones del filtro wavelet para ECG
+  - Tipo de wavelet:
+  - Nivel de descomposición:
+  - Umbral
 
+- Especificaciones del filtro wavelet para EMG
+  - Tipo de wavelet:
+  - Nivel de descomposición:
+  - Umbral
+    
+- Especificaciones del filtro wavelet para EEG
+  - Tipo de wavelet:
+  - Nivel de descomposición:
+  - Umbral
 
 ## **Resultados** <a name="id5"></a>
 ### **Señal ECG** <a name="id6"></a>
