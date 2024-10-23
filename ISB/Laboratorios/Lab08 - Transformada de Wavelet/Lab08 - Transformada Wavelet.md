@@ -118,6 +118,11 @@ Human Stress Assessment" [1]
 
 </div>  
 
+En la actividad 1 y 2 (reposo y manteniendo respiración) notamos de forma clara como la transformada de wavelet permite obtener una señal con menos ruido y manteniendo los picos P, T y el complejo QRS. Además, este método permite la eliminación de componentes de alta frecuencia que pueden corresponder a artefactos, ruido o red eleéctrica. Notamos que al reconstruir la señal se obtiene una más suave y sin mucho ruido. Los niveles 5 al 3 capturan principalmente ruido, que es eliminado luego de la umbralización. Los niveles 2 al 0 capturan detalles importantes y algunos artefactos. 
+
+En el último nivel de descomposición (N=5), los coeficientes capturan principalmente las frecuencias más altas de la señal original, lo que incluye una gran cantidad de ruido. A medida que se avanza a los niveles N=4 y N=3, los coeficientes siguen reflejando componentes de alta frecuencia, aunque con una menor cantidad de ruido, permitiendo que los picos QRS aún sean visibles. En los niveles intermedios (N=2 a N=1), los coeficientes comienzan a representar mejor las variaciones de baja frecuencia, lo que reduce aún más el ruido y destaca las características globales de la señal. A partir de los niveles N=2, se capturan las tendencias más suaves y de muy baja frecuencia, con un menor nivel de ruido y una mayor claridad en los detalles finos de la señal. Finalmente, en el nivel N=1, predomina las variaciones de muy baja frecuencia, mostrando las tendencias generales de la señal original.
+
+
 ### **Señal EEG** <a name="id8"></a>
    
 ### **Archivos** <a name="id9"></a>
