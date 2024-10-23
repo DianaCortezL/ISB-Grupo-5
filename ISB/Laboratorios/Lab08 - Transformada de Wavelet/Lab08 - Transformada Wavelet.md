@@ -66,7 +66,7 @@
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG2_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG2_wave.jpg" width="500" height="270"></p>| 
 <div align="center"> Tabla 2: Filtrado de señal EMG cuando se mantiene en reposo</i></div>
 
 </div>
@@ -77,7 +77,7 @@
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG3_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG3_wave.jpg" width="500" height="270"></p>| 
 <div align="center"> Tabla 1: Filtrado de señal EMG después de actividad física</i></div>
 
 </div>
