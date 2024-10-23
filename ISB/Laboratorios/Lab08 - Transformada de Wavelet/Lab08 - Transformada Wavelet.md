@@ -32,6 +32,8 @@
 </div>
 
 ## **Metodología** <a name="id4"></a>
+El presente laboratorio consiste en diseñar filtros wavelet para señales EMG, ECG y EEG. Para ello se utilizarán las señales obtenidas previamente en los laboratorios. Se aplicará el filtro en 3 diferentes estados para cada una se las señales y el diseño de los filtros se basará literatura donde se obtendrán parámetros como: tipo de wavelet, nivel de descomposición y umbral. Una vez obtenido las características del filtro wavelet se realizará la descomposición de la señal por niveles para separar las distintas frecuencias de la señal en diferentes niveles, aislando detalles y elementos relevantes, conocidos como coeficientes. Por último, se realizará la reconstrucción de la señal a partir de los coeficientes wavelet modificados asegurando que los componentes clave de la señal permanecieran claros y definidos, facilitando su análisis.
+
 - **Especificaciones del filtro wavelet para ECG**: Para el filtrado de ECG se tómo el siguiente artículo "ECG Signal Denoising Using Wavelet Thresholding Techniques in
 Human Stress Assessment" [1]
   - Tipo de wavelet: db4
