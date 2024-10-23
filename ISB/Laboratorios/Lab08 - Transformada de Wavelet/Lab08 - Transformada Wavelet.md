@@ -41,9 +41,9 @@ Human Stress Assessment" [1]
   - Umbral: soft
 
 - **Especificaciones del filtro wavelet para EMG**
-  - Tipo de wavelet:
-  - Nivel de descomposición:
-  - Umbral:
+  - Tipo de wavelet: sym4
+  - Nivel de descomposición: 10
+  - Umbral: soft
     
 - **Especificaciones del filtro wavelet para EEG**
   - Tipo de wavelet:
@@ -102,6 +102,21 @@ Human Stress Assessment" [1]
 </div>
 
 ### **Señal EMG** <a name="id7"></a>
+- Tricep en sobreesfuerzo:
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_level.jpg" width="500" height="550"></p>
+<div align="center">Figura 4: Niveles de descomposición (10)</i></div>
+</p>
+  
+<div align="center">
+   
+|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
+|:------------:|:---------------:|
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+<div align="center"> Tabla 3: Filtrado de señal EMG en sobreefuerzo</i></div>
+
+</div>  
 
 ### **Señal EEG** <a name="id8"></a>
    
