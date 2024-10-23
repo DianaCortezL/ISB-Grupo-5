@@ -40,7 +40,7 @@ Human Stress Assessment" [1]
   - Nivel de descomposición: 6
   - Umbral: soft
 
-- **Especificaciones del filtro wavelet para EMG**
+- **Especificaciones del filtro wavelet para EMG**: Para el filtrado de EMG se tomó el artículo de título "An improved wavelet threshold denoising approach for surface electromyography signal" [2]
   - Tipo de wavelet: sym4
   - Nivel de descomposición: 10
   - Umbral: soft
@@ -127,12 +127,14 @@ Human Stress Assessment" [1]
 - [Programa de ploteo EEG (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/19ff03aa9ecb7bfd3b8092b4e4bf92c544287deb/ISB/Laboratorios/Lab08%20-%20Transformada%20de%20Wavelet/EEG/EEG_code.ipynb)
 
 ## **Conclusiones** <a name="id10"></a>
-   -
+   - Se empleó correctamente la transformada wavelet para cada tipo de señal biomédica, esta transformada tomó los parámetros acorde a cada artículo referenciado.
+   - Se realizó una búsqueda detalla de artículos, donde se definían los parámetros adecuados para el filtrado de cada tipo de señal.
+   - Se demostró la diferencia entre la señal original y la señal filtrada, dando como resultado una señal mucho más limpia de ruido.
 
 ## **Referencias bibliográficas** <a name="id11"></a>
 [1] P. Karthikeyan, M. Murugappan, and S. Yaacob, “ECG signal denoising using wavelet thresholding techniques in human stress assessment,” Int. J. Electr. Eng. Inform., vol. 4, no. 2, p. 306, 2012.
 
-[2]
+[2] X. Zhang, Y. Liu, and Z. Li, “An improved wavelet threshold denoising approach for surface electromyography signal,” *EURASIP J. Adv. Signal Process.*, vol. 2020, no. 1, p. 12, 2020.
 
 [3] 
  
