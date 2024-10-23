@@ -51,6 +51,11 @@ Human Stress Assessment" [1]
 ## **Resultados** <a name="id5"></a>
 ### **Señal ECG** <a name="id6"></a>
 - Derivación 1: reposo
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_level.jpg" width="400" height="266"></p>
+<div align="center">Figura 2: Kit BITalino y electrodos</i></div>
+</p>
   
 <div align="center">
    
@@ -63,6 +68,11 @@ Human Stress Assessment" [1]
 
 - Derivación 1: manteniendo la respiración por 10 segundos
 
+<p align="justify">
+<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG2_level.jpg" width="400" height="266"></p>
+<div align="center">Figura 2: Kit BITalino y electrodos</i></div>
+</p>
+
 <div align="center">
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
@@ -73,6 +83,11 @@ Human Stress Assessment" [1]
 </div>
 
 - Derivación 1: después de una actividad física
+
+<p align="justify">
+<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG3_level.jpg" width="400" height="266"></p>
+<div align="center">Figura 2: Kit BITalino y electrodos</i></div>
+</p>
 
 <div align="center">
    
@@ -97,8 +112,7 @@ Human Stress Assessment" [1]
    -
 
 ## **Referencias bibliográficas** <a name="id11"></a>
-
-[1]
+[1] P. Karthikeyan, M. Murugappan, and S. Yaacob, “ECG signal denoising using wavelet thresholding techniques in human stress assessment,” Int. J. Electr. Eng. Inform., vol. 4, no. 2, p. 306, 2012.
 
 [2]
 
