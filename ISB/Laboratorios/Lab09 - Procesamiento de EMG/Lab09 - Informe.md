@@ -1,4 +1,4 @@
-# **LABORATORIO 9: – PROCESAMIENTO DE SEÑAL EMG**
+# **LABORATORIO 9: PROCESAMIENTO DE SEÑAL EMG**
 # **Tabla de contenidos**
 
 1. [Introducción](#id1)
