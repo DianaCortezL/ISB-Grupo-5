@@ -35,7 +35,7 @@
 - Especificaciones del filtro wavelet para ECG. Para el filtrado de ECG se tómo el siguiente artículo "ECG Signal Denoising Using Wavelet Thresholding Techniques in
 Human Stress Assessment" [1]
   - Tipo de wavelet: db4
-  - Nivel de descomposición: 5
+  - Nivel de descomposición: 6
   - Umbral: soft
 
 - Especificaciones del filtro wavelet para EMG
@@ -50,11 +50,11 @@ Human Stress Assessment" [1]
 
 ## **Resultados** <a name="id5"></a>
 ### **Señal ECG** <a name="id6"></a>
-- Derivación 1: reposo
+- **Derivación 1: reposo**
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_level.jpg" width="400" height="266"></p>
-<div align="center">Figura 2: Kit BITalino y electrodos</i></div>
+<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_level.jpg" width="500" height="550"></p>
+<div align="center">Figura 1: Niveles de descomposición</i></div>
 </p>
   
 <div align="center">
@@ -62,15 +62,16 @@ Human Stress Assessment" [1]
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
 |<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
-<div align="center"> Tabla 1: Filtrado de señal EMG en reposo</i></div>
+<div align="center"> Tabla 2: Filtrado de señal EMG en reposo</i></div>
 
-</div>
+</div>  
 
-- Derivación 1: manteniendo la respiración por 10 segundos
+
+- **Derivación 1: manteniendo la respiración por 10 segundos**
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG2_level.jpg" width="400" height="266"></p>
-<div align="center">Figura 2: Kit BITalino y electrodos</i></div>
+<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG2_level.jpg" width="500" height="550"></p>
+<div align="center">Figura 2: Niveles de descomposición</i></div>
 </p>
 
 <div align="center">
@@ -78,15 +79,15 @@ Human Stress Assessment" [1]
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
 |<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG2_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG2_wave.jpg" width="500" height="270"></p>| 
-<div align="center"> Tabla 2: Filtrado de señal EMG cuando se mantiene en reposo</i></div>
+<div align="center"> Tabla 3: Filtrado de señal EMG cuando se mantiene en reposo</i></div>
 
 </div>
 
-- Derivación 1: después de una actividad física
+- **Derivación 1: después de una actividad física**
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG3_level.jpg" width="400" height="266"></p>
-<div align="center">Figura 2: Kit BITalino y electrodos</i></div>
+<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG3_level.jpg" width="500" height="550"></p>
+<div align="center">Figura 3: Niveles de descomposición</i></div>
 </p>
 
 <div align="center">
@@ -94,7 +95,7 @@ Human Stress Assessment" [1]
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
 |<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG3_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG3_wave.jpg" width="500" height="270"></p>| 
-<div align="center"> Tabla 1: Filtrado de señal EMG después de actividad física</i></div>
+<div align="center"> Tabla 4: Filtrado de señal EMG después de actividad física</i></div>
 
 </div>
 
