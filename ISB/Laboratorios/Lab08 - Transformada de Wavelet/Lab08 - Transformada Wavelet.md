@@ -113,7 +113,7 @@ En el último nivel de descomposición (N=6), los coeficientes capturan principa
 - Tricep en sobreesfuerzo:
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_level.jpg" width="500" height="550"></p>
+<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/EMG AAAAAAAAAA.png" width="500" height="550"></p>
 <div align="center">Figura 4: Niveles de descomposición (10)</i></div>
 </p>
   
@@ -121,7 +121,7 @@ En el último nivel de descomposición (N=6), los coeficientes capturan principa
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/TS dom tiempo.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/TSF dom tiempo.png" width="500" height="270"></p>| 
 <div align="center"> Tabla 3: Filtrado de señal EMG en sobreefuerzo</i></div>
 
 </div>  
