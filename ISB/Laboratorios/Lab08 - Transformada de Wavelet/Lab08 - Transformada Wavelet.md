@@ -32,20 +32,21 @@
 </div>
 
 ## **Metodología** <a name="id4"></a>
-- Especificaciones del filtro wavelet para ECG
-  - Tipo de wavelet:
-  - Nivel de descomposición:
-  - Umbral
+- Especificaciones del filtro wavelet para ECG. Para el filtrado de ECG se tómo el siguiente artículo "ECG Signal Denoising Using Wavelet Thresholding Techniques in
+Human Stress Assessment" [1]
+  - Tipo de wavelet: db4
+  - Nivel de descomposición: 5
+  - Umbral: soft
 
 - Especificaciones del filtro wavelet para EMG
   - Tipo de wavelet:
   - Nivel de descomposición:
-  - Umbral
+  - Umbral:
     
 - Especificaciones del filtro wavelet para EEG
   - Tipo de wavelet:
   - Nivel de descomposición:
-  - Umbral
+  - Umbral:
 
 ## **Resultados** <a name="id5"></a>
 ### **Señal ECG** <a name="id6"></a>
