@@ -14,6 +14,8 @@
 9. [Referencias bibliográficas](#id11)
 
 ## **Introducción** <a name="id1"></a>
+La transformada Wavelet permite al usuario realizar un análisis de la señal en el dominio del tiempo y frecuencia, a diferencia de la transformada de Fourier, la transformada Wavelet puede ser empleada en señales no estacionarias, las cuales se ven alteradas en función del tiempo.
+Esta derivada permite una descomposición en diferentes resoluciones y la selección del tipo de transformada a utilizar (sym1, sym2, sym3, db4, etc), con estas características
 
 ## **Objetivos** <a name="id2"></a>
 * Comprender los conceptos básicos de la transformada wavelet 
