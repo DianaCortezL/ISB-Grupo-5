@@ -56,13 +56,31 @@
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
 |<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
-<div align="center"> Tabla 1: Materiales y equipos</i></div>
+<div align="center"> Tabla 1: Filtrado de señal EMG en reposo</i></div>
 
 </div>
 
 - Derivación 1: manteniendo la respiración por 10 segundos
-  
+
+<div align="center">
+   
+|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
+|:------------:|:---------------:|
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+<div align="center"> Tabla 2: Filtrado de señal EMG cuando se mantiene en reposo</i></div>
+
+</div>
+
 - Derivación 1: después de una actividad física
+
+<div align="center">
+   
+|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
+|:------------:|:---------------:|
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+<div align="center"> Tabla 1: Filtrado de señal EMG después de actividad física</i></div>
+
+</div>
 
 ### **Señal EMG** <a name="id7"></a>
 
