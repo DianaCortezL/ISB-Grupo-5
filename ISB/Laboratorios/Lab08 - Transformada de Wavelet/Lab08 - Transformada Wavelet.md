@@ -51,6 +51,15 @@
 ### **Señal ECG** <a name="id6"></a>
 - Derivación 1: reposo
   
+<div align="center">
+   
+|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
+|:------------:|:---------------:|
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+<div align="center"> Tabla 1: Materiales y equipos</i></div>
+
+</div>
+
 - Derivación 1: manteniendo la respiración por 10 segundos
   
 - Derivación 1: después de una actividad física
