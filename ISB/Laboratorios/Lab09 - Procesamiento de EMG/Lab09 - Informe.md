@@ -106,7 +106,7 @@ Luego de realizar el filtrado, se relizó la extracción de las características
 </div>
 
 3. **Discusión**\
-AAAAAAAAA
+HAGAN LAS DISCUSIONES
 
 ### **Archivos** 
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab4_EMG)
