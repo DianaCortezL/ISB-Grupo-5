@@ -85,21 +85,21 @@ Luego de realizar el filtrado, se relizó la extracción de las características
   
 |Parámetro| Señal EMG en reposo | Señal EMG en esfuerzo | Señal EMG en sobreesfuerzo |
 |---------|----------|-----|------------------------------|
-|EMG Onset Points|a|a|a|
-|EMG Offset Points|a|a|a|
-|Number of Muscular activations|a|a|a|
-|Maximun Activation Time|a|a|a|
-|Minimun Activation Time|a|a|a|
-|Average Activation Time|a|a|a|
-|Standard Deviation Time|a|a|a|
-|Maximun EMG (mV)|a|a|a|
-|Minimun EMG (mV)|a|a|a|
-|Average EMG (mV)|a|a|a|
-|Standard Deviation EMG (mV)|a|a|a|
-|Root Mean Square (mV)|a|a|a|
-|Total Power|a|a|a|
-|Median Frequency (Hz)|a|a|a|
-|Maximun Frequency (Hz)|a|a|a|
+|EMG Onset Points|[0.2000118]|a|a|
+|EMG Offset Points|[16.7499882]|a|a|
+|Number of Muscular activations|1|a|a|
+|Maximun Activation Time|16.550 s|a|a|
+|Minimun Activation Time|16.550 s|a|a|
+|Average Activation Time|16.550 s|a|a|
+|Standard Deviation Time|0.000 s|a|a|
+|Maximun EMG (mV)|20.206206855861694 mV|a|a|
+|Minimun EMG (mV)|-21.793793144138306 mV|a|a|
+|Average EMG (mV)|-8.461616955915902e-15 mV|a|a|
+|Standard Deviation EMG (mV)|3.359112035641272 mV|a|a|
+|Root Mean Square (mV)|3.3591120356412723 mV|a|a|
+|Total Power|11.268124124952907|a|a|
+|Median Frequency (Hz)|113.28125 Hz|a|a|
+|Maximun Frequency (Hz)|58.59375 Hz|a|a|
 |Zero-Crossing|a|a|a|
 <div align="center"> Tabla 6: Parámetros extraídos de la señal EMG en reposo, tensión y oposición</i></div>
 
