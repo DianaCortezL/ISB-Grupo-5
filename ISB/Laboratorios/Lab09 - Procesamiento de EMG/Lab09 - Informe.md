@@ -40,11 +40,12 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 </div>
 
 ## **Metodología** <a name="id4"></a>
-
+Pongan el tipo de wavelet que se uso para filtrar, los paráemtros (NIVELES, ETC). Pongan que se usó los archivos del tríceps, que se segemntaron las señales (miren el código). Pongan los papers (los nombres y qué extrajimos de ellos). También que se usó la libreria biosignalsnotebooks para extraer las características.
 
 ## **Resultados** <a name="id5"></a>
-1. **Filtrado de las señales**
+1. **Filtrado y segmentación de las señales EMG**
   - **Reposo**
+    IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
     <div align="center">
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
@@ -55,6 +56,7 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 </div>  
     
   - **Esfuerzo**
+     IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
     <div align="center">
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
@@ -65,6 +67,7 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 </div>  
     
   - **Sobreesfuerzo**
+     IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
     <div align="center">
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
@@ -75,6 +78,7 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 </div>  
    
 2. **Extracción de características**\
+COMPLETEN LA TABLA CON LOS VALORES 
 Luego de realizar el filtrado, se relizó la extracción de las características de la señal filtrada por la transformada de Wavelet. Los parámetros y los resultados se aprecian en la Tabla 6
 
 <div align="center">
