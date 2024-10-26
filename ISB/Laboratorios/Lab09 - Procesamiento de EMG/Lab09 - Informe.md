@@ -18,6 +18,13 @@ La segmentación de la señal es otra etapa crítica, en la cual la señal EMG s
 
 Finalmente, la extracción de características en la señal EMG es esencial para obtener métricas relevantes que describan el comportamiento muscular, clasificar la actividad muscular, detectar patologías o evaluar el rendimiento muscular en diversas condiciones. Las características extraídas podrían clasificarse en dominios de tiempo o frecuencia. Las características del dominio de tiempo representan la energía de una señal EMG. Por otro lado, las características del dominio de frecuencia, además de mostrar el nivel de activación de los músculos, tienen la capacidad de eliminar el ruido de la señal pero tienen un mayor costo computacional. Algunas de las características más importantes del dominio del tiempo son EMG integrada (IEMG), valor absoluto medio (MAV), raíz cuadrada mediana (RMS), integral cuadrada simple (SSI) o longitud de forma de onda (WL). Las características del dominio de frecuencia se utilizan generalmente para el estudio de la fatiga muscular o en el análisis de la unidad motora, siendo no apropiadas para la clasificación de señales EMG. Algunas de las características más importantes del dominio de frecuencia son frecuencia media (MNF), frecuencia mediana (MDF), frecuencia de potencia media (MNP), frecuencia de pico (PKF) o potencia total (TTP) [3]
 
+<p align="justify">
+<p align="center"><img src="../../../Otros/Archivos_varios/Lab9_ProcesamientoEMG/Tabla_características.png" width="500" height="550"></p>
+<div align="center">Figura 1: Resumen de características y fórmulas de la señal EMG [4]</i></div>
+</p>
+  
+<div align="center">
+
 ## **Objetivos** <a name="id2"></a>
 * Filtrar señales EMG e identificar el mejor filtro
 * Extraer y evaluar características importantes de las señales EMG
