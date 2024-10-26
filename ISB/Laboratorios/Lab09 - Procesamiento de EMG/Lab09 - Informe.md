@@ -50,7 +50,7 @@ Pongan el tipo de wavelet que se uso para filtrar, los paráemtros (NIVELES, ETC
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+|<p align="center"><img src="../../../Otros/Imagenes/Lab9/reposo_raw.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab9/reposo_fil.png" width="500" height="270"></p>| 
 <div align="center"> Tabla 3: Filtrado de señal EMG del tríceps en reposo</i></div>
 
 </div>  
@@ -61,7 +61,7 @@ Pongan el tipo de wavelet que se uso para filtrar, los paráemtros (NIVELES, ETC
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+|<p align="center"><img src="../../../Otros/Imagenes/Lab9/esfuerzo_raw.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab9/esfuerzo_fil.png" width="500" height="270"></p>| 
 <div align="center"> Tabla 4: Filtrado de señal EMG del tríceps en esfuerzo</i></div>
 
 </div>  
@@ -72,7 +72,7 @@ Pongan el tipo de wavelet que se uso para filtrar, los paráemtros (NIVELES, ETC
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+|<p align="center"><img src="../../../Otros/Imagenes/Lab9/sobreesfuerzo_raw.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab9/sobreesfuerzo_fil.png" width="500" height="270"></p>| 
 <div align="center"> Tabla 5: Filtrado de señal EMG del tríceps en sobreesfuerzo</i></div>
 
 </div>  
