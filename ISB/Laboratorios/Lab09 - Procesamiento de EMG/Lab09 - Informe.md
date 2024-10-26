@@ -74,3 +74,4 @@ Finalmente, la extracción de características en la señal EMG es esencial para
  
 [3] del Olmo, Manuel, and Rosario Domingo. “EMG Characterization and Processing in Production Engineering.” Materials, vol. 13, no. 24, 20 Dec. 2020, p. 5815, https://doi.org/10.3390/ma13245815.
 
+[4]Turner, Amber, et al. “Comparing Machine Learning Methods and Feature Extraction Techniques for the EMG Based Decoding of Human Intention.” 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1 Nov. 2021, https://doi.org/10.1109/embc46164.2021.9630998.
