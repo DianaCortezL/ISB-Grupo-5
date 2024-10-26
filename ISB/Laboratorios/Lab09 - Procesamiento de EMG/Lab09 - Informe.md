@@ -85,21 +85,21 @@ Luego de realizar el filtrado, se relizó la extracción de las características
   
 |Parámetro| Señal EMG en reposo | Señal EMG en esfuerzo | Señal EMG en sobreesfuerzo |
 |---------|----------|-----|------------------------------|
-|EMG Onset Points|[0.2000118]|a|a|
-|EMG Offset Points|[16.7499882]|a|a|
-|Number of Muscular activations|1|a|a|
-|Maximun Activation Time|16.550 s|a|a|
-|Minimun Activation Time|16.550 s|a|a|
-|Average Activation Time|16.550 s|a|a|
-|Standard Deviation Time|0.000 s|a|a|
-|Maximun EMG (mV)|20.206206855861694 mV|a|a|
-|Minimun EMG (mV)|-21.793793144138306 mV|a|a|
-|Average EMG (mV)|-8.461616955915902e-15 mV|a|a|
-|Standard Deviation EMG (mV)|3.359112035641272 mV|a|a|
-|Root Mean Square (mV)|3.3591120356412723 mV|a|a|
-|Total Power|11.268124124952907|a|a|
-|Median Frequency (Hz)|113.28125 Hz|a|a|
-|Maximun Frequency (Hz)|58.59375 Hz|a|a|
+|EMG Onset Points|[0.2000118]|[ 7.17323674, 8.22227136, 10.58634938, 13.32243968]|[ 0.20000626, 3.64411406, 13.3424176, 21.33466775]|
+|EMG Offset Points|[16.7499882]|[ 7.17323674, 8.22227136, 10.58634938, 13.32243968]|[ 1.61805064,  4.90415349, 14.24944599, 23.44973395]|
+|Number of Muscular activations|1|4|4|
+|Maximun Activation Time|16.550 s|2.661 s|2.115 s|
+|Minimun Activation Time|16.550 s|0.131 s|0.907 s|
+|Average Activation Time|16.550 s|0.998 s|1.425 s|
+|Standard Deviation Time|0.000 s|1.026 s|0.439 s|
+|Maximun EMG (mV)|20.206206855861694 mV|134.18479157727978 mV|476.19925506275627 mV|
+|Minimun EMG (mV)|-21.793793144138306 mV|-128.81520842272022 mV|-446.80074493724373 mV|
+|Average EMG (mV)|-8.461616955915902e-15 mV|3.69400613013403e-15 mV|-2.768423416927518e-15 mV|
+|Standard Deviation EMG (mV)|3.359112035641272 mV|8.066803230862357 mV|30.534436237982515 mV|
+|Root Mean Square (mV)|3.3591120356412723 mV|8.066803230862357 mV|30.53443623798252 mV|
+|Total Power|11.268124124952907|62.41920762636977|961.5932972648554|
+|Median Frequency (Hz)|113.28125 Hz|117.1875 Hz|128.90625 Hz|
+|Maximun Frequency (Hz)|58.59375 Hz|89.84375 Hz|121.09375 Hz|
 |Zero-Crossing|a|a|a|
 <div align="center"> Tabla 6: Parámetros extraídos de la señal EMG en reposo, tensión y oposición</i></div>
 
@@ -115,7 +115,7 @@ HAGAN LAS DISCUSIONES
 - [Procesamiento EMG (Sobreesfuerzo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_sobreesfuerzo.ipynb)
 
 ## **Conclusiones** <a name="id6">
-   - 
+   - Se identificaron correctamente las características en cada señal EMG correspondiente a reposo, esfuerzo y sobreesfuerzo.
    - 
    - 
 
