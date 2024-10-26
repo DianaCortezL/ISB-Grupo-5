@@ -44,7 +44,8 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 
 ## **Resultados** <a name="id5"></a>
 1. **Filtrado de las señales**
-  . **Reposo**
+- **Reposo**
+   
 
 3. **Valores de SNR**
 
