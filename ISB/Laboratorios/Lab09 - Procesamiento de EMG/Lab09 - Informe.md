@@ -55,6 +55,19 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 3. **Extracción de características**\
 Luego de realizar el filtrado, se relizó la extracción de las características de la señal filtrada por la transformada de Wavelet
 
+|Parámetro| Señal EMG en reposo | Señal EMG en tensión | Señal EMG en oposición |
+|---------|----------|-----|------------------------------|
+| Estudio 1 [4]     | Filtro pasa banda Butterworth (5 - 500 Hz)Filtro Notch de 60 Hz| Ventana móvil 150 ms | 6 características de cada ventana (5 valores propios y 1 valor WAMP) Tamaño de la ventana 200 ms con superposición del 50%|
+| Estudio 2 [5]     | Trampa de frecuencia industrial 50 Hz Filtro pasa banda Butterworth (20 - 500 Hz)| - | - |
+| Estudio 3 [6]     | Descomposición del modo variacional (VMD) Aplicación transformada de Wavelet empírica (EWT) | RMS, Ventana móvil 150 ms | 16 características. Ventana de 250 ms y 50% de superposición|
+| Estudio 4 [7]     | Filtro Butterworth 2do orden (10 - 500 Hz) | Ventanas deslizantes superpuestas de 60 muestras |Transformada de Wavelet Morse orden 4 con 6 niveles de descomposición|
+| Estudio 5 [8]     | Filtro pasa banda Butterworth de 20 Hz a 350 Hz y un filtro Butterworth Notch de 50 Hz. | Se seleccionó la ventana de Hanning con una longitud de ventana de 150 ms y un paso deslizante de 50 ms |Seleccionamos cuatro características en el dominio del tiempo, que son la raíz cuadrática media (RMS), la longitud de la forma de onda (WL), el valor absoluto medio (MAV) y la varianza (VAR).  Seleccionamos dos características en el dominio de la frecuencia, que son la frecuencia mediana (MF) y la frecuencia media (MNF) |
+| Estudio 6 [9]     | Filtro de paso de banda con frecuencias de corte de 6 Hz y 500 Hz | La longitud de la ventana de tiempo se estableció en 100 ms y la longitud de zancada se estableció en 50 ms | Las características en el dominio del tiempo de la sEMG incluyen principalmente la raíz cuadrática media (RMS), el valor absoluto promedio (MAV), la varianza (VAR), la longitud de la forma de onda (WL) y la EMG integrada (IEMG) |
+
+
+
+
+
 <p align="justify">
 <p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_level.jpg" width="500" height="550"></p>
 <div align="center">Figura 1: Niveles de descomposición</i></div>
