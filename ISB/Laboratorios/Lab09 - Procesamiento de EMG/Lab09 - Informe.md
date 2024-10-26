@@ -43,6 +43,12 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 
 
 ## **Resultados** <a name="id5"></a>
+1. **Filtrado de las señales**
+  . **Reposo**
+
+3. **Valores de SNR**
+
+5. **Extracción de características**
 
 <p align="justify">
 <p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_level.jpg" width="500" height="550"></p>
