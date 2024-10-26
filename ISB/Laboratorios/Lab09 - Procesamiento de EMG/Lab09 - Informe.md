@@ -10,7 +10,13 @@
 7. [Referencias bibliográficas](#id7)
 
 ## **Introducción** <a name="id1"></a>
+El procesamiento de señales electromiográficas (EMG) es fundamental en el análisis de la actividad muscular, ya que permite interpretar las señales eléctricas generadas durante la contracción muscular. Estas señales, capturadas mediante electrodos colocados sobre la piel o insertados en el músculo, contienen información clave sobre el estado y el comportamiento de los músculos, siendo ampliamente utilizadas en aplicaciones como la rehabilitación física, el control de prótesis, y la investigación de la fatiga muscular. El procesamiento de las señales EMG implica varias etapas, entre las cuales se incluyen la eliminación de ruido, la segmentación y la extracción de características.
 
+Una de las principales dificultades en el procesamiento de señales EMG es la presencia de ruido, el cual puede ser generado por diversas fuentes, como el movimiento del sujeto, la actividad cardíaca y las interferencias eléctricas. Para eliminar o reducir el ruido, se emplean técnicas de filtrado que permiten obtener una señal más clara y precisa. Entre los filtros comúnmente utilizados están los filtros IR (Infinite Impulse Response) y FIR (Finite Impulse Response), que ayudan a atenuar frecuencias no deseadas. Además, el uso de métodos basados en wavelets permite descomponer la señal en diferentes niveles de frecuencia, proporcionando una herramienta poderosa para el análisis y filtrado de señales EMG en presencia de ruido de múltiples frecuencias.
+
+La segmentación de la señal es otra etapa crítica, en la cual la señal EMG se divide en intervalos específicos para su análisis. Esto permite identificar patrones de activación muscular en determinados periodos de tiempo, lo cual es esencial en estudios que requieren análisis en tiempo real o que buscan correlacionar actividades musculares con eventos específicos, como en el análisis de la marcha o la detección de movimientos.
+
+Finalmente, la extracción de características en la señal EMG es esencial para obtener métricas relevantes que describan el comportamiento muscular. Esta etapa se centra en derivar parámetros como la amplitud media, la energía de la señal, o la frecuencia media, que son útiles para clasificar la actividad muscular, detectar patologías o evaluar el rendimiento muscular en diversas condiciones. El procesamiento adecuado de las señales EMG permite obtener una representación confiable y detallada de la actividad muscular, mejorando así la precisión y la utilidad de las aplicaciones biomédicas.
 
 
 
