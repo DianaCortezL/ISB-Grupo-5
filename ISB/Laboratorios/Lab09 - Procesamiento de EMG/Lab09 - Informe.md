@@ -116,8 +116,8 @@ HAGAN LAS DISCUSIONES
 
 ## **Conclusiones** <a name="id6">
    - Se identificaron correctamente las características en cada señal EMG correspondiente a reposo, esfuerzo y sobreesfuerzo.
-   - 
-   - 
+   - Se cuantificaron las características y ordenaron en una tabla para una mejor indentifación.
+   - Se hizo uso de la transformada Wavelet para la identificación de las características anteriormente mencionadas.
 
 ## **Referencias bibliográficas** <a name="id7"></a>
 [1] Englehart, K.; Hudgins, B. A Robust, Real-Time Control Scheme for Multifunction Myoelectric Control. IEEE Trans. Biomed. Eng. 2003, 50, 848–854.
