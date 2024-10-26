@@ -50,38 +50,36 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
 |<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
-<div align="center"> Tabla 3: Filtrado de señal EMG en reposo</i></div>
+<div align="center"> Tabla 3: Filtrado de señal EMG del tríceps en reposo</i></div>
 
 </div>  
     
-  - **Tensión**
+  - **Esfuerzo**
     <div align="center">
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
 |<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
-<div align="center"> Tabla 4: Filtrado de señal EMG en reposo</i></div>
+<div align="center"> Tabla 4: Filtrado de señal EMG del tríceps en esfuerzo</i></div>
 
 </div>  
     
-  - **Oposición**
+  - **Sobreesfuerzo**
     <div align="center">
    
 |  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
 |:------------:|:---------------:|
 |<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
-<div align="center"> Tabla 5: Filtrado de señal EMG en reposo</i></div>
+<div align="center"> Tabla 5: Filtrado de señal EMG del tríceps en sobreesfuerzo</i></div>
 
 </div>  
    
-2. **Valores de SNR**
-
-3. **Extracción de características**\
+2. **Extracción de características**\
 Luego de realizar el filtrado, se relizó la extracción de las características de la señal filtrada por la transformada de Wavelet. Los parámetros y los resultados se aprecian en la Tabla 6
 
 <div align="center">
   
-|Parámetro| Señal EMG en reposo | Señal EMG en tensión | Señal EMG en oposición |
+|Parámetro| Señal EMG en reposo | Señal EMG en esfuerzo | Señal EMG en sobreesfuerzo |
 |---------|----------|-----|------------------------------|
 |EMG Onset Points|a|a|a|
 |EMG Offset Points|a|a|a|
@@ -103,12 +101,14 @@ Luego de realizar el filtrado, se relizó la extracción de las características
 
 </div>
 
-4. **Discusión**\
+3. **Discusión**\
 AAAAAAAAA
 
 ### **Archivos** 
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab4_EMG)
-- [Procesamiento ECG (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/2bcdec99ed6e42d3f11cefffc0f989a706bc90b1/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG_parameters.ipynb)
+- [Procesamiento EMG (Reposo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_reposo.ipynb)
+- [Procesamiento EMG (Esfuerzo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_esfuerzo.ipynb)
+- [Procesamiento EMG (Sobreesfuerzo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_sobreesfuerzo.ipynb)
 
 ## **Conclusiones** <a name="id6">
    - 
