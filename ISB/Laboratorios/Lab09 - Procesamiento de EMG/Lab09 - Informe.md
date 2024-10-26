@@ -55,6 +55,8 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 3. **Extracción de características**\
 Luego de realizar el filtrado, se relizó la extracción de las características de la señal filtrada por la transformada de Wavelet
 
+<div align="center">
+  
 |Parámetro| Señal EMG en reposo | Señal EMG en tensión | Señal EMG en oposición |
 |---------|----------|-----|------------------------------|
 |EMG Onset Points|a|a|a|
@@ -73,6 +75,9 @@ Luego de realizar el filtrado, se relizó la extracción de las características
 |Median Frequency (Hz)|a|a|a|
 |Maximun Frequency (Hz)|a|a|a|
 |Zero-Crossing|a|a|a|
+<div align="center"> Tabla 2: Parámetros extraídos de la señal EMG en reposo, tensión y oposición</i></div>
+
+</div>
 
 4. **Discusión**
 
