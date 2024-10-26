@@ -74,7 +74,7 @@ Luego de realizar el filtrado, se relizó la extracción de las características
 |Maximun Frequency (Hz)|a|a|a|
 |Zero-Crossing|a|a|a|
 
-4. **Discusión**\
+4. **Discusión**
 
 
 
@@ -94,8 +94,8 @@ Luego de realizar el filtrado, se relizó la extracción de las características
 </div>  
 
 ### **Archivos** 
-- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/88e031b9ee680d6403ba408c9e73f99652f8cca3/Otros/Archivos%20varios)
-- [Procesamiento ECG (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/19ff03aa9ecb7bfd3b8092b4e4bf92c544287deb/ISB/Laboratorios/Lab08%20-%20Transformada%20de%20Wavelet/ECG/ECG_wavelet.ipynb)
+- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab4_EMG)
+- [Procesamiento ECG (Jupyter Notebook)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/2bcdec99ed6e42d3f11cefffc0f989a706bc90b1/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG_parameters.ipynb)
 
 ## **Conclusiones** <a name="id6">
    - 
