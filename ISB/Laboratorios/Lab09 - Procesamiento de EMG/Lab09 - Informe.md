@@ -35,7 +35,7 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 |       -      |      Laptop     |       1      |
 | - |   Python y librerías  |       -      |
 | - |   Visual Studio Code  |       -      |
-<div align="center"> Tabla 1: Materiales y equipos</i></div>
+<div align="center"> Tabla 2: Materiales y equipos</i></div>
 
 </div>
 
@@ -45,15 +45,39 @@ Finalmente, la extracción de características en la señal EMG es esencial para
 ## **Resultados** <a name="id5"></a>
 1. **Filtrado de las señales**
   - **Reposo**
+    <div align="center">
+   
+|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
+|:------------:|:---------------:|
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+<div align="center"> Tabla 3: Filtrado de señal EMG en reposo</i></div>
+
+</div>  
     
   - **Tensión**
+    <div align="center">
+   
+|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
+|:------------:|:---------------:|
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+<div align="center"> Tabla 4: Filtrado de señal EMG en reposo</i></div>
+
+</div>  
     
   - **Oposición**
+    <div align="center">
+   
+|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
+|:------------:|:---------------:|
+|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
+<div align="center"> Tabla 5: Filtrado de señal EMG en reposo</i></div>
+
+</div>  
    
 2. **Valores de SNR**
 
 3. **Extracción de características**\
-Luego de realizar el filtrado, se relizó la extracción de las características de la señal filtrada por la transformada de Wavelet
+Luego de realizar el filtrado, se relizó la extracción de las características de la señal filtrada por la transformada de Wavelet. Los parámetros y los resultados se aprecian en la Tabla 6
 
 <div align="center">
   
@@ -75,28 +99,12 @@ Luego de realizar el filtrado, se relizó la extracción de las características
 |Median Frequency (Hz)|a|a|a|
 |Maximun Frequency (Hz)|a|a|a|
 |Zero-Crossing|a|a|a|
-<div align="center"> Tabla 2: Parámetros extraídos de la señal EMG en reposo, tensión y oposición</i></div>
+<div align="center"> Tabla 6: Parámetros extraídos de la señal EMG en reposo, tensión y oposición</i></div>
 
 </div>
 
 4. **Discusión**
-
-
-
-
-<p align="justify">
-<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_level.jpg" width="500" height="550"></p>
-<div align="center">Figura 1: Niveles de descomposición</i></div>
-</p>
-  
-<div align="center">
-   
-|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
-|:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_raw.jpg" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Archivos_varios/Lab8_Wavelet/ECG1_wave.jpg" width="500" height="270"></p>| 
-<div align="center"> Tabla 2: Filtrado de señal EMG en reposo</i></div>
-
-</div>  
+AAAAAAAAA
 
 ### **Archivos** 
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab4_EMG)
