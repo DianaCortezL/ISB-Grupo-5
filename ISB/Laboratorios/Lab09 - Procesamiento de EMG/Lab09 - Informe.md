@@ -103,7 +103,7 @@ Luego de realizar el filtrado, se relizó la extracción de las características
 
 </div>
 
-4. **Discusión**
+4. **Discusión**\
 AAAAAAAAA
 
 ### **Archivos** 
