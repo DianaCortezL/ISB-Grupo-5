@@ -163,13 +163,27 @@ Luego de realizar el filtrado, se relizó la extracción de las características
 |Total Power|11.268124124952907|62.41920762636977|961.5932972648554|
 |Median Frequency (Hz)|113.28125 Hz|117.1875 Hz|128.90625 Hz|
 |Maximun Frequency (Hz)|58.59375 Hz|89.84375 Hz|121.09375 Hz|
-|Zero-Crossing|a|a|a|
 <div align="center"> Tabla 6: Parámetros extraídos de la señal EMG en reposo, tensión y oposición</i></div>
 
 </div>
 
-## **Discusión**\
-HAGAN LAS DISCUSIONES
+## **Discusión**
+El procesamiento y análisis de señales electromiográficas (EMG) son fundamentales para interpretar la actividad muscular en diferentes condiciones—reposo, esfuerzo y sobreesfuerzo. En este estudio, utilizamos la transformada Wavelet para filtrar las señales EMG, reduciendo significativamente el ruido y mejorando la claridad de los patrones de activación muscular.
+
+Filtrado y Claridad de la Señal
+La transformación Wavelet demostró ser efectiva en la reducción de ruido para todos los tipos de señal (reposo, esfuerzo, sobreesfuerzo), como se observa en las representaciones en el dominio del tiempo antes y después del filtrado. Las señales sin filtrar mostraban altos niveles de ruido, lo cual puede ocultar características importantes como los puntos de inicio y fin de activación muscular. Al aplicar la transformada Wavelet, logramos atenuar el ruido sin perder componentes esenciales de la señal, lo que permite un análisis más preciso de las contracciones musculares y los intervalos de reposo.
+
+Segmentación y Extracción de Características
+Después del filtrado, segmentamos las señales y extraímos varias características en el dominio del tiempo, como RMS, MAV, WL y ZC. Cada característica ofrece información sobre aspectos específicos del comportamiento muscular:
+
+Los valores de Raíz Cuadrada Media (RMS) en la condición de sobreesfuerzo mostraron un aumento significativo en comparación con las condiciones de reposo, lo que indica un nivel más alto de activación muscular y uso de energía.
+Las métricas de Valor Absoluto Medio (MAV) y Longitud de Onda (WL) aumentaron con los niveles de esfuerzo, reflejando la complejidad e intensidad de la activación muscular durante las fases de esfuerzo y sobreesfuerzo.
+Los recuentos de Cruce por Cero (ZC) se mantuvieron relativamente constantes en todas las condiciones, lo que sugiere que los ciclos de activación-desactivación del músculo no variaron significativamente entre el reposo y los estados activos.
+Análisis de Actividad Muscular
+Las métricas extraídas coinciden con las respuestas fisiológicas esperadas bajo diferentes condiciones de carga. Por ejemplo, los valores de EMG Integrada (IEMG) y Varianza (VAR) son notablemente mayores durante el esfuerzo y el sobreesfuerzo en comparación con el reposo, lo que indica una mayor reclutación muscular y variabilidad en la amplitud de la señal bajo estrés. Estos resultados se correlacionan con el aumento observado en el compromiso de fibras musculares a medida que aumenta la carga de trabajo.
+
+Análisis en el Dominio de Frecuencia
+Los parámetros en el dominio de frecuencia, como Frecuencia Mediana y Frecuencia Máxima, fueron notablemente más altos en la condición de sobreesfuerzo. Este desplazamiento de frecuencia coincide con la literatura sobre fatiga muscular, donde la activación muscular bajo esfuerzo prolongado recluta unidades motoras de mayor frecuencia. Esta tendencia apoya la interpretación de un aumento en los niveles de fatiga en la condición de sobreesfuerzo.
 
 ### **Archivos** 
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab4_EMG)
