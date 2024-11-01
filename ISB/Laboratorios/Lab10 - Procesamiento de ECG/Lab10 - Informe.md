@@ -31,7 +31,7 @@
 ## **Metodología** <a name="id4"></a>
 
 ## **Resultados** <a name="id5"></a>
-**Estado Basal (Derivación Bipolar I)**
+**Reposo (Derivación Bipolar I)**
   - **Pre-procesamiento de la señal: ecg_clean()**
     
   - **Análisis**\
@@ -75,10 +75,10 @@
    - 
 
 ## **Archivos** 
-- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab4_EMG)
-- [Procesamiento EMG (Reposo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_reposo.ipynb)
-- [Procesamiento EMG (Esfuerzo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_esfuerzo.ipynb)
-- [Procesamiento EMG (Sobreesfuerzo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_sobreesfuerzo.ipynb)
+- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab5_ECG)
+- [Procesamiento ECG (Reposo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/61c077b132e80fc61da74c910ea39de3dd4c005c/ISB/Laboratorios/Lab10%20-%20Procesamiento%20de%20ECG/nuevodelnuevo.ipynb)
+- [Procesamiento ECG (Manteniendo respiración)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/61c077b132e80fc61da74c910ea39de3dd4c005c/ISB/Laboratorios/Lab10%20-%20Procesamiento%20de%20ECG/ManteniedoRespiracionD1.ipynb)
+- [Procesamiento ECG (Después de ejercicio)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/61c077b132e80fc61da74c910ea39de3dd4c005c/ISB/Laboratorios/Lab10%20-%20Procesamiento%20de%20ECG/EjercicioD1.ipynb)
 
 ## **Referencias bibliográficas** <a name="id7"></a>
 [1] 
