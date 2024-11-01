@@ -30,31 +30,20 @@
 
 ## **Metodología** <a name="id4"></a>
 
-## **Resultados TRICEPS** <a name="id5"></a>
-1. **Filtrado y segmentación de las señales EMG**
-  - **Reposo**
-    IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
-    <div align="center">
-   
-|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
-|:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Imagenes/Lab9/reposo_raw.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab9/reposo_fil.png" width="500" height="270"></p>| 
-<div align="center"> Tabla 3: Filtrado de señal EMG del tríceps en reposo</i></div>
-
-</div>  
+## **Resultados** <a name="id5"></a>
+1. **Estado Basal (Derivación Bipolar I)**
+  - **Pre-procesamiento de la señal: ecg_clean()**
     
-  - **Esfuerzo**
-     IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
-    <div align="center">
-   
-|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
-|:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Imagenes/Lab9/esfuerzo_raw.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab9/esfuerzo_fil.png" width="500" height="270"></p>| 
-<div align="center"> Tabla 4: Filtrado de señal EMG del tríceps en esfuerzo</i></div>
+  - **Análisis**\
+    a. ecg_process()
 
-</div>  
+    b. ecg_analyze()
+
+    c. Identificación de picos R
     
-  - **Sobreesfuerzo**
+  - **Ploteo de la señal ECG usnando ecg_plot()**
+    
+2. **Sobreesfuerzo**
      IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
     <div align="center">
    
