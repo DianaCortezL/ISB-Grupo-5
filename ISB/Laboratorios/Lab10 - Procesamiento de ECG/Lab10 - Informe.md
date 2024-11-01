@@ -31,7 +31,7 @@
 ## **Metodología** <a name="id4"></a>
 
 ## **Resultados** <a name="id5"></a>
-1. **Estado Basal (Derivación Bipolar I)**
+  1. **Estado Basal (Derivación Bipolar I)**
   - **Pre-procesamiento de la señal: ecg_clean()**
     
   - **Análisis**\
@@ -42,107 +42,30 @@
     c. Identificación de picos R
     
   - **Ploteo de la señal ECG usnando ecg_plot()**
+
+2. **Manteniendo la respiración por 10 segundos (Derivación Bipolar I)**
+  - **Pre-procesamiento de la señal: ecg_clean()**
     
-2. **Sobreesfuerzo**
-     IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
-    <div align="center">
-   
-|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
-|:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Imagenes/Lab9/sobreesfuerzo_raw.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab9/sobreesfuerzo_fil.png" width="500" height="270"></p>| 
-<div align="center"> Tabla 5: Filtrado de señal EMG del tríceps en sobreesfuerzo</i></div>
+  - **Análisis**\
+    a. ecg_process()
 
-</div>  
-   
-2. **Extracción de características**\
-COMPLETEN LA TABLA CON LOS VALORES 
-Luego de realizar el filtrado, se relizó la extracción de las características de la señal filtrada por la transformada de Wavelet. Los parámetros y los resultados se aprecian en la Tabla 6
+    b. ecg_analyze()
 
-<div align="center">
-  
-|Parámetro| Señal EMG en reposo | Señal EMG en esfuerzo | Señal EMG en sobreesfuerzo |
-|---------|----------|-----|------------------------------|
-|EMG Onset Points|[0.2000118]|[ 7.17323674, 8.22227136, 10.58634938, 13.32243968]|[ 0.20000626, 3.64411406, 13.3424176, 21.33466775]|
-|EMG Offset Points|[16.7499882]|[ 7.17323674, 8.22227136, 10.58634938, 13.32243968]|[ 1.61805064,  4.90415349, 14.24944599, 23.44973395]|
-|Number of Muscular activations|1|4|4|
-|Maximun Activation Time|16.550 s|2.661 s|2.115 s|
-|Minimun Activation Time|16.550 s|0.131 s|0.907 s|
-|Average Activation Time|16.550 s|0.998 s|1.425 s|
-|Standard Deviation Time|0.000 s|1.026 s|0.439 s|
-|Maximun EMG (mV)|20.206206855861694 mV|134.18479157727978 mV|476.19925506275627 mV|
-|Minimun EMG (mV)|-21.793793144138306 mV|-128.81520842272022 mV|-446.80074493724373 mV|
-|Average EMG (mV)|-8.461616955915902e-15 mV|3.69400613013403e-15 mV|-2.768423416927518e-15 mV|
-|Standard Deviation EMG (mV)|3.359112035641272 mV|8.066803230862357 mV|30.534436237982515 mV|
-|Root Mean Square (mV)|3.3591120356412723 mV|8.066803230862357 mV|30.53443623798252 mV|
-|Total Power|11.268124124952907|62.41920762636977|961.5932972648554|
-|Median Frequency (Hz)|113.28125 Hz|117.1875 Hz|128.90625 Hz|
-|Maximun Frequency (Hz)|58.59375 Hz|89.84375 Hz|121.09375 Hz|
-|Zero-Crossing|a|a|a|
-<div align="center"> Tabla 6: Parámetros extraídos de la señal EMG en reposo, tensión y oposición</i></div>
-
-</div>
-
-## **Resultados BICEPS** <a name="id6"></a>
-1. **Filtrado y segmentación de las señales EMG**
-  - **Reposo**
-    IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
-    <div align="center">
-   
-|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
-|:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Imagenes/Lab9/reposo_raw.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab9/reposo_fil.png" width="500" height="270"></p>| 
-<div align="center"> Tabla 3: Filtrado de señal EMG del tríceps en reposo</i></div>
-
-</div>  
+    c. Identificación de picos R
     
-  - **Esfuerzo**
-     IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
-    <div align="center">
-   
-|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
-|:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Imagenes/Lab9/esfuerzo_raw.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab9/esfuerzo_fil.png" width="500" height="270"></p>| 
-<div align="center"> Tabla 4: Filtrado de señal EMG del tríceps en esfuerzo</i></div>
+  - **Ploteo de la señal ECG usnando ecg_plot()**
 
-</div>  
+3. **Después de una actividad física (Derivación Bipolar I)**
+  - **Pre-procesamiento de la señal: ecg_clean()**
     
-  - **Sobreesfuerzo**
-     IMAGEN DE LA SEÑAL SIN FILTRAR Y FILTRADA Y LA SEGMENTACION FILTRA Y SIN FILTRAR
-    <div align="center">
-   
-|  **Señal sin filtrar**  | **Señal filtrada con transformada de Wavelt** |
-|:------------:|:---------------:|
-|<p align="center"><img src="../../../Otros/Imagenes/Lab9/sobreesfuerzo_raw.png" width="500" height="270"></p>|<p align="center"><img src="../../../Otros/Imagenes/Lab9/sobreesfuerzo_fil.png" width="500" height="270"></p>| 
-<div align="center"> Tabla 5: Filtrado de señal EMG del tríceps en sobreesfuerzo</i></div>
+  - **Análisis**\
+    a. ecg_process()
 
-</div>  
-   
-2. **Extracción de características**\
-COMPLETEN LA TABLA CON LOS VALORES 
-Luego de realizar el filtrado, se relizó la extracción de las características de la señal filtrada por la transformada de Wavelet. Los parámetros y los resultados se aprecian en la Tabla 6
+    b. ecg_analyze()
 
-<div align="center">
-  
-|Parámetro| Señal EMG en reposo | Señal EMG en esfuerzo | Señal EMG en sobreesfuerzo |
-|---------|----------|-----|------------------------------|
-|EMG Onset Points|[0.2000118]|[ 7.17323674, 8.22227136, 10.58634938, 13.32243968]|[ 0.20000626, 3.64411406, 13.3424176, 21.33466775]|
-|EMG Offset Points|[16.7499882]|[ 7.17323674, 8.22227136, 10.58634938, 13.32243968]|[ 1.61805064,  4.90415349, 14.24944599, 23.44973395]|
-|Number of Muscular activations|1|4|4|
-|Maximun Activation Time|16.550 s|2.661 s|2.115 s|
-|Minimun Activation Time|16.550 s|0.131 s|0.907 s|
-|Average Activation Time|16.550 s|0.998 s|1.425 s|
-|Standard Deviation Time|0.000 s|1.026 s|0.439 s|
-|Maximun EMG (mV)|20.206206855861694 mV|134.18479157727978 mV|476.19925506275627 mV|
-|Minimun EMG (mV)|-21.793793144138306 mV|-128.81520842272022 mV|-446.80074493724373 mV|
-|Average EMG (mV)|-8.461616955915902e-15 mV|3.69400613013403e-15 mV|-2.768423416927518e-15 mV|
-|Standard Deviation EMG (mV)|3.359112035641272 mV|8.066803230862357 mV|30.534436237982515 mV|
-|Root Mean Square (mV)|3.3591120356412723 mV|8.066803230862357 mV|30.53443623798252 mV|
-|Total Power|11.268124124952907|62.41920762636977|961.5932972648554|
-|Median Frequency (Hz)|113.28125 Hz|117.1875 Hz|128.90625 Hz|
-|Maximun Frequency (Hz)|58.59375 Hz|89.84375 Hz|121.09375 Hz|
-<div align="center"> Tabla 6: Parámetros extraídos de la señal EMG en reposo, tensión y oposición</i></div>
-
-</div>
+    c. Identificación de picos R
+    
+  - **Ploteo de la señal ECG usnando ecg_plot()**
 
 ## **Discusión**
 
