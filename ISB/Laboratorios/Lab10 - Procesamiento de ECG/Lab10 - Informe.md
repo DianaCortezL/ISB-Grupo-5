@@ -31,7 +31,7 @@
 ## **Metodología** <a name="id4"></a>
 
 ## **Resultados** <a name="id5"></a>
-  1. **Estado Basal (Derivación Bipolar I)**
+**Estado Basal (Derivación Bipolar I)**
   - **Pre-procesamiento de la señal: ecg_clean()**
     
   - **Análisis**\
@@ -43,7 +43,7 @@
     
   - **Ploteo de la señal ECG usnando ecg_plot()**
 
-2. **Manteniendo la respiración por 10 segundos (Derivación Bipolar I)**
+**Manteniendo la respiración por 10 segundos (Derivación Bipolar I)**
   - **Pre-procesamiento de la señal: ecg_clean()**
     
   - **Análisis**\
@@ -55,7 +55,7 @@
     
   - **Ploteo de la señal ECG usnando ecg_plot()**
 
-3. **Después de una actividad física (Derivación Bipolar I)**
+**Después de una actividad física (Derivación Bipolar I)**
   - **Pre-procesamiento de la señal: ecg_clean()**
     
   - **Análisis**\
@@ -69,17 +69,16 @@
 
 ## **Discusión**
 
-
-### **Archivos** 
-- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab4_EMG)
-- [Procesamiento EMG (Reposo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_reposo.ipynb)
-- [Procesamiento EMG (Esfuerzo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_esfuerzo.ipynb)
-- [Procesamiento EMG (Sobreesfuerzo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_sobreesfuerzo.ipynb)
-
 ## **Conclusiones** <a name="id6">
    - 
    - 
    - 
+
+## **Archivos** 
+- [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab4_EMG)
+- [Procesamiento EMG (Reposo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_reposo.ipynb)
+- [Procesamiento EMG (Esfuerzo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_esfuerzo.ipynb)
+- [Procesamiento EMG (Sobreesfuerzo)](https://github.com/DianaCortezL/ISB-Grupo-5/blob/6a930f7d20f137c8c6b990800fcf1ac7b113b70a/ISB/Laboratorios/Lab09%20-%20Procesamiento%20de%20EMG/EMG/prueba2/Triceps_sobreesfuerzo.ipynb)
 
 ## **Referencias bibliográficas** <a name="id7"></a>
 [1] 
