@@ -14,7 +14,7 @@
 ## **Objetivos** <a name="id2"></a>
 * Filtrar, procesar y analizar la señal ECG usando la librería Neurokit2
 * Extraer y evaluar características importantes de las señales ECG
-* Identificar los picos y hallar el HRV
+* Identificar los picos R y hallar el HRV
 
 ## **Materiales y equipos** <a name="id3"></a>
 <div align="center">
