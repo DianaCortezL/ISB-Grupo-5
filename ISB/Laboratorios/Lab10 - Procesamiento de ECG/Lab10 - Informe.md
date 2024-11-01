@@ -12,8 +12,9 @@
 ## **Introducción** <a name="id1"></a>
   
 ## **Objetivos** <a name="id2"></a>
-* Filtrar señales EMG e identificar el mejor filtro
-* Extraer y evaluar características importantes de las señales EMG
+* Filtrar, procesar y analizar la señal ECG usando la librería Neurokit2
+* Extraer y evaluar características importantes de las señales ECG
+* Identificar los picos y hallar el HRV
 
 ## **Materiales y equipos** <a name="id3"></a>
 <div align="center">
@@ -21,7 +22,7 @@
 |  **Modelo**  | **Descripción** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 |       -      |      Laptop     |       1      |
-| - |   Python y librerías  |       -      |
+| - |   Python y librerías (Neurokit2)  |       -      |
 | - |   Visual Studio Code  |       -      |
 <div align="center"> Tabla 2: Materiales y equipos</i></div>
 
