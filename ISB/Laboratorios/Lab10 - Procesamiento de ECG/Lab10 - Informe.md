@@ -1,4 +1,4 @@
-# **LABORATORIO 9: PROCESAMIENTO DE SEÑAL ECG**
+# **LABORATORIO 10: PROCESAMIENTO DE SEÑAL ECG**
 # **Tabla de contenidos**
 
 1. [Introducción](#id1)
