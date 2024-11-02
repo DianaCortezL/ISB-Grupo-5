@@ -24,7 +24,7 @@
 |       -      |      Laptop     |       1      |
 | - |   Python y librerías (Neurokit2)  |       -      |
 | - |   Visual Studio Code  |       -      |
-<div align="center"> Tabla 2: Materiales y equipos</i></div>
+<div align="center"> Tabla 1: Materiales y equipos</i></div>
 
 </div>
 
@@ -32,7 +32,12 @@
 
 ## **Resultados** <a name="id5"></a>
 **Reposo (Derivación Bipolar I)**
-  - **Pre-procesamiento de la señal: ecg_clean()**
+  - **Pre-procesamiento de la señal: ecg_clean()**  
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_clean1.png" width="520" height="320"></p>
+<div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+</p>
+
     
   - **Análisis**\
     a. ecg_process()
@@ -45,6 +50,10 @@
 
 **Manteniendo la respiración por 10 segundos (Derivación Bipolar I)**
   - **Pre-procesamiento de la señal: ecg_clean()**
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_clean2.png" width="520" height="320"></p>
+<div align="center">Figura 1: Filtrado de la señal ECG mientras se mantiene la respiración usando la función ecg_clean() de Neurokit2</i></div>
+</p>
     
   - **Análisis**\
     a. ecg_process()
@@ -57,6 +66,10 @@
 
 **Después de una actividad física (Derivación Bipolar I)**
   - **Pre-procesamiento de la señal: ecg_clean()**
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_clean3.png" width="520" height="320"></p>
+<div align="center">Figura 1: Filtrado de la señal ECG después de una actividad física usando la función ecg_clean() de Neurokit2</i></div>
+</p>
     
   - **Análisis**\
     a. ecg_process()
