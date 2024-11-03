@@ -37,64 +37,66 @@
   - **Pre-procesamiento de la señal: ecg_clean()**  
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_clean1.png" width="520" height="320"></p>
-<div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+<div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean()</i></div>
 </p>
 
   - **Análisis**\
     a. ecg_process()
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_process1.png" width="520" height="320"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+    <div align="center">Figura 2: Análisis de la señal ECG en reposo usando la función ecg_process()</i></div>
     </p>
   
     b. ecg_analyze()
-    <p align="justify">
-    <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_analyze1.png" width="520" height="320"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
-    </p>
 
     c. Identificación de picos R
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_Rpeaks1.png" width="520" height="320"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+    <div align="center">Figura 3: Identifiación de picos R en reposo usando la función ecg_peaks()</i></div>
     </p>
 
-  - **Ploteo de la señal ECG usnando ecg_plot()**
+  - **Ploteo de la señal ECG usando ecg_plot()**
+    <p align="justify">
+    <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_analyze1.png" width="520" height="320"></p>
+    <div align="center">Figura 4: Ploeto de la señal ECG en reposo usando la función ecg_plot() de Neurokit2</i></div>
+    </p>
+
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_plot1.png" width="700" height="150"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+    <div align="center">Figura 5: Señal ECG en papel para electrocardiagrama</i></div>
     </p>
 
 **Manteniendo la respiración por 10 segundos (Derivación Bipolar I)**
   - **Pre-procesamiento de la señal: ecg_clean()**
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_clean2.png" width="520" height="320"></p>
-<div align="center">Figura 1: Filtrado de la señal ECG mientras se mantiene la respiración usando la función ecg_clean() de Neurokit2</i></div>
+<div align="center">Figura 6: Filtrado de la señal ECG mientras se mantiene la respiración usando la función ecg_clean()</i></div>
 </p>
     
 - **Análisis**\
     a. ecg_process()
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_process2.png" width="520" height="320"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+    <div align="center">Figura 7:Análisis de la señal ECG mientras se mantiene la respiración usando la función ecg_process()</i></div>
     </p>
   
     b. ecg_analyze()
-    <p align="justify">
-    <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_analyze2.png" width="520" height="320"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
-    </p>
-
+  
     c. Identificación de picos R
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_Rpeaks2.png" width="520" height="320"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+    <div align="center">Figura 8: Identifiación de picos R de la señal ECG mientras se mantiene la respiración usando la función ecg_peaks()</i></div>
     </p>
 
-- **Ploteo de la señal ECG usnando ecg_plot()**
+- **Ploteo de la señal ECG usando ecg_plot()**
+    <p align="justify">
+    <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_analyze2.png" width="520" height="320"></p>
+    <div align="center">Figura 9: Ploteo señal ECG mientras se mantiene la respiración usando la función ecg_plot()</i></div>
+    </p>
+
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_plot2.png" width="700" height="150"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+    <div align="center">Figura 10: Señal ECG en papel para electrocardiagrama</i></div>
     </p>
 
 
@@ -102,32 +104,33 @@
   - **Pre-procesamiento de la señal: ecg_clean()**
 <p align="justify">
 <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_clean3.png" width="520" height="320"></p>
-<div align="center">Figura 1: Filtrado de la señal ECG después de una actividad física usando la función ecg_clean() de Neurokit2</i></div>
+<div align="center">Figura 11: Filtrado de la señal ECG después de una actividad física usando la función ecg_clean()</i></div>
 </p>
     
 - **Análisis**\
     a. ecg_process()
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_process3.png" width="520" height="320"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+    <div align="center">Figura 12: Filtrado de la señal ECG después de una actividad física usando la función ecg_process()</i></div>
     </p>
   
     b. ecg_analyze()
-    <p align="justify">
-    <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_analyze3.png" width="520" height="320"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
-    </p>
 
     c. Identificación de picos R
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_Rpeaks3.png" width="520" height="320"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+    <div align="center">Figura 13: Identifiación de picos de la señal ECG después de una actividad física usando la función ecg_peaks()</i></div>
     </p>
 
-- **Ploteo de la señal ECG usnando ecg_plot()**
+- **Ploteo de la señal ECG usando ecg_plot()**
+     <p align="justify">
+    <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_analyze3.png" width="520" height="320"></p>
+    <div align="center">Figura 14: Ploteo señal ECG después de una actividad física usando la función ecg_plot()</i></div>
+    </p>
+    
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_plot3.png" width="700" height="150"></p>
-    <div align="center">Figura 1: Filtrado de la señal ECG en reposo usando la función ecg_clean() de Neurokit2</i></div>
+    <div align="center">Figura 15: Señal ECG en papel para electrocardiagrama</i></div>
     </p>
 
 ## **Discusión**
