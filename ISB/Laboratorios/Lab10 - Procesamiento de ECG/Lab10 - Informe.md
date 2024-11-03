@@ -186,7 +186,7 @@ Finalmente, se empleó la función ecg_plot para visualizar las señales de ECG 
     </p>
 
 ## **Discusión**
-- La frecuencia cardiaca fue similar en reposo y luego de sostener la respiración por 10 segundos, pero varió significativamente al realizar un ejercicio.
+- La frecuencia cardiaca fue similar en reposo y luego de sostener la respiración por 10 segundos, pero varió significativamente al realizar un ejercicio.[6]
 - La HRV MeanNN y SDNN son mayores en reposo y al contener la respiración por 10s, y menores después del ejercicio. Esto sugiere que la actividad física disminuye la variabilidad de la frecuencia cardíaca y a su vez disminuye el periodo entree picos al ser la respiración más apresurado
 - La función ecg_plot facilitó la visualización, haciendo posible el análisis de cambios en la morfología de las ondas bajo diferentes condiciones.
 ## **Conclusiones** <a name="id6">
@@ -210,3 +210,6 @@ Finalmente, se empleó la función ecg_plot para visualizar las señales de ECG 
 [4] Brammer, J. C., (2020). biopeaks: a graphical user interface for feature extraction from heart- and breathing biosignals. Journal of Open Source Software, 5(54), 2621, https://doi.org/10.21105/joss.02621
 
 [5] Pham, T.; Lau, Z.J.; Chen, S.H.A.; Makowski, D. Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial. Sensors 2021, 21, 3998. https://doi.org/10.3390/s21123998
+
+[6] Corliss, “All about your heart rate - Harvard Health,” Harvard Health, Jun. 2023. https://www.health.harvard.edu/heart-health/all-about-your-heart-rate.
+‌
