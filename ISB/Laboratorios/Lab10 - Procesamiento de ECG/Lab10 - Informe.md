@@ -10,6 +10,9 @@
 7. [Referencias bibliográficas](#id7)
 
 ## **Introducción** <a name="id1"></a>
+El procesamiento de señales de electrocardiograma (ECG) es una herramienta clave en el diagnóstico cardiológico moderno, ya que permite analizar la actividad eléctrica del corazón y detectar irregularidades en su funcionamiento. Este proceso involucra la adquisición de la señal ECG mediante sensores en la piel y la posterior eliminación de ruidos y artefactos, como el ruido muscular y las interferencias eléctricas, que pueden dificultar la interpretación precisa de las ondas.
+El procesamiento de estas señales implica varios pasos clave, que incluyen la eliminación de ruidos y artefactos (como el ruido muscular o interferencias de la red eléctrica), la detección de eventos específicos (como los picos R de las ondas), y el análisis de parámetros importantes, como el ritmo, la frecuencia cardíaca y la variabilidad. Para facilitar el análisis de estas señales, herramientas como Neurokit (librería de Python) fueron creadas.
+Esta librería, la cual aplica filtros pasa bajas, pasa altas, filtros notch, etc., es ideal para el filtrado y procesado de señales ECG. Incluso presenta funciones que permiten la detección de picos R automáticamente, lo cual reduce el tiempo de análisis drásticamente.
   
 ## **Objetivos** <a name="id2"></a>
 * Filtrar, procesar y analizar la señal ECG usando la librería Neurokit2
