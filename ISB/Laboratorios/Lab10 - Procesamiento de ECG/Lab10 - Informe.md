@@ -29,7 +29,7 @@
 </div>
 
 ## **Metodología** <a name="id4"></a>
-Para el procesamiento de señales de ECG, se utilizó la librería neurokit2 en Python, con un flujo de trabajo estructurado en varias etapas que incluye la limpieza, el pre-procesamiento y el análisis de las señales. Para ello, se analizaron la primera derivación de 3 señales ECG obtenidas en laboratorios anteriores
+Para el procesamiento de señales de ECG, se utilizó la librería neurokit2 [2] [3] en Python, con un flujo de trabajo estructurado en varias etapas que incluye la limpieza, el pre-procesamiento y el análisis de las señales. Para ello, se analizaron la primera derivación de 3 señales ECG obtenidas en laboratorios anteriores
 - Señal ECG en reposo
 - Señal ECG obtenida mientas la persona mantiene la respiración por 10 segundos
 - Señal ECG después de realizar una actividad física
@@ -45,11 +45,11 @@ La primera función aplicada fue **ecg_clean**, diseñada específicamente para 
 **3. Procesamiento Completo de la Señal con ecg_process**\
 La función **ecg_process** se utilizó a continuación para realizar el procesamiento completo de la señal de ECG. Esta función integra varios pasos, como la detección de picos y la extracción de características, permitiendo realizar un análisis en profundidad de la señal. ecg_process realiza una detección automática de los picos R y calcula intervalos como el RR, fundamentales para analizar el ritmo cardíaco y otras características fisiológicas. Esta función permitió obtener características como: ECG_Quality, ECG_R_Peaks, ECG_P_Peaks, ECG_Q_Peaks, ECG_S_Peaks, ECG_T_Peaks.
 
-**4. Identificación de los Picos R con ecg_peaks**\
+**4. Identificación de los Picos R con ecg_peaks [4]**\
 La función ecg_peaks se aplicó a la señal procesada para identificar los picos R, que son los puntos más prominentes en una señal de ECG y corresponden a la despolarización ventricular. Los picos R son cruciales en el análisis de ECG porque se utilizan para calcular la frecuencia cardíaca y variabilidad del ritmo cardíaco (HRV). Se utilizó el método neurokit donde los complejos QRS se detectan en función de la pendiente del gradiente absoluto de la señal del ECG. Posteriormente, los picos R se detectan como máximos locales en los complejos QRS.
 
 **5. Análisis de la Señal con ecg_analyze**\
-Con los picos R identificados, se utilizó la función ecg_analyze para llevar a cabo un análisis completo de la señal de ECG. Esta función permite obtener parámetros y métricas relevantes, como la frecuencia cardíaca media, la desviación estándar de los intervalos RR (HRV - Heart rate variability)
+Con los picos R identificados, se utilizó la función ecg_analyze para llevar a cabo un análisis completo de la señal de ECG. Esta función permite obtener parámetros y métricas relevantes, como la frecuencia cardíaca media, la desviación estándar de los intervalos RR (HRV - Heart rate variability) [5]
 
 **6. Visualización de la Señal con ecg_plot**\
 Finalmente, se empleó la función ecg_plot para visualizar las señales de ECG y los eventos detectados. Esta función permite graficar la señal en el tiempo y resaltar los picos R, proporcionando una representación gráfica de los datos procesados, lo cual facilita la verificación visual del procesamiento y la limpieza de la señal. Además, de ploteo la señales ECG en papel para electrocardiograma
@@ -203,8 +203,10 @@ Finalmente, se empleó la función ecg_plot para visualizar las señales de ECG 
 ## **Referencias bibliográficas** <a name="id7"></a>
 [1] 
 
-[2] 
- 
-[3] 
+[2] Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., Schölzel, C., & Chen, S. A. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. Behavior Research Methods, 53(4), 1689-1696. https://doi.org/10.3758/s13428-020-01516-y
 
-[4]
+[3] Makowski, D. (2021). Neurophysiological Data Analysis with NeuroKit2. NeuroKit. https://neuropsychology.github.io/NeuroKit/
+ 
+[4] Brammer, J. C., (2020). biopeaks: a graphical user interface for feature extraction from heart- and breathing biosignals. Journal of Open Source Software, 5(54), 2621, https://doi.org/10.21105/joss.02621
+
+[5] Pham, T.; Lau, Z.J.; Chen, S.H.A.; Makowski, D. Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial. Sensors 2021, 21, 3998. https://doi.org/10.3390/s21123998
