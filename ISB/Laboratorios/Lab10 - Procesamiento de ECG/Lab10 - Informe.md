@@ -190,9 +190,9 @@ Finalmente, se empleó la función ecg_plot para visualizar las señales de ECG 
 - La HRV MeanNN y SDNN son mayores en reposo y al contener la respiración por 10s, y menores después del ejercicio. Esto sugiere que la actividad física disminuye la variabilidad de la frecuencia cardíaca y a su vez disminuye el periodo entree picos al ser la respiración más apresurado
 - La función ecg_plot facilitó la visualización, haciendo posible el análisis de cambios en la morfología de las ondas bajo diferentes condiciones.
 ## **Conclusiones** <a name="id6">
-   - 
-   - 
-   - 
+   - Se filtraron y procesaron correctamente las señales de ECG usando NeuroKit2, mejorando su calidad para facilitar el análisis y reducir el ruido presente en las señales originales.
+   - Se extrajeron y evaluaron características importantes de las señales, como los picos R, que fueron identificados con precisión, permitiendo analizar la frecuencia cardíaca y su variabilidad.
+   - Se calculó la variabilidad de la frecuencia cardíaca (HRV) en diferentes condiciones, lo que mostró cambios relevantes en el ritmo cardíaco según cada estado, ayudando a entender mejor las variaciones en la señal ECG.
 
 ## **Archivos** 
 - [Documentos (.txt)](https://github.com/DianaCortezL/ISB-Grupo-5/tree/7c6ef550649274b69b6c0ab7dcd442e831e8bcb9/Otros/Archivos_varios/Lab5_ECG)
