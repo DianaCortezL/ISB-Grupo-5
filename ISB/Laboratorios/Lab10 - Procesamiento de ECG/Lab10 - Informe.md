@@ -187,7 +187,8 @@ Finalmente, se empleó la función ecg_plot para visualizar las señales de ECG 
 
 ## **Discusión**
 - La frecuencia cardiaca fue similar en reposo y luego de sostener la respiración por 10 segundos, pero varió significativamente al realizar un ejercicio.
--  
+- La HRV MeanNN y SDNN son mayores en reposo y al contener la respiración por 10s, y menores después del ejercicio. Esto sugiere que la actividad física disminuye la variabilidad de la frecuencia cardíaca y a su vez disminuye el periodo entree picos al ser la respiración más apresurado
+- La función ecg_plot facilitó la visualización, haciendo posible el análisis de cambios en la morfología de las ondas bajo diferentes condiciones.
 ## **Conclusiones** <a name="id6">
    - 
    - 
