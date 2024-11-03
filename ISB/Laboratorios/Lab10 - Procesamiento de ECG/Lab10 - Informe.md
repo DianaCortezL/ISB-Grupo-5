@@ -29,8 +29,30 @@
 </div>
 
 ## **Metodología** <a name="id4"></a>
+Para el procesamiento de señales de ECG, se utilizó la librería neurokit2 en Python, con un flujo de trabajo estructurado en varias etapas que incluye la limpieza, el pre-procesamiento y el análisis de las señales. Para ello, se analizaron la primera derivación de 3 señales ECG obtenidas en laboratorios anteriores
+- Señal ECG en reposo
+- Señal ECG obtenida mientas la persona mantiene la respiración por 10 segundos
+- Señal ECG después de realizar una actividad física
 
+A continuación, se describe cada paso seguido en este proceso, detallando las funciones empleadas y su propósito.
 
+**1. Carga y Preprocesamiento de la Señal**\
+Inicialmente, se procedió a cargar las señales de ECG a procesar. En esta etapa, se buscó garantizar la calidad de las señales mediante el preprocesamiento para reducir artefactos y ruido, facilitando la identificación de eventos relevantes en la señal.
+
+**2. Limpieza de la Señal con ecg_clean**\
+La primera función aplicada fue **ecg_clean**, diseñada específicamente para filtrar y mejorar la calidad de las señales de ECG mediante algoritmos de limpieza. Esta función elimina el ruido y los artefactos comunes en las señales de ECG, como los artefactos por movimiento o el ruido de la línea de base, que podrían afectar la detección precisa de los picos R y otros eventos. La función admite varios tipos de filtros (por ejemplo, Butterworth y Wavelet), y la elección se ajustó para maximizar la calidad de la señal dependiendo de las características específicas de la señal. En este laboratorio se utilizó el **método neurokit el cual consiste en un filtro Butterworth paso alto de 0,5 Hz (orden = 5), seguido de filtrado de línea eléctrica**. 
+
+**3. Procesamiento Completo de la Señal con ecg_process**\
+La función **ecg_process** se utilizó a continuación para realizar el procesamiento completo de la señal de ECG. Esta función integra varios pasos, como la detección de picos y la extracción de características, permitiendo realizar un análisis en profundidad de la señal. ecg_process realiza una detección automática de los picos R y calcula intervalos como el RR, fundamentales para analizar el ritmo cardíaco y otras características fisiológicas. Esta función permitió obtener características como: ECG_Quality, ECG_R_Peaks, ECG_P_Peaks, ECG_Q_Peaks, ECG_S_Peaks, ECG_T_Peaks.
+
+**4. Identificación de los Picos R con ecg_peaks**\
+La función ecg_peaks se aplicó a la señal procesada para identificar los picos R, que son los puntos más prominentes en una señal de ECG y corresponden a la despolarización ventricular. Los picos R son cruciales en el análisis de ECG porque se utilizan para calcular la frecuencia cardíaca y variabilidad del ritmo cardíaco (HRV). Se utilizó el método neurokit donde los complejos QRS se detectan en función de la pendiente del gradiente absoluto de la señal del ECG. Posteriormente, los picos R se detectan como máximos locales en los complejos QRS.
+
+**5. Análisis de la Señal con ecg_analyze**\
+Con los picos R identificados, se utilizó la función ecg_analyze para llevar a cabo un análisis completo de la señal de ECG. Esta función permite obtener parámetros y métricas relevantes, como la frecuencia cardíaca media, la desviación estándar de los intervalos RR (HRV - Heart rate variability)
+
+**6. Visualización de la Señal con ecg_plot**\
+Finalmente, se empleó la función ecg_plot para visualizar las señales de ECG y los eventos detectados. Esta función permite graficar la señal en el tiempo y resaltar los picos R, proporcionando una representación gráfica de los datos procesados, lo cual facilita la verificación visual del procesamiento y la limpieza de la señal. Además, de ploteo la señales ECG en papel para electrocardiograma
 
 ## **Resultados** <a name="id5"></a>
 **Reposo (Derivación Bipolar I)**
