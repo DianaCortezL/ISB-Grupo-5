@@ -58,7 +58,7 @@
   - **Ploteo de la señal ECG usando ecg_plot()**
     <p align="justify">
     <p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_analyze1.png" width="520" height="320"></p>
-    <div align="center">Figura 4: Ploeto de la señal ECG en reposo usando la función ecg_plot() de Neurokit2</i></div>
+    <div align="center">Figura 4: Ploeto de la señal ECG en reposo usando la función ecg_plot()</i></div>
     </p>
 
     <p align="justify">
