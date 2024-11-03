@@ -55,7 +55,7 @@
     |       ECG_Rate Mean (bpm)  |      49.57   | 
     | HRV_MeanNN |  1409.88 ms | 
     | HRV_SDNN |   672.76 ms |
-    <div align="center"> Tabla 2: Materiales y equipos</i></div>
+    <div align="center"> Tabla 2: Obtención del HRV</i></div>
     
     </div>
 
@@ -98,7 +98,7 @@
     |       ECG_Rate Mean (bpm)  |      41.98   | 
     | HRV_MeanNN |  1581.29 ms | 
     | HRV_SDNN |   781.31 ms |
-    <div align="center"> Tabla 3: Materiales y equipos</i></div>
+    <div align="center"> Tabla 3: Obtención del HRV</i></div>
     
     </div>
   
@@ -142,7 +142,7 @@
     |       ECG_Rate Mean (bpm)  |      62.44   | 
     | HRV_MeanNN |  989.31 ms | 
     | HRV_SDNN |  358.57 ms |
-    <div align="center"> Tabla 4: Materiales y equipos</i></div>
+    <div align="center"> Tabla 4:Obtención del HRV</i></div>
     
     </div>
 
