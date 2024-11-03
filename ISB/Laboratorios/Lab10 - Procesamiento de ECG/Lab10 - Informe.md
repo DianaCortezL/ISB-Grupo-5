@@ -164,7 +164,8 @@
     </p>
 
 ## **Discusión**
-
+- La frecuencia cardiaca fue similar en reposo y luego de sostener la respiración por 10 segundos, pero varió significativamente al realizar un ejercicio.
+-  
 ## **Conclusiones** <a name="id6">
    - 
    - 
