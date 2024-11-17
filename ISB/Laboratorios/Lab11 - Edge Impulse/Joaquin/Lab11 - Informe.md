@@ -86,7 +86,6 @@ Los datos en formato .csv se ecuentran en la siguiente carpeta: [Datos_ECG_csv_J
 <div align="center">Figura 1: Conversión de .txt a .csv</i></div>
 </p>
 
-
 ## **Archivo modelo CSV WIZARD** 
 
 ## **Subida de datos a Ede Impulse** 
