@@ -118,10 +118,17 @@ Los datos en formato .csv se ecuentran en la siguiente carpeta: [Datos_ECG_csv_J
     }
 }
 ```
-## **Subida de datos a Ede Impulse** 
+## **Subida de datos a Edge Impulse** 
 ‌Luego de haber realizado la configuración del CSV WIZARD, se procedió a subir los archivos. Para esto, se agruparon los archivos en 5 etiqutas: EJERCICIO, POSTRESPIRACION, REPOSO, RESPIRACION y SIMULADOR. En la Fig. 3 se observa la clasificación de las señales en base a la actividad realizada.
 
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/ea53e2bb281935420fe7d062eae1931f878dbb76/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/Img2.png width="600" height="300"></p>
-<div align="center">Figura 3: proyecto creado en Edge Impulse </i></div>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/19712214149414ae42c598dc2076d3ab74b77ebf/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/img3.png width="600" height="500"></p>
+<div align="center">Figura 3: dataset filter </i></div>
+</p>
+
+Se realizaron movimientos de los datos entre Training y Set para obtener un mejor Dataset train / test split ratio. Finalmente, el data set que se generó se observa en la Fig. 4. Observamos que se obtuvo un ratio de 71%/29% lo cual es un modelo adecuado y preciso. 
+
+<p align="justify">
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/cabe4950d5a5b0086a2a01962b1a039bde012879/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/img4.png width="700" height="300"></p>
+<div align="center">Figura 4: dataset final </i></div>
 </p>
