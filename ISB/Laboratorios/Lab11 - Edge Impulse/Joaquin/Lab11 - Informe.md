@@ -87,6 +87,41 @@ Los datos en formato .csv se ecuentran en la siguiente carpeta: [Datos_ECG_csv_J
 </p>
 
 ## **Archivo modelo CSV WIZARD** 
+1. Se procedió a crear el proyecto en Edge Impulse
+<p align="justify">
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/ea53e2bb281935420fe7d062eae1931f878dbb76/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/Img2.png width="600" height="300"></p>
+<div align="center">Figura 2: proyecto creado en Edge Impulse </i></div>
+</p>
 
+2. Se realizó la configuración de CSV WIZARD
+```json
+{
+    "version": 1,
+    "fileName": "reposoD1.csv",
+    "created": 1731794829040,
+    "delimiter": ";",
+    "skipFirstLines": 0,
+    "fixedHeader": [
+        "Unnamed 1",
+        "Unnamed 2"
+    ],
+    "spec": {
+        "type": "timeseries-row",
+        "valueColumns": [
+            "Unnamed 2"
+        ],
+        "timestamp": {
+            "type": "fixed-frequency",
+            "frequency": 1000
+        },
+        "limitSampleLengthMs": 20000
+    }
+}
+```
 ## **Subida de datos a Ede Impulse** 
-‌
+‌Luego de haber realizado la configuración del CSV WIZARD, se procedió a subir los archivos. Para esto, se agruparon los archivos en 5 etiqutas: EJERCICIO, POSTRESPIRACION, REPOSO, RESPIRACION y SIMULADOR. En la Fig. 3 se observa la clasificación de las señales en base a la actividad realizada.
+
+<p align="justify">
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/ea53e2bb281935420fe7d062eae1931f878dbb76/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/Img2.png width="600" height="300"></p>
+<div align="center">Figura 3: proyecto creado en Edge Impulse </i></div>
+</p>
