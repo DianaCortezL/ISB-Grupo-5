@@ -81,6 +81,12 @@ procesar_carpeta_txt_a_csv(input_folder, output_folder)
 
 
 
+<p align="justify">
+<p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_clean1.png" width="520" height="320"></p>
+<div align="center">Figura 1: Conversión de .txt a .csv</i></div>
+</p>
+
+
 ## **Archivo modelo CSV WIZARD** 
 
 ## **Subida de datos a Ede Impulse** 
