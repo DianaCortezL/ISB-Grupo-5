@@ -79,10 +79,10 @@ output_folder =  "C:/Users/Joaquin/Desktop/datos_ECG_csv"
 procesar_carpeta_txt_a_csv(input_folder, output_folder)
 ```
 
-
+Los datos en formato .csv se ecuentran en la siguiente carpeta: [Datos_ECG_csv_Joaquin](https://github.com/DianaCortezL/ISB-Grupo-5/tree/cf42105267383d59ea5dced92c8e2cb5bea2d2cb/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Datos_ECG_csv_Joaquin)
 
 <p align="justify">
-<p align="center"><img src="../../../Otros/Imagenes/Lab10/ecg_clean1.png" width="520" height="320"></p>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/cf42105267383d59ea5dced92c8e2cb5bea2d2cb/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/Img1.png width="600" height="300"></p>
 <div align="center">Figura 1: Conversión de .txt a .csv</i></div>
 </p>
 
