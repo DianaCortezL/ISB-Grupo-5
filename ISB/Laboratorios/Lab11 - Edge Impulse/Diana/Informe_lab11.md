@@ -92,8 +92,7 @@ De esta manera los datos pasan a verse en csv
 <div align="center">Figura 1: Conversión a .csv</i></div>
 </p>
 
-## **Archivo modelo CSV WIZARD** 
-1. Se procedió a crear el proyecto en Edge Impulse
+2.  Creo sesión y proyecto en Edge Impulse
 <p align="justify">
 <p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/ea53e2bb281935420fe7d062eae1931f878dbb76/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/Img2.png width="600" height="300"></p>
 <div align="center">Figura 2: proyecto creado en Edge Impulse </i></div>
