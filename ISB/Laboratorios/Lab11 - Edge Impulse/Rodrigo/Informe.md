@@ -76,3 +76,29 @@ procesar_carpeta_txt_a_csv(input_folder, output_folder)
 ```
 2. **Configuración de CSV Wizard:** A continuación se presenta la configuración realizada en la plataforma Edge Impulse en el apartado "CSV Wizard".
 ```json
+{
+    "version": 1,
+    "fileName": "EjercicioD1.csv",
+    "created": 1731896077701,
+    "delimiter": ";",
+    "skipFirstLines": 0,
+    "fixedHeader": [
+        "Unnamed 1",
+        "Unnamed 2"
+    ],
+    "spec": {
+        "type": "timeseries-row",
+        "valueColumns": [
+            "Unnamed 2"
+        ],
+        "timestamp": {
+            "type": "fixed-frequency",
+            "frequency": 1000
+        },
+        "limitSampleLengthMs": 20000
+    }
+}
+```
+3.**Subida de data a Edge Impulse:**
+Se procedió a subir todos los archivos previamente convertidos a formato .csv.
+
