@@ -133,7 +133,7 @@ De esta manera los datos pasan a verse en csv
 4.. Se editó la ubicación de los datos entre training set y test set hasta llegar al rango adecuado
 
 <p align="justify">
-<p align="center"><img src= width="600" height="500"></p>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/afc708aa64898b6d93ef21135d8cc937607856bc/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Diana/Imagenes/Datos_edge_impulse.png width="600" height="500"></p>
 <div align="center">Figura 3: Dataset filter</i></div>
 </p>
 
