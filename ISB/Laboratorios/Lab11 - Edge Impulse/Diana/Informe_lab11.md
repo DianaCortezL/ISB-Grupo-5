@@ -88,7 +88,7 @@ Los datos en formato .csv se ecuentran en la siguiente carpeta: C:\Users\diana\O
 
 De esta manera los datos pasan a verse en csv
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/cf42105267383d59ea5dced92c8e2cb5bea2d2cb/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Diana/Imagenes/datos_en_csv.png width="600" height="300"></p>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Diana/Imagenes/datos_en_csv.png width="600" height="300"></p>
 <div align="center">Figura 1: Conversión a .csv</i></div>
 </p>
 
