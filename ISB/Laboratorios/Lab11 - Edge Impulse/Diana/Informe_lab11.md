@@ -94,16 +94,17 @@ De esta manera los datos pasan a verse en csv
 
 2.  Creo sesión y proyecto en Edge Impulse
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/ea53e2bb281935420fe7d062eae1931f878dbb76/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/Img2.png width="600" height="300"></p>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/b75790883d68dc8f2926c159f27c284642512e96/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Diana/Imagenes/Sesi%C3%B3n_y_proyecto.png width="600" height="300"></p>
 <div align="center">Figura 2: proyecto creado en Edge Impulse </i></div>
 </p>
 
-2. Se realizó la configuración de CSV WIZARD
+2. Configuración usada:
+
 ```json
 {
     "version": 1,
-    "fileName": "reposoD1.csv",
-    "created": 1731794829040,
+    "fileName": "postRespD1.csv",
+    "created": 1731896078906,
     "delimiter": ";",
     "skipFirstLines": 0,
     "fixedHeader": [
@@ -123,11 +124,16 @@ De esta manera los datos pasan a verse en csv
     }
 }
 ```
-## **Subida de datos a Edge Impulse** 
-‌Luego de haber realizado la configuración del CSV WIZARD, se procedió a subir los archivos. Para esto, se agruparon los archivos en 5 etiqutas: EJERCICIO, POSTRESPIRACION, REPOSO, RESPIRACION y SIMULADOR. En la Fig. 3 se observa la clasificación de las señales en base a la actividad realizada.
+3. Se subieron los datos y se dividieron en las siguientes etiquetas:
+   3.1. Ejercicio
+   3.2. Post-Resp
+   3.3. Reposo
+   3.4. SIM
+   
+4.. Se editó la ubicación de los datos entre training set y test set hasta llegar al rango adecuado
 
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/19712214149414ae42c598dc2076d3ab74b77ebf/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/img3.png width="600" height="500"></p>
+<p align="center"><img src= width="600" height="500"></p>
 <div align="center">Figura 3: Dataset filter</i></div>
 </p>
 
