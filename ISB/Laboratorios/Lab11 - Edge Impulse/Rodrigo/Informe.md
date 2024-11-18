@@ -7,7 +7,7 @@ Link del proyecto de Edge Impulse: https://studio.edgeimpulse.com/public/560551/
 Para el desarrollo de este laboratorio es necesario el uso de la interfaz Edge Impulse, los datos a analizar son correspondientes a señales ECG obtenidos mediante Bitalino en los laboratorios pasados. Para el análisis de datos se tomó en cuenta las siguientes características: Estado Basal, Manteniendo la respiración, Post-Respiración, Post-Ejercicio y datos obtenidos mediante un simulador.
 
 ## **Procedimiento** 
-1. **Conversión de archivos .txt a .csv:**
+1. **Conversión de archivos .txt a .csv:** Se hizo uso de un código de Python el cual convirtió los archivos descargados en formato .txt a .csv, adicionalmente filtró las columnas con información relevante.
 
 
 ```python
@@ -68,9 +68,11 @@ def procesar_carpeta_txt_a_csv(input_folder, output_folder):
             print(f"Error al procesar {txt_file}: {e}")
 
 # Rutas de las carpetas de entrada y salida
-input_folder = "C:/Users/Joaquin/Desktop/Lab5_ECG"
-output_folder =  "C:/Users/Joaquin/Desktop/datos_ECG_csv"
+input_folder = "C:/Users/hp/Desktop/Lab5_ECG"
+output_folder =  "C:/Users/hp/Desktop/datos_ECG_csv"
 
 # Llamar a la función para procesar los archivos
 procesar_carpeta_txt_a_csv(input_folder, output_folder)
 ```
+2. **Configuración de CSV Wizard:** A continuación se presenta la configuración realizada en la plataforma Edge Impulse en el apartado "CSV Wizard".
+```json
