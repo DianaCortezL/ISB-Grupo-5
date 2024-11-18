@@ -98,7 +98,7 @@ De esta manera los datos pasan a verse en csv
 <div align="center">Figura 2: proyecto creado en Edge Impulse </i></div>
 </p>
 
-2. Configuración usada:
+3. Configuración usada:
 
 ```json
 {
@@ -124,27 +124,18 @@ De esta manera los datos pasan a verse en csv
     }
 }
 ```
-3. Se subieron los datos y se dividieron en las siguientes etiquetas:
+4. Se subieron los datos y se dividieron en las siguientes etiquetas:
    3.1. Ejercicio
    3.2. Post-Resp
    3.3. Reposo
    3.4. SIM
    
-4.. Se editó la ubicación de los datos entre training set y test set hasta llegar al rango adecuado
+5. Se editó la ubicación de los datos entre training set y test set hasta llegar al ratio adecuado
 
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/afc708aa64898b6d93ef21135d8cc937607856bc/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Diana/Imagenes/Datos_edge_impulse.png width="600" height="500"></p>
-<div align="center">Figura 3: Dataset filter</i></div>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/afc708aa64898b6d93ef21135d8cc937607856bc/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Diana/Imagenes/Datos_edge_impulse.png width="800" height="500"></p>
+<div align="center">Figura 3: Repartición 80-20</i></div>
 </p>
 
-Se realizaron movimientos de los datos entre Training y Set para obtener un mejor Dataset train / test split ratio. Finalmente, el data set que se generó se observa en la Fig. 4. Observamos que se obtuvo un ratio de 71%/29% lo cual es un modelo adecuado y preciso. 
-
-<p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/cabe4950d5a5b0086a2a01962b1a039bde012879/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/img4.png width="700" height="300"></p>
-<div align="center">Figura 4: Dataset final</i></div>
-</p>
-
-<p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/dbcc927561f270816e193ebfb0772264eab484d2/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/img5.png width="700" height="500"></p>
-<div align="center">Figura 5: Dataset train / test split ratio</i></div>
-</p>
+## **Resultados**  
+Se logró cargar exitosamente el conjunto de datos de ECG en la plataforma Edge Impulse y se obtuvo un buen ratio TRAIN/TEST
