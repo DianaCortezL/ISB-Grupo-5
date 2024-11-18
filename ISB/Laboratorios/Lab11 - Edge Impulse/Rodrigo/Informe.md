@@ -101,4 +101,12 @@ procesar_carpeta_txt_a_csv(input_folder, output_folder)
 ```
 3.**Subida de data a Edge Impulse:**
 Se procedió a subir todos los archivos previamente convertidos a formato .csv.
+<p align="justify">
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/19712214149414ae42c598dc2076d3ab74b77ebf/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/img3.png width="600" height="500"></p>
+<div align="center">Figura 1: Datos en Edge Impulse</i></div>
+</p>
 
+<p align="justify">
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/19712214149414ae42c598dc2076d3ab74b77ebf/ISB/Laboratorios/Lab11%20-%20Edge%20Impulse/Joaquin/Imagenes/img3.png width="600" height="500"></p>
+<div align="center">Figura 2: Relación Training/Test</i></div>
+</p>
