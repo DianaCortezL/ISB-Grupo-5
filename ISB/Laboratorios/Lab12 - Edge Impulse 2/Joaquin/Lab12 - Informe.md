@@ -1,15 +1,9 @@
-# **LABORATORIO 11: DATOS ESTRUCTURADOS / EDGE IMPULSE**
+# **LABORATORIO 112: DATOS ESTRUCTURADOS / EDGE IMPULSE**
 Nombre: Joaquín Miguel Díaz Lara\
 Código: 73707854\
 Link del proyecto de Edge Impulse: https://studio.edgeimpulse.com/public/560046/live  
 
 ## **Metodología** 
-Para este laboratorio se usó la data obtenida en el Laboratorio 5 correspondiente a ECG. Esta data fue obtenida mediante el uso del Bitalinno y luego fue subida a Edge Impulse en formato .csv. Se utilizaron los datos de las tres derivaciones bipolares cuando la persona se ecuentra en:
-- estado basal
-- manteniendo la respiración
-- post respiración
-- después de realizar un ejercicio
-- simulador prosim
 
 ## **Convertir datos .txt a .csv** 
 Dado que Edge Impulse no acepta datos en formato .txt se ha tenido que convertir los datos a .csv. Para ello se implentó un código en python que realice este procedimiento. Cada línea se procesa y se elimina espacios en blanco y saltos de línea al principio y al final. Además, se divide la línea en columnas usando el carácter de tabulación (\t) como separador. El código procesa una carpeta que contiene varios archivos .txt, extrae datos específicos de cada archivo y guarda el resultado en una nueva carpeta como archivos .csv. En total se obtuvo 16 archivos .csv. A continuación, se muestra el código utilizado: 
