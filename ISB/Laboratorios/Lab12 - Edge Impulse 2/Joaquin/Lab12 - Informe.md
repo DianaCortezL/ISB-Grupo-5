@@ -7,7 +7,7 @@ Link del proyecto de Edge Impulse: https://studio.edgeimpulse.com/public/560046/
 El proceso de creación de un impulse design en Edge Impulse implica varios pasos clave que permiten desarrollar un modelo eficiente para tareas de clasificación basadas en datos de sensores. 
 
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/d960c3c26e7dd5ecaafd6162ae07024401214b5b/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Par%C3%A1metros.png width="600" height="300"></p>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/73bcec116dde0d132c061c9f8c02eeaefbf6196a/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Dataset.png width="600" height="300"></p>
 <div align="center">Figura 1: Dataset</i></div>
 </p>
 
@@ -57,7 +57,7 @@ En este paso, el bloque de aprendizaje automático se configura para entrenar un
 Tras el entrenamiento inicial, el modelo puede requerir ajustes para mejorar su precisión o robustez. En esta etapa se analizan las métricas del modelo, como la precisión, el recall y la matriz de confusión, para identificar posibles áreas de mejora. Si el desempeño es insuficiente, se pueden reconfigurar los parámetros del impulse o recolectar más datos para mejorar el balance entre las clases. Finalmente, el modelo se reentrena utilizando el conjunto optimizado de datos y configuraciones. Este flujo iterativo garantiza que el diseño del impulse se adapte a las características únicas de los datos y las necesidades del proyecto, logrando un modelo eficiente y listo para implementación en dispositivos de borde (edge devices).
 
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/8417ddced3b4454b3c1553d262f771786c9c4a44/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Data%20explorer.png width="600" height="300"></p>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/73bcec116dde0d132c061c9f8c02eeaefbf6196a/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Retrain.png width="600" height="300"></p>
 <div align="center">Figura 8: Retrain</i></div>
 </p>
 
