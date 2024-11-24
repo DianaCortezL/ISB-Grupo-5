@@ -66,3 +66,14 @@ Tras el entrenamiento inicial, el modelo puede requerir ajustes para mejorar su 
 <p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/0c6cf3831aa3e8aa437927e5d2bc63ffd0f71b1c/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Model%20testing.png width="600" height="700"></p>
 <div align="center">Figura 9: Model Testing</i></div>
 </p>
+
+El modelo desarrollado alcanzó un 68.31% de accuracy en la etapa de model testing, lo que indica un desempeño moderado pero no óptimo en la clasificación de los datos. Este resultado sugiere que el modelo tiene limitaciones para distinguir correctamente entre las clases objetivo, especialmente en los casos correspondientes a las categorías de postrespiración y respiración, donde se observaron porcentajes elevados de incertidumbre del 68.8% y 75.6%, respectivamente.
+
+Los porcentajes de incertidumbre en estas clases indican que el modelo no está seguro al tomar decisiones para estas categorías. Esto puede deberse a:
+- Características similares o superpuestas entre las clases de postrespiración y respiración, lo que dificulta la diferenciación por parte del modelo.
+- Datos insuficientes o no representativos en el conjunto de entrenamiento, especialmente para estas clases específicas.
+- Configuraciones subóptimas en el bloque de procesamiento o el clasificador del impulse design, como parámetros de características espectrales que no capturan de manera efectiva los patrones relevantes.
+
+Recomendaciones para mejorar el desempeño:
+- Ampliar el conjunto de datos: Recolectar más datos para las clases de postrespiración y respiración con mayor variabilidad para capturar mejor sus patrones distintivos.
+- Asegurar un balance adecuado entre las clases para evitar sesgos en el modelo.
