@@ -4,7 +4,14 @@ Código: 73707854\
 Link del proyecto de Edge Impulse: https://studio.edgeimpulse.com/public/560046/live  
 
 ## **Metodología** 
-El proceso de creación de un impulse design en Edge Impulse implica varios pasos clave que permiten desarrollar un modelo eficiente para tareas de clasificación basadas en datos de sensores. A continuación, se describe la metodología para implementar este diseño, incluyendo las etapas de creación del impulso, extracción de características espectrales, configuración del clasificador y reentrenamiento del modelo:
+El proceso de creación de un impulse design en Edge Impulse implica varios pasos clave que permiten desarrollar un modelo eficiente para tareas de clasificación basadas en datos de sensores. 
+
+<p align="justify">
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/d960c3c26e7dd5ecaafd6162ae07024401214b5b/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Par%C3%A1metros.png width="600" height="300"></p>
+<div align="center">Figura 1: Dataset</i></div>
+</p>
+
+A continuación, se describe la metodología para implementar este diseño, incluyendo las etapas de creación del impulso, extracción de características espectrales, configuración del clasificador y reentrenamiento del modelo:
 
 **1. Creación del Impulse**\
 El primer paso en la plataforma Edge Impulse consiste en definir la estructura básica del impulse, que es la secuencia de operaciones que transforma los datos en una predicción. Se modificó el window size, el window increase y se añadió un processing block de Spectral Analyssis y un learning block de Classification. 
@@ -32,17 +39,17 @@ En este paso, el bloque de aprendizaje automático se configura para entrenar un
 
 <p align="justify">
 <p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/d960c3c26e7dd5ecaafd6162ae07024401214b5b/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Neural%20Netwok%20Settings.png
- width="600" height="300"></p>
+ width="600" height="500"></p>
 <div align="center">Figura 5: Parámetros del Classifier (Neural Network Settings) </i></div>
 </p>
 
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/8417ddced3b4454b3c1553d262f771786c9c4a44/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Model.png width="600" height="300"></p>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/8417ddced3b4454b3c1553d262f771786c9c4a44/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Model.png width="600" height="500"></p>
 <div align="center">Figura 6: Model </i></div>
 </p>
 
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/8417ddced3b4454b3c1553d262f771786c9c4a44/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Data%20explorer.png width="600" height="300"></p>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/8417ddced3b4454b3c1553d262f771786c9c4a44/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Data%20explorer.png width="600" height="500"></p>
 <div align="center">Figura 7: Data explorer</i></div>
 </p>
 
@@ -55,5 +62,7 @@ Tras el entrenamiento inicial, el modelo puede requerir ajustes para mejorar su 
 </p>
 
 **5.Model testing**\
-
-
+<p align="justify">
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/8417ddced3b4454b3c1553d262f771786c9c4a44/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Data%20explorer.png width="600" height="300"></p>
+<div align="center">Figura 9: Model Testing</i></div>
+</p>
