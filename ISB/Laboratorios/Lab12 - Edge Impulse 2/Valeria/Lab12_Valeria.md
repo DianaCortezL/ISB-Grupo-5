@@ -1,4 +1,4 @@
-# **LABORATORIO 11: EDGE IMPULSE - DATA ECG**
+# **LABORATORIO 12: EDGE IMPULSE - IMPULSE DESIGN**
 Nombre: Alejandra Valeria Chávez Yaranga\
 Código: 72754108\
 Link del proyecto de Edge Impulse: https://studio.edgeimpulse.com/public/560503/live
