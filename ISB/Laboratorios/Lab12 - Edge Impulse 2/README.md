@@ -1,5 +1,1 @@
-Jorge : https://studio.edgeimpulse.com/public/558234/live
-Valeria : 
-Rodrigo :
-Diana : 
-Joaquín : 
+Laboratorio 12 Edge Impulse 2
