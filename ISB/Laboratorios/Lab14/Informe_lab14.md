@@ -1,6 +1,6 @@
 # **LABORATORIO 14: EDGE IMPULSE - ATOM MATRIX**
-Nombres: Rodrigo Llacchua Inocente y Joaquín Díaz Lara (73707854)\
-Link del proyecto de Edge Impulse:
+Nombres: Rodrigo Llacchua Inocente (74285456) y Joaquín Díaz Lara (73707854)\
+Link del proyecto de Edge Impulse:https://studio.edgeimpulse.com/public/574717/live\
 
 ## **Metodología** 
 Para este informe de laboratorio, se utilizó el acelerómetro integrado en el ATOM Matrix como dispositivo principal para la adquisición de datos relacionados con movimientos simples. Se empleó un código desarrollado en Arduino para la configuración del dispositivo y la recolección de datos en tiempo real, los cuales fueron procesados posteriormente con la plataforma Edge Impulse para entrenar un modelo de predicción de movimientos.
