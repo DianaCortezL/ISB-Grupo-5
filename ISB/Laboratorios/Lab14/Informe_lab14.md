@@ -65,7 +65,9 @@ El primer paso en la plataforma Edge Impulse consiste en definir la estructura b
 </p>
 
 **3. Resultados**
+Para los resultados se usó un celular y el giroscopio del mismo. Se hicieron los mismos resultados y estos se muestran en la Figura 6.
+
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/0c6cf3831aa3e8aa437927e5d2bc63ffd0f71b1c/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Model%20testing.png width="600" height="700"></p>
-<div align="center">Figura 9: Model Testing</i></div>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/077ee02525bb7b5d9f46375754769e5b143e0831/ISB/Laboratorios/Lab14/Resultados.jpg width="600" height="900"></p>
+<div align="center">Figura 6: Resultados usando un celular</i></div>
 </p>
