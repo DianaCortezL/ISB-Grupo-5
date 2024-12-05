@@ -1,16 +1,26 @@
 # **LABORATORIO 14: EDGE IMPULSE - ATOM MATRIX**
-Nombres: RJoaquín Díaz Lara\
-Link del proyecto de Edge Impulse: https://studio.edgeimpulse.com/public/560046/live  
+Nombres: Rodrigo Llacchua Inocente y Joaquín Díaz Lara (73707854)\
+Link del proyecto de Edge Impulse:
 
 ## **Metodología** 
-El proceso de creación de un impulse design en Edge Impulse implica varios pasos clave que permiten desarrollar un modelo eficiente para tareas de clasificación basadas en datos de sensores. 
+Para este informe de laboratorio, se utilizó el acelerómetro integrado en el ATOM Matrix como dispositivo principal para la adquisición de datos relacionados con movimientos simples. Se empleó un código desarrollado en Arduino para la configuración del dispositivo y la recolección de datos en tiempo real, los cuales fueron procesados posteriormente con la plataforma Edge Impulse para entrenar un modelo de predicción de movimientos.
+
+El procedimiento comenzó con la programación del ATOM Matrix utilizando el entorno de desarrollo Arduino. El código incluyó configuraciones específicas para acceder a los datos del acelerómetro, habilitando la lectura de los valores en los ejes X, Y y Z. Estos valores fueron capturados a una frecuencia constante, permitiendo registrar patrones precisos de los movimientos realizados.
+
+Se definieron cuatro movimientos específicos que serían la base para el entrenamiento del modelo: movimiento1, movimiento 2, movimiento 3, y movimiento 4. Cada movimiento fue ejecutado por diferentes personas y tuvieron una duración de 10 segundos.
+- Movimiento 1: Arriabajo, mover el ATOM de arriba a abajo
+- Movimiento 2: Laditos
+- Movimiento 3: Circulito
+- Movimiento 4: Profundito
+
+Los datos obtenidos del acelerómetro fueron enviados en tiempo real a una computadora. Una vez recopilados, se procesaron en un formato compatible con Edge Impulse, asegurando que cada conjunto de datos estuviera etiquetado correctamente de acuerdo con el tipo de movimiento correspondiente. En la plataforma Edge Impulse, se utilizaron estos datos para entrenar un modelo de aprendizaje automático. El proceso incluyó la selección de características relevantes a partir de los datos del acelerómetro, la configuración de parámetros del modelo, y el entrenamiento del mismo con los datos etiquetados. Una vez finalizado el entrenamiento, se evaluó el modelo utilizando un conjunto de datos nuevo y previamente no visto, también capturado con el ATOM Matrix.
+
+Finalmente, se validó el sistema mediante pruebas en las que se replicaron los movimientos originales y se compararon las predicciones del modelo con los movimientos realizados. Este enfoque integró el uso del ATOM Matrix como herramienta de adquisición de datos y la plataforma Edge Impulse para el desarrollo de modelos predictivos.
 
 <p align="justify">
 <p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/73bcec116dde0d132c061c9f8c02eeaefbf6196a/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Dataset.png width="600" height="300"></p>
-<div align="center">Figura 1: Dataset</i></div>
+<div align="center">Figura 1: ATOM Matrix</i></div>
 </p>
-
-A continuación, se describe la metodología para implementar este diseño, incluyendo las etapas de creación del impulso, extracción de características espectrales, configuración del clasificador y reentrenamiento del modelo:
 
 **1. Creación del Impulse**\
 El primer paso en la plataforma Edge Impulse consiste en definir la estructura básica del impulse, que es la secuencia de operaciones que transforma los datos en una predicción. Se modificó el window size, el window increase y se añadió un processing block de Spectral Analyssis y un learning block de Classification. 
