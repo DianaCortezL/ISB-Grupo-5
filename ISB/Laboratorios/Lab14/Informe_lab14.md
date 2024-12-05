@@ -13,25 +13,24 @@ Se definieron cuatro movimientos específicos que serían la base para el entren
 - Movimiento 3: Circulito
 - Movimiento 4: Profundito
 
-Los datos obtenidos del acelerómetro fueron enviados en tiempo real a una computadora. Una vez recopilados, se procesaron en un formato compatible con Edge Impulse, asegurando que cada conjunto de datos estuviera etiquetado correctamente de acuerdo con el tipo de movimiento correspondiente. En la plataforma Edge Impulse, se utilizaron estos datos para entrenar un modelo de aprendizaje automático. El proceso incluyó la selección de características relevantes a partir de los datos del acelerómetro, la configuración de parámetros del modelo, y el entrenamiento del mismo con los datos etiquetados. Una vez finalizado el entrenamiento, se evaluó el modelo utilizando un conjunto de datos nuevo y previamente no visto, también capturado con el ATOM Matrix.
+Los datos obtenidos del acelerómetro fueron enviados en tiempo real a una computadora. Una vez recopilados, se procesaron en un formato compatible con Edge Impulse, asegurando que cada conjunto de datos estuviera etiquetado correctamente de acuerdo con el tipo de movimiento correspondiente. En la plataforma Edge Impulse, se utilizaron estos datos para entrenar un modelo de aprendizaje automático. Una vez finalizado el entrenamiento, se evaluó el modelo utilizando un conjunto de datos nuevo del celular.
 
 Finalmente, se validó el sistema mediante pruebas en las que se replicaron los movimientos originales y se compararon las predicciones del modelo con los movimientos realizados. Este enfoque integró el uso del ATOM Matrix como herramienta de adquisición de datos y la plataforma Edge Impulse para el desarrollo de modelos predictivos.
 
 <p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/73bcec116dde0d132c061c9f8c02eeaefbf6196a/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Dataset.png width="600" height="300"></p>
+<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/c6227ed841c5991c00b529a5d2c5a4671ece2fbf/ISB/Laboratorios/Lab14/ATOM.jpeg width="400" height="250"></p>
 <div align="center">Figura 1: ATOM Matrix</i></div>
 </p>
 
-**1. Creación del Impulse**\
+**1. Código en Arduino**\
+
+**2. Edge impulse**\
 El primer paso en la plataforma Edge Impulse consiste en definir la estructura básica del impulse, que es la secuencia de operaciones que transforma los datos en una predicción. Se modificó el window size, el window increase y se añadió un processing block de Spectral Analyssis y un learning block de Classification. 
 
 <p align="justify">
 <p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/d960c3c26e7dd5ecaafd6162ae07024401214b5b/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Create%20Impulse.png width="600" height="300"></p>
 <div align="center">Figura 2: Create impulse </i></div>
 </p>
-
-**2. Spectral Features**\
-Una vez creado el impulso, el siguiente paso es configurar el bloque de procesamiento para calcular las características espectrales. Esto es particularmente útil cuando se trabaja con datos de señales, como audio o vibraciones. Se ajustaron los parámetros de FFT length y se activó el log of spectrum y Overlap FFT frames. Se realizó una previsualización para verificar que las características generadas capturan correctamente las propiedades clave de los datos.
 
 <p align="justify">
 <p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/d960c3c26e7dd5ecaafd6162ae07024401214b5b/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Par%C3%A1metros.png width="600" height="300"></p>
@@ -42,9 +41,6 @@ Una vez creado el impulso, el siguiente paso es configurar el bloque de procesam
 <p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/d960c3c26e7dd5ecaafd6162ae07024401214b5b/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Generate%20features.png width="600" height="300"></p>
 <div align="center">Figura 4: Generate features </i></div>
 </p>
-
-**3.Classifier**\
-En este paso, el bloque de aprendizaje automático se configura para entrenar un clasificador que pueda distinguir entre las diferentes clases de los datos: EJERCICIO, POST RESPIRACIÓN, REPOSO, RESPIRACIÓN Y SIMULADOR.
 
 <p align="justify">
 <p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/d960c3c26e7dd5ecaafd6162ae07024401214b5b/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Neural%20Netwok%20Settings.png
@@ -60,14 +56,6 @@ En este paso, el bloque de aprendizaje automático se configura para entrenar un
 <p align="justify">
 <p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/8417ddced3b4454b3c1553d262f771786c9c4a44/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Data%20explorer.png width="600" height="500"></p>
 <div align="center">Figura 7: Data explorer</i></div>
-</p>
-
-**4.Retrain**\
-Tras el entrenamiento inicial, el modelo puede requerir ajustes para mejorar su precisión o robustez. En esta etapa se analizan las métricas del modelo, como la precisión, el recall y la matriz de confusión, para identificar posibles áreas de mejora. Si el desempeño es insuficiente, se pueden reconfigurar los parámetros del impulse o recolectar más datos para mejorar el balance entre las clases. Finalmente, el modelo se reentrena utilizando el conjunto optimizado de datos y configuraciones. Este flujo iterativo garantiza que el diseño del impulse se adapte a las características únicas de los datos y las necesidades del proyecto, logrando un modelo eficiente y listo para implementación en dispositivos de borde (edge devices).
-
-<p align="justify">
-<p align="center"><img src=https://github.com/DianaCortezL/ISB-Grupo-5/blob/73bcec116dde0d132c061c9f8c02eeaefbf6196a/ISB/Laboratorios/Lab12%20-%20Edge%20Impulse%202/Joaquin/Imagenes/Retrain.png width="600" height="200"></p>
-<div align="center">Figura 8: Retrain</i></div>
 </p>
 
 **5.Model testing**
